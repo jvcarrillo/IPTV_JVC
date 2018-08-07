@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
@@ -29,7 +29,7 @@ http://portal.simiptv.com:8001/live/LrWQISrOq0/7i5Qdtmunn/17895.ts
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/95/8d/19/958d19e1-bd30-b636-6d41-f02980c033d5/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="Deportes", BeIN Sport 2 HD (ENGLISH)
 http://portal.simiptv.com:8001/live/LrWQISrOq0/7i5Qdtmunn/17896.ts
 
-#EXTINF:-1  tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes",CDO DEPORTES
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes",CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/http://futbolparatodos.net/wp-content/uploads/2014/03/deportv.jpg" group-title="Deportes", DXTV DEPORTES
@@ -47,7 +47,7 @@ https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Teletrece_Logo_%282016%29.png" group-title="Entretenimiento", Tele 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Teletrece_Logo_%282016%29.png" group-title="Entretenimiento", Tele 13
 http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?johantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
@@ -62,19 +62,19 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", RCN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
-#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Entretenimiento", Panamericana Pe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Entretenimiento", Panamericana Pe
 http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png" group-title="Entretenimiento", Telemundo
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png" group-title="Entretenimiento", Telemundo
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.martinoticias.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="Entretenimiento", TV Marti
@@ -98,10 +98,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/rgc3.png?fit=500%2C300"  group-title="Musica", RCG 3
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png"  group-title="Musica", Telemax Arg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png"  group-title="Musica", Telemax Arg
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png  group-title="Musica", Virgin TV
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png  group-title="Musica", Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
@@ -132,7 +132,7 @@ rtmp://cdn.elsalvadordigital.com/wowtv/wowtv
 
 
 
-#EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-QS2hxqyyDf0/UJc8LS3KvHI/AAAAAAAAFrc/LEkhCuNhyGM/s1600/cnnchile.jpg" group-title="Noticias", CNN Chile [HD] 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QS2hxqyyDf0/UJc8LS3KvHI/AAAAAAAAFrc/LEkhCuNhyGM/s1600/cnnchile.jpg" group-title="Noticias", CNN Chile [HD] 
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 
@@ -157,13 +157,13 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1357.png" group-title="España",13tv
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1357.png" group-title="España",13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="España",24H
+#EXTINF:-1 tvg-logo="" group-title="España",24H
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="España",TV3
+#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="España",TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
 
@@ -177,32 +177,32 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.58ca099958cf2_a.png.5324ca4355112d0398127d724539e1bd.png" group-title="Mexico", Azteca+ Plus
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1  tvg-logo="" group-title="Mexico",Canal 4 Saltillo
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Mexico",Canal 10 Chetumal
+#EXTINF:-1 tvg-logo="" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo=""  group-title="Mexico",TVMas Veracruz
+#EXTINF:-1 tvg-logo=""  group-title="Mexico",TVMas Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
 
 
-#EXTINF:-1  tvg-logo="" group-title="Ingles",DW
+#EXTINF:-1 tvg-logo="" group-title="Ingles",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="Ingles", Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Ingles" ,France 24 (Ingles)
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Ingles" ,France 24 (Ingles)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="Noticias", TRT World (Ingles)
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="Noticias", TRT World (Ingles)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="GEO VPN", TV:Comet
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="GEO VPN", TV:Comet
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
