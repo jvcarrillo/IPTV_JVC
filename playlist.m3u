@@ -139,19 +139,19 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="" group-title="Argentina",Canal 3 Pinamar
+#EXTINF:-1  tvg-logo="" group-title="Argentina", Canal 3 Pinamar
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Argentina",Canal 4 Psadas
+#EXTINF:-1  tvg-logo="" group-title="Argentina", Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Argentina",Canal 5 Telesol
+#EXTINF:-1  tvg-logo="" group-title="Argentina", Canal 5 Telesol
 http://149.56.98.124:9090/hls/telesol.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="Argentina",Canal 9 Comodoro Rivadavia
+#EXTINF:-1  tvg-logo="" group-title="Argentina", Canal 9 Comodoro Rivadavia
 http://live.canalnueve.tv:8082/hls/canal.m3u8
 
-#EXTINF:-1  tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="Argentina",Canal 9 Salta
+#EXTINF:-1  tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="Argentina", Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
