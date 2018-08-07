@@ -10,13 +10,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/espalhafactos.com/wp-content/uploads/2012/04/axn-white.jpg?resize=300%2C163&ssl=1" group-title="Peliculas y Series", AXN WHITE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Peliculas y Series", COMEDY CENTRAL
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
