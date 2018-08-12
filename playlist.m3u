@@ -7,33 +7,36 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2010/06/16/126483/el-chavo-animado-169x169.jpg" group-title="Infantiles", El chavo Animado
-http://tecnotv.xyz/chavo.php
-
-
-
-#EXTINF:-1 tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES" ,-----INFANTILES-----
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/800px-Tooncast_logo.svg.png" group-title="INFANTILES",Tooncast
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2015/11/DisneyJunior_WebsiteLogo-500x250.png" group-title="INFANTILES",Disney Jr
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8 
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/boomerang-logo-BA87C9F751-seeklogo.com.png" group-title="INFANTILES",Boomerang
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTILES",Disney XD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",Cachupum! Tv
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
+
 #EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS Network
 https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://locomotiondeculto.files.wordpress.com/2015/06/locomotion-animestation2.png" group-title="INFANTILES",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8?xtreamiptv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="INFANTILES",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTILES",Paka Paka
 http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8?xtreamiptv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Animax2.png" group-title="INFANTILES", Anime 24/7
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?xtreamiptv.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
 
