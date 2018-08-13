@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="Infantiles",ACS Network
 https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
 
@@ -33,9 +34,9 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="Infantiles",Paka Paka
 http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8?xtreamiptv.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="Infantiles",Trailer Tv Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
+
 
 
 
@@ -59,15 +60,6 @@ http://portal.simiptv.com:8001/live/LrWQISrOq0/7i5Qdtmunn/17896.ts
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes",CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/http://futbolparatodos.net/wp-content/uploads/2014/03/deportv.jpg" group-title="Deportes", DXTV DEPORTES
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WGSkRgham2M/WvfE81HPz1I/AAAAAAAAUSQ/418XYiGUg5gOtsNDYCcVYvKSb6ZrHYScACEwYBhgL/s200/espn%2B3%2Ben%2Bvivo.jpg" group-title="Deportes", ESPN 3 
-http://tecnotv.info/premium/espn3
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LUaIKixedzE/WyXaVqu-g_I/AAAAAAAAAwE/GfjpLLxWPGMlraSly2KoHp4fj3FFzqRFQCLcBGAs/s1600/espn2.jpg" group-title="Deportes", ESPN 2 
-http://tecnotv.info/premium/espn2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="Deportes", NBC Golf (USA)
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
