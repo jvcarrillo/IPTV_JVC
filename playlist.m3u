@@ -278,13 +278,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/inde
 #EXTINF:-1,FOX LIFE HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
 
-#EXTINF:-1,FOX
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
-#EXTINF:-1,FOX
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
-
-#EXTINF:-1,AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1, COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1, AMC HD
@@ -414,36 +407,15 @@ http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i43.tinypic.com/znx7v9.jpg" group-title="IZZI", TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg" group-title="IZZI", Space
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI", Golden
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg" group-title="IZZI", Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI", NICK
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.thewrap.com/univision/" group-title="DEPORTES", UNIVISION
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="España", FOX .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" group-title="España", AXN HD .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
