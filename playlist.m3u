@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="Infantiles",ACS Network
 https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Animax2.png" group-title="Infantiles", Anime 24/7
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?xtreamiptv.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Boingespana2016.png" group-title="Infantiles",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
@@ -180,13 +177,13 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="Espana",13tv
+#EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="Espana", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Espana",24H
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Espana", 24H
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="Espana",TV3
+#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="Espana", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
 
@@ -214,7 +211,7 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
 
 
-#EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles",DW
+#EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles", DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="Ingles", Capital TV (UK)
@@ -233,49 +230,49 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://178.132.6.97:80/A1Sport/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Deportes", AD SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8#iptvchileyelmundo
 #EXTINF:0 tvg-logo="" group-title="Deportes", AD SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:0 tvg-logo="" group-title="Deportes", Alfa Sports
 http://l9.cloudskep.com/alsports/al24/playlist.m3u8
-#EXTINF:0,DUBAI SPORTS
+#EXTINF:0 tvg-logo="" group-title="Deportes", DUBAI SPORTS
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0,Eurocom BG
+#EXTINF:0 tvg-logo="" group-title="Deportes", Eurocom BG
 http://live.eurocom.bg:8080/hls/stream.m3u8
-#EXTINF:-1,AD Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8#iptvchileyelmundo
 
-#EXTINF:-1,AD Sports 2 HD
+#EXTINF:-1, AD Sports 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8#iptvchileyelmundo
-#EXTINF:-1,Esport3
+#EXTINF:-1, Esport3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1,AD Sport 1 HD
+#EXTINF:-1, AD Sport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AD Sport 2 HD
+#EXTINF:-1, AD Sport 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,M+ DCine
+#EXTINF:-1, M+ DCine
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1,FOX Life Spain
+#EXTINF:-1, FOX Life Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1,FOX Spain
+#EXTINF:-1, FOX Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Hollywood HD
+#EXTINF:-1, Hollywood HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 
-#EXTINF:-1,FilmBox Premium
+#EXTINF:-1, FilmBox Premium
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8
-#EXTINF:-1,FilmBox Arthouse
+#EXTINF:-1, FilmBox Arthouse
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
-#EXTINF:-1,FilmBox
+#EXTINF:-1, FilmBox
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
 
-#EXTINF:-1,MOVISTAR ACCION
+#EXTINF:-1, MOVISTAR ACCION
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
+#EXTINF:-1, MOVISTAR ACCION HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
+#EXTINF:-1, MOVISTAR COMEDIA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 
-#EXTINF:-1,AXN HD
+#EXTINF:-1, AXN HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
@@ -291,71 +288,71 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/inde
 
 #EXTINF:-1,AXN HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1, COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1, AMC HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1, FOX LIFE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:-1, FOX LIFE HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
 
 
-#EXTINF:-1,MOVISTAR ACCION
+#EXTINF:-1, MOVISTAR ACCION
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
+#EXTINF:-1, MOVISTAR ACCION HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:1,TNT
+#EXTINF:1, TNT
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,SPACE HD
+#EXTINF:-1, SPACE HD
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
-#EXTINF:-1,FOX
+#EXTINF:-1, FOX
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png" group-title="CINE Y SERIES", Europa Europa
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="CINE Y SERIES", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,FOX
+#EXTINF:-1, FOX
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
 
-#EXTINF:-1,FOX Life Spain
+#EXTINF:-1, FOX Life Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 
-#EXTINF:-1,FOX Spain
+#EXTINF:-1, FOX Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
 
 
-#EXTINF:-1,Cosmo Spain
+#EXTINF:-1, Cosmo Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 
 
-#EXTINF:-1,FOX
+#EXTINF:-1, FOX
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 
-#EXTINF:-1,AXN HD
+#EXTINF:-1, AXN HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1, COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1, AMC HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,FOX LIFE hd
+#EXTINF:-1, FOX LIFE hd
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:-1, FOX LIFE HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
 
-#EXTINF:-1,MOVISTAR ACCION
+#EXTINF:-1, MOVISTAR ACCION
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
+#EXTINF:-1, MOVISTAR ACCION HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
+#EXTINF:-1, MOVISTAR COMEDIA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA HD
+#EXTINF:-1, MOVISTAR COMEDIA HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-#EXTINF:-1,MOVISTAR DCINE
+#EXTINF:-1, MOVISTAR DCINE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png", M+ Series Xtra HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
@@ -365,13 +362,13 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", M+ Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png",FOX Life Spain
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png", FOX Life Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX Spain
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png", FOX Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",Cosmo Spain
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png", Cosmo Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood HD
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png", Hollywood HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-
 #EXTINF:-1 tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/FilmBoxPremium-logo.png", FilmBox Premium
