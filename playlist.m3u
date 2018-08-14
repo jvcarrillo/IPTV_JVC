@@ -232,3 +232,151 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="GEO VPN", TV:Comet
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+
+#EXTINF:-1,CDF HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4883.ts
+#EXTINF:-1,CDF Basico SD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4580.ts
+#EXTINF:-1,CDF SD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4579.ts
+#EXTINF:-1,CDO Basico
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4578.ts
+#EXTINF:-1,CDO Premium HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4896.ts
+#EXTINF:-1,CDO Premium SD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4577.ts
+#EXTINF:-1,Fox Sports 1 HD (Chile)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4884.ts
+#EXTINF:-1,Fox Sports 2 HD (Chile)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4885.ts
+#EXTINF:-1,Fox Sports 3 HD (Chile)
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4886.ts
+#EXTINF:-1,BeIN Sports 1 HD FR
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4054.ts
+#EXTINF:-1,BeIN Sports 2 HD FR
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4053.ts
+#EXTINF:-1,BeIN Sports 3 HD FR
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4052.ts
+#EXTINF:-1,Bein Sports n
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4600.ts
+#EXTINF:-1,Claro Sports
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4599.ts
+#EXTINF:-1,CNT Sports |EC| laino
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4576.ts
+#EXTINF:-1,Directv Sports Full HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/6034.ts
+#EXTINF:-1,Directv Sports HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4103.ts
+#EXTINF:-1,DirecTv Sports
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4598.ts
+#EXTINF:-1,Directv Sports 2 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4104.ts
+#EXTINF:-1,Directv Sports SD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4105.ts
+#EXTINF:-1,DirecTv Sports 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4597.ts
+#EXTINF:-1,ESPN
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4596.ts
+#EXTINF:-1,ESPN 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4595.ts
+#EXTINF:-1,ESPN 2 HD *
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4091.ts
+#EXTINF:-1,ESPN 2 sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4575.ts
+#EXTINF:-1,ESPN 3
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4594.ts
+#EXTINF:-1,ESPN 3 HD *
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4090.ts
+#EXTINF:-1,ESPN 3 sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4574.ts
+#EXTINF:-1,ESPN Deportes HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4096.ts
+#EXTINF:-1,ESPN HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4752.ts
+#EXTINF:-1,ESPN HD *
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4094.ts
+#EXTINF:-1,ESPN HD 2 sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4093.ts
+#EXTINF:-1,ESPN HD 3 sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4092.ts
+#EXTINF:-1,ESPN HD sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4089.ts
+#EXTINF:-1,ESPN Plus
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4593.ts
+#EXTINF:-1,ESPN Plus HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4751.ts
+#EXTINF:-1,ESPN sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4573.ts
+#EXTINF:-1,Fox Sports
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4591.ts
+#EXTINF:-1,Fox Sports |CL|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4572.ts
+#EXTINF:-1,Fox Sports |CO|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4571.ts
+#EXTINF:-1,Fox Sports |PY|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4570.ts
+#EXTINF:-1,Fox Sports 1 |AR|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4569.ts
+#EXTINF:-1,Fox Sports 1 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4743.ts
+#EXTINF:-1,Fox Sports 1 HD sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4088.ts
+#EXTINF:-1,Fox Sports 1 SUR
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4568.ts
+#EXTINF:-1,Fox Sports 2
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4590.ts
+#EXTINF:-1,Fox Sports 2 |AR|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4567.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4742.ts
+#EXTINF:-1,Fox Sports 2 HD sur
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4077.ts
+#EXTINF:-1,Fox Sports 2 SUR
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4566.ts
+#EXTINF:-1,Fox Sports 3
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4589.ts
+#EXTINF:-1,Fox Sports 3 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4741.ts
+#EXTINF:-1,Fox Sports 3 SUR
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4565.ts
+#EXTINF:-1,Fox Sports VEN
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4564.ts
+#EXTINF:-1,Fight Box HD US
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4592.ts
+#EXTINF:-1,GOL TV
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4588.ts
+#EXTINF:-1,Golf Latin America
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4587.ts
+#EXTINF:-1,Golf Latin America HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4734.ts
+#EXTINF:-1,GOLPERU |PE|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4563.ts
+#EXTINF:-1,Movistar Deportes (CMD) |PE|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4562.ts
+#EXTINF:-1,Px Sports HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4704.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4075.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4074.ts
+#EXTINF:-1,Sky Sport Austria HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4073.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4072.ts
+#EXTINF:-1,Sky Sport News HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4071.ts
+#EXTINF:-1,Todo Deporte
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4584.ts
+#EXTINF:-1,TVC Deportes HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4687.ts
+#EXTINF:-1,TyC Sports
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4561.ts
+#EXTINF:-1,univision Deportes
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4583.ts
+#EXTINF:-1,Univision Deportes HD
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4095.ts
+#EXTINF:-1,univision TDN
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4582.ts
+#EXTINF:-1,Win Sports |CO|
+http://ca.stablechannels.tv:25461/live/nxR2R4MB7/52LM7ql5ha/4560.ts
