@@ -28,9 +28,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/800px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="Infantiles",Paka Paka
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8?xtreamiptv.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="Infantiles",Trailer Tv Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8?xtreamiptv.m3u8
 
@@ -57,9 +54,6 @@ http://portal.simiptv.com:8001/live/LrWQISrOq0/7i5Qdtmunn/17896.ts
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes",CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="Deportes", NBC Golf (USA)
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
@@ -424,7 +418,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI",Golden
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/635px-Logo_Golden_TV.svg.png" group-title="IZZI", Golden
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
 
 
@@ -434,146 +428,138 @@ http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI",NICK
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="IZZI", NICK
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/univision/" group-title="DEPORTES",UNIVISION
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/univision/" group-title="DEPORTES", UNIVISION
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="España",FOX .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="España", FOX .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" group-title="España",AXN HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" group-title="España", AXN HD .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="España",COMEDY CENTRAL .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="España", COMEDY CENTRAL .
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/572/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="España",COMEDY CENTRAL HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="España", COMEDY CENTRAL HD .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png" group-title="España",COSMO HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png" group-title="España", COSMO HD .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/570/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" group-title="España",AMC .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" group-title="España", AMC .
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="España",FOX LIFE .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="España", FOX LIFE .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="España",FOX LIFE HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="España", FOX LIFE HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/567/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="España",SYFY .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="España", SYFY .
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="España",FDF .
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="España", FDF .
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" group-title="España",MOVISTAR ACCION .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" group-title="España", MOVISTAR ACCION .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" group-title="España",MOVISTAR ACCION HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARACCION.png" group-title="España", MOVISTAR ACCION HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España",MOVISTAR COMEDIA .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España", MOVISTAR COMEDIA .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España",MOVISTAR COMEDIA HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España", MOVISTAR COMEDIA HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/580/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png" group-title="España",MOVISTAR DCINE .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png" group-title="España", MOVISTAR DCINE .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" group-title="España",HOLLYWOOD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" group-title="España", HOLLYWOOD .
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" group-title="España",HOLLYWOOD HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" group-title="España", HOLLYWOOD HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/577/index.m3u8
 
 #EXTINF:-1,TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" group-title="España",MOVISTAR FUTBOL .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" group-title="España", MOVISTAR FUTBOL .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" group-title="España",MOVISTAR FUTBOL HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png" group-title="España", MOVISTAR FUTBOL HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="España",BEIN SPORTS LALIGA .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="España", BEIN SPORTS LALIGA .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="España",BEIN SPORTS LALIGA HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="España", BEIN SPORTS LALIGA HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" group-title="España",MOVISTAR FORMULA 1 .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png" group-title="España", MOVISTAR FORMULA 1 .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" group-title="España",MOVISTAR MOTO GP .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png" group-title="España", MOVISTAR MOTO GP .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" group-title="España",MOVISTAR GOLF .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" group-title="España", MOVISTAR GOLF .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" group-title="España",MOVISTAR GOLF HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" group-title="España", MOVISTAR GOLF HD .
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/569/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" group-title="España",LALIGA TV .
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" group-title="España", LALIGA TV .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" group-title="España",BARCA TV .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png" group-title="España", BARCA TV .
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="España",EUROSPORT 1 HD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="España", EUROSPORT 1 HD .
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
 
-#EXTINF:-1,AZTECA 13 G67
+#EXTINF:-1, AZTECA 13 G67
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+#EXTINF:-1, MULTIMEDIOS MONTERREY HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1,Azteca UNO
+#EXTINF:-1, Azteca UNO
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 
 
-#EXTINF:-1,CINE Y SERIES:Extrema TV
+#EXTINF:-1, CINE Y SERIES:Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,CINE Y SERIES:Europa Europa
+#EXTINF:-1, CINE Y SERIES:Europa Europa
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
 
-#EXTINF:-1,RCN Colombia
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-
-#EXTINF:-1,Cali Tv
+#EXTINF:-1, Cali Tv
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1,ENTRETENIMIENTO:RCN (Colombia)
+#EXTINF:-1, ENTRETENIMIENTO:RCN (Colombia)
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
-#EXTINF:-1,COLOMBIA Canal CNC Medellin | SD
+#EXTINF:-1, COLOMBIA Canal CNC Medellin | SD
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg" group-title="Nacional",Telecinco
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg" group-title="Nacional", Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg" group-title="Nacional", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3074693302/0403af99e8cbfca420370078a643bf5d_400x400.jpeg" group-title="Nacional",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/realmadrid.png",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
