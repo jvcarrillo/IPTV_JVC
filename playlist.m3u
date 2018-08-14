@@ -215,60 +215,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
 
-#EXTINF:-1, AD Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8#iptvchileyelmundo
-#EXTINF:-1, Esport3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1, AD Sport 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1, AD Sport 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1, FOX Life Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1, FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1, Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 
-#EXTINF:-1, FilmBox Premium
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8
-#EXTINF:-1, FilmBox Arthouse
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
-#EXTINF:-1, FilmBox
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
-
-#EXTINF:-1, MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1, MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1, MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-
-#EXTINF:-1, AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-
-#EXTINF:-1, COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1, AMC HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1, FOX LIFE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1, FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-
-
-#EXTINF:-1, MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1, MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
 #EXTINF:1, TNT
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1, SPACE HD
