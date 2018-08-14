@@ -111,23 +111,23 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" group-title="Musica", City Radio TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Musica", PortalFoxMix Tv
+#EXTINF:-1 tvg-logo="" group-title="Musica", PortalFoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.jumpdesign.co.uk/wp-content/uploads/2014/09/Heart-TV-02-600x338.jpg" group-title="Musica", Heart TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy"  group-title="Musica", m2o tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=""  group-title="Musica", RCG 3
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png"  group-title="Musica", Telemax Arg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png" group-title="Musica", Telemax Arg
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png"  group-title="Musica", Virgin TV
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/virgin_tv_0_11.png" group-title="Musica", Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
@@ -139,19 +139,19 @@ rtmpt://tv.asamblea.gob.sv/live/plenaria
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/sv_canal-10-nacional_m.png" group-title="El Salvador",Canal 10
 http://198.24.135.42:80/canal10/canal10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png"  group-title="El Salvador", Canal 11 TuTV
+#EXTINF:-1 tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png" group-title="El Salvador", Canal 11 TuTV
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://archivo.elsalvador.com/noticias/2004/11/17/escenarios/img/canal12.JPG" group-title="El Salvador", Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-23-tvx_m.png"  group-title="El Salvador", Canal 23 TVX
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-23-tvx_m.png" group-title="El Salvador", Canal 23 TVX
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="El Salvador", TVO Canal 23
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300"  group-title="El Salvador", Canal WOWTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 rtmp://cdn.elsalvadordigital.com/wowtv/wowtv
 
 
@@ -212,7 +212,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="Mexico",TVMas Veracruz
+#EXTINF:-1 tvg-logo="" group-title="Mexico",TVMas Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
 
