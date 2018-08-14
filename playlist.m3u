@@ -111,7 +111,7 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" group-title="Musica", City Radio TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Musica", PortalFoxMix
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
 
@@ -121,7 +121,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo=""  group-title="Musica", RCG 3
+#EXTINF:-1 tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="Musica", RCG 3
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png" group-title="Musica", Telemax Arg
@@ -133,7 +133,7 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", Canal 9 gobierno nuevo
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-9-sv.jpg" group-title="El Salvador", Canal 9 gobierno nuevo
 rtmpt://tv.asamblea.gob.sv/live/plenaria
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/sv_canal-10-nacional_m.png" group-title="El Salvador",Canal 10
@@ -148,7 +148,7 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-23-tvx_m.png" group-title="El Salvador", Canal 23 TVX
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="El Salvador", TVO Canal 23
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/reydddd/tvo23.jpg" group-title="El Salvador", TVO Canal 23
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
@@ -165,16 +165,13 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 3 Pinamar
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 4 Psadas
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 5 Telesol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Canal_5_Telesol_San_Juan.png" group-title="Argentina",Canal 5 Telesol
 http://149.56.98.124:9090/hls/telesol.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina",Canal 9 Comodoro Rivadavia
+#EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-1/c33.0.200.200/p200x200/424028_364415380248328_708893702_n.jpg?_nc_cat=0&oh=563ae284e64a7565d767cb23c6199bbb&oe=5C05FBC2" group-title="Argentina",Canal 9 Comodoro Rivadavia
 http://live.canalnueve.tv:8082/hls/canal.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="Argentina",Canal 9 Salta
