@@ -214,21 +214,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="Ingles", Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="Ingles", France 24 (Ingles)
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3610.png" group-title="Noticias", TRT World (Ingles)
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="" group-title="Deportes", A1 Sport HD
-http://178.132.6.97:80/A1Sport/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Deportes", AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes", AD Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8#iptvchileyelmundo
 #EXTINF:0 tvg-logo="" group-title="Deportes", AD SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:0 tvg-logo="" group-title="Deportes", Alfa Sports
