@@ -96,8 +96,7 @@ http://usuarios.club/usuarios/src5/MoviFutbol/agosto/agosto.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png" group-title="Deportes", Movistar Xtra
 http://usuarios.club/usuarios/src5/MoviXtra/agosto/agosto.m3u8
 
-#EXTINF:-1 tvg-
-logo="http://puu.sh/nTbIR/127d8b5919.png" group-title="Deportes", Tyc Sports
+#EXTINF:-1 tvg-logo="http://puu.sh/nTbIR/127d8b5919.png" group-title="Deportes", Tyc Sports
 http://usuarios.club/usuarios/src5/TycSports/agosto/agosto.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbLoc/e5d45c354b.png" group-title="Deportes", UFC Network
