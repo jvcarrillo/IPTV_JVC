@@ -127,6 +127,9 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.xtremo.net/wp-content/uploads/2017/01/azteca13.png" group-title="Entretenimiento", Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
