@@ -323,7 +323,7 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/567/inde
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="España", SYFY .
-http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
+http://playlist.olybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="España", FDF .
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
