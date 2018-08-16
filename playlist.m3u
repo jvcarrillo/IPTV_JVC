@@ -412,9 +412,6 @@ http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/cana
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/631874922973896704/JpnxCQcC_400x400.jpg" group-title="Nacional", Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo_400x400.jpg" group-title="Nacional", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 
