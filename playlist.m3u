@@ -393,13 +393,3 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1, Azteca UNO
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-
-
-#EXTINF:-1, CINE Y SERIES:Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1, CINE Y SERIES:Europa Europa
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
-
-#EXTINF:-1, Cali Tv
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
