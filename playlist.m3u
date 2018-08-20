@@ -182,6 +182,9 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png" group-title="Musica", Telemax Arg
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", Top LatinoTV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Virgin_17_logo.png" group-title="Musica", Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
