@@ -53,54 +53,8 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes", ESPN 2
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes", ESPN 2 MX
-http://usuarios.club/usuarios/src1/ESPN2MX/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="Deportes", ESPN MX
-http://usuarios.club/usuarios/src1/ESPNMX/agosto/agosto.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports
-http://usuarios.club/usuarios/src1/FoxSports/agosto/agosto.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png" group-title="Deportes", Fox Sports 2 MX
-http://usuarios.club/usuarios/src1/FoxSports2MX/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports MX
-http://usuarios.club/usuarios/src1/FoxSportsMX/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcNE5/7aa9899bd2.png" group-title="Deportes", Movistar Deportes
-http://usuarios.club/usuarios/src5/MoviDeportes/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png" group-title="Deportes", Movistar Deportes 2
-http://usuarios.club/usuarios/src5/MoviDeportes2/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tcOvk/be7e131035.png" group-title="Deportes", Movistar Futbol
-http://usuarios.club/usuarios/src5/MoviFutbol/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/tdoew/881172c61c.png" group-title="Deportes", Movistar Xtra
-http://usuarios.club/usuarios/src5/MoviXtra/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/nTbIR/127d8b5919.png" group-title="Deportes", Tyc Sports
-http://usuarios.club/usuarios/src5/TycSports/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLoc/e5d45c354b.png" group-title="Deportes", UFC Network
-http://usuarios.club/usuarios/src5/UFCNetwork/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JHT/45b6bfb352.png" group-title="Deportes", BeinSports
-http://usuarios.club/usuarios/src5/BeinSports/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes", Liga TV
-http://usuarios.club/usuarios/src5/BeinSportsN/agosto/agosto.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JJ6/5bab3d7e79.png" group-title="Deportes", BeinSports
-http://usuarios.club/usuarios/src5/Bein/agosto/agosto.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="Deportes", Univision TDN
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
 
 
 
