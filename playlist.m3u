@@ -46,11 +46,6 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8?xtreamiptv.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/95/8d/19/958d19e1-bd30-b636-6d41-f02980c033d5/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="Deportes", BeIN Sport 1 HD (English)
-http://portal.simiptv.com:8001/live/LrWQISrOq0/7i5Qdtmunn/17895.ts
-
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/95/8d/19/958d19e1-bd30-b636-6d41-f02980c033d5/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="Deportes", BeIN Sport 2 HD (ENGLISH)
-http://portal.simiptv.com:8001/live/LrWQISrOq0/7i5Qdtmunn/17896.ts
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
@@ -58,14 +53,9 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Univision_Deportes_Network_2013.png/225px-Univision_Deportes_Network_2013.png" group-title="Deportes", Univision Deportes
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="Deportes", ESPN
-http://usuarios.club/usuarios/src1/ESPN/agosto/agosto.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes", ESPN 2
-http://usuarios.club/usuarios/src1/ESPN2/agosto/agosto.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes", ESPN 2 MX
 http://usuarios.club/usuarios/src1/ESPN2MX/agosto/agosto.m3u8
