@@ -200,7 +200,7 @@ http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
-rtmp://cdn.elsalvadordigital.com/wowtv/wowtv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
