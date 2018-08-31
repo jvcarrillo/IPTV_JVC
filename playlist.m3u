@@ -71,7 +71,7 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Canal 22
 http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Dicovery H&H
+#EXTINF:-1 tvg-logo="https://goo.gl/images/bz5oZo" group-title="Entretenimiento", Dicovery H&H
 http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/61.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento", Efekto Tv HD
