@@ -90,9 +90,6 @@ https://secure-streams.akamaized.net/rt-esp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Entretenimiento", Panamericana Pe
 http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png" group-title="Entretenimiento", Telemundo
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
 #EXTINF:-1 tvg-name="TLX" tvg-logo="https://i.imgur.com/2k00AmQ.png" group-title="Entretenimiento", TLX
 http://tvpremiumhd.club/lista-gratuita/140806/tlx.m3u8
 
@@ -101,6 +98,7 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.martinoticias.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="Entretenimiento", TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
 
 
 
@@ -120,14 +118,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="Musica", RCG 3
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/small.17264306_1618446504835714_3401698618822389384_n.jpg.ea1671076d354ad1979400d92e72960f.jpg" group-title="Musica", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/245px-Telemax.png" group-title="Musica", Telemax Arg
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", Top LatinoTV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
@@ -161,11 +153,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QS2hxqyyDf0/UJc8LS3KvHI/AAAAAAAAFrc/LEkhCuNhyGM/s1600/cnnchile.jpg" group-title="Noticias", CNN Chile [HD] 
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-
 
 
 
