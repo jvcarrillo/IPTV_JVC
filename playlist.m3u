@@ -34,8 +34,20 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="Peliculas y Series", CN3 Pinamar Argentina
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="Peliculas y Series", Film Zone [SD]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="Peliculas y Series", Film Zone
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-VN83HrSHO2g/WH5KOhHNXII/AAAAAAAADKE/QBdd9SmQ6xwENZrxTP_PN5D2ZGZKqYhvwCLcB/s1600/apple-touch-icon.png" group-title="Peliculas y Series", Fox
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-KYNMUhwfvDw/WaD3Hqarj6I/AAAAAAAAATQ/HQz3lPJm-3oiI6iEhjwg6OZpqto6mE51ACLcBGAs/s1600/Fox-action-en-vivo.png" group-title="Peliculas y Series", Fox Action
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxvZdXmLPnmine1l4FP_FBLyN6wVIaYix7Ub5QvT4oVS7l1rZ1" group-title="Peliculas y Series", Fox Movies
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(04)/index.m3u8
+
+#EXTINF:0 tvg-logo="http://images.mi.tv/channels/sv_fx_m.png" group-title="Peliculas y Series", FX
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="Peliculas y Series", PELICULAS 24/7
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
