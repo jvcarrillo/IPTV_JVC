@@ -44,6 +44,9 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8?xtreamiptv.m3
 #EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/claro-sports.png" group-title="Deportes",Claro Sports
 http://live.nibbletv.info/CH/xyoHc4erdnjL/Claro-Sports.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/claro-sports.png" group-title="Deportes",Claro Sports 2
+http://gameriptv.com/chan/6s5df46s4df6s4df654s5d6f4sd/clarospotscol.php?index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
