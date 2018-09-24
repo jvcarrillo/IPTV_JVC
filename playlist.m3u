@@ -27,14 +27,27 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/inde
 
 
 
+
 #EXTINF:0 tvg-logo="http://www.etb.com.co/Hogares/img1/guia/logos/logo-axnhd.jpg" group-title="Peliculas y Series", AXN SD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="Peliculas y Series", Film Zone [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="Peliculas y Series", PELICULAS 24/7
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/6/60/Canal_Sony.png/revision/latest?cb=20140808035756&path-prefix=es" group-title="Peliculas y Series", Sony
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/9/9a/Space_lam_hd.png/revision/latest?cb=20110426012921&path-prefix=es" group-title="Peliculas y Series", Space
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://mitvstatic.com/channels/pe_tcm_m.png" group-title="Peliculas y Series", TCM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="Peliculas y Series", CN3 Pinamar Argentina
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8?xtreamiptv.m3u8
