@@ -58,6 +58,8 @@ http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:0 tvg-logo="http://radiorama.com.br/marcas/universal-channel.jpg" group-title="Peliculas y Series", Universal Channel
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
 
+#EXTINF:0 tvg-logo="http://www.clarotv.claro.com.br/juntinho/assets/image/logos/warner-hd.jpg" group-title="Peliculas y Series", Warner Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8 
 
 
 
