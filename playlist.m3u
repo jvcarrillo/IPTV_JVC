@@ -47,6 +47,9 @@ http://live.nibbletv.info/CH/xyoHc4erdnjL/Claro-Sports.m3u8
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Deportes",ESPN
+http://m3u8.futbollibre.online/?key=ESPN_HD_1.dat&c=ESPN_HD&.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/espn-2.png" group-title="Deportes",ESPN 2
 http://live.nibbletv.info/CH/xyoHc4erdnjL/ESPN-2.m3u8
 
