@@ -31,6 +31,12 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/inde
 #EXTINF:0 tvg-logo="http://www.etb.com.co/Hogares/img1/guia/logos/logo-axnhd.jpg" group-title="Peliculas y Series", AXN SD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="Peliculas y Series", CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="Peliculas y Series", CN3 Pinamar Argentina
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8?xtreamiptv.m3u8
 
@@ -253,15 +259,3 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="Ingles", Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="CINE", CLASSIQUE TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1, Westerns TV
-http://93.87.85.71/PLTV/88888888/224/3221226580/01.m3u8?accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNHSRjQOMVG%2FFxbBJoISM0Cw%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001930%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2C,END&GuardEncType=2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="CINE", Western
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
