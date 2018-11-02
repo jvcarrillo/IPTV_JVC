@@ -12,8 +12,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="Peliculas y Series", CLASSIQUE TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
 
@@ -26,6 +24,8 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.cg" group-title="Peliculas y Series",TNT
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
 
 
 
