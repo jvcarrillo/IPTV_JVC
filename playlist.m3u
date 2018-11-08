@@ -1,23 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="Infantiles",Cachupum! Tv
-http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/livandmaddie/images/7/7c/Disney_Channel_2002_alt.svg/revision/latest?cb=20130909230042" group-title="Infantiles", DISNEY CHANNEL
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/CivEawL.png" group-title="Infantiles", DISNEY XD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-jr_m.png" group-title="Infantiles", DISNEY JUNIOR
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/819.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtremekids.cc/images/logo_xtremekids.png" group-title="Infantiles", XTREME KIDS
 http://190.113.125.30:1925/xkidstvhd/live/playlist.m3u8
