@@ -30,6 +30,9 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mega2013oficial.png/200px-Mega2013oficial.png" group-title="Peliculas y Series", MEGA
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/596.ts.m3u8
+
 #EXTINF:0 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="Peliculas y Series", PELICULAS 24/7
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 
