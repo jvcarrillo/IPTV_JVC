@@ -91,10 +91,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QS2hxqyyDf0/UJc8LS3KvHI/AAAAAAAAFrc/LEkhCuNhyGM/s1600/cnnchile.jpg" group-title="Noticias", CNN Chile [HD] 
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
@@ -118,16 +114,13 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playl
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Espana", 24H
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="Espana", TV3
+#EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="Espana", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzE6O6S_h1vfApbNhIH2COK3mHDwydlkybpt9L748JSZWfuEMQ" group-title="Mexico", ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.58ca099958cf2_a.png.5324ca4355112d0398127d724539e1bd.png" group-title="Mexico", Azteca+ Plus
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="Mexico", Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
@@ -144,6 +137,5 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613" group-title="Ingles", Capital TV (UK)
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
 
