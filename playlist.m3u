@@ -16,6 +16,10 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CivEawL.png" group-title="Infantiles",DISNEY XD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Infantiles",DISNEY JUNIOR
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/819.ts.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="Peliculas y Series", CLASSIQUE TV
