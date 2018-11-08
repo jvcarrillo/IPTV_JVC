@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -10,6 +11,12 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtremekids.cc/images/logo_xtremekids.png" group-title="Infantiles", XTREME KIDS
 http://190.113.125.30:1925/xkidstvhd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="Infantiles",ACS NETWORK PLAYER HD
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/.m3u8
+
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/1947.gif" group-title="Infantiles",ACS Network TV RETRO
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/chunklist_w1837091581.m3u8
 
 
 
