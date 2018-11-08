@@ -19,6 +19,8 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-jr_m.png" group-title="Infantiles", DISNEY JUNIOR
 http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/819.ts.m3u8
 
+#EXTINF:-1 tvg-logo="http://xtremekids.cc/images/logo_xtremekids.png" group-title="Infantiles", XTREME KIDS
+http://190.113.125.30:1925/xkidstvhd/live/playlist.m3u8
 
 
 
