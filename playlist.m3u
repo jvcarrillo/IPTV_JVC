@@ -47,17 +47,8 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", RCN
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Entretenimiento", Panamericana Pe
-http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
-
-#EXTINF:-1 tvg-name="TLX" tvg-logo="https://i.imgur.com/2k00AmQ.png" group-title="Entretenimiento", TLX
-http://tvpremiumhd.club/lista-gratuita/140806/tlx.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
@@ -68,14 +59,12 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif" group-title="Musica", City Radio TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
 #EXTINF:-1 group-title="Musica", Tv Loncho
 http://stmv2.srvstm.com/alonso3439/alonso3439/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.jumpdesign.co.uk/wp-content/uploads/2014/09/Heart-TV-02-600x338.jpg" group-title="Musica", Heart TV (UK)
