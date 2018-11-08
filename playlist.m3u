@@ -10,13 +10,13 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CivEawL.png" group-title="Infantiles",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/CivEawL.png" group-title="Infantiles", DISNEY CHANNEL
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CivEawL.png" group-title="Infantiles",DISNEY XD
+#EXTINF:-1 tvg-logo="https://imgur.com/CivEawL.png" group-title="Infantiles", DISNEY XD
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infantiles",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="Infantiles", DISNEY JUNIOR
 http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/819.ts.m3u8
 
 
