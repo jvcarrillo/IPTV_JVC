@@ -42,48 +42,6 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
 
 
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="http://www.imfranetx.com/wp-content/uploads/2015/04/HBO-EN-VIVO.jpg" group-title="Peliculas",HBO
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/1594.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS ESTE" tvg-logo="http://appsclaro.com/canales/logos/hbo-plus.jpg" group-title="Peliculas",HBO PLUS ESTE
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/593.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/220px-HBO_Family_logo.png" group-title="Peliculas",HBO FAMILY
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/598.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="http://www.eltecsa.com/logos/hbo2_lam.png" group-title="Peliculas",HBO 2
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/599.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="Peliculas",HBO SIGNATURE
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/592.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSICS" tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="Peliculas",FOX CLASSICS
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/608.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" group-title="Peliculas",FOX FAMILY
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/606.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_3433.png" group-title="Peliculas",FOX ACTION
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/610.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY" tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/c/c8/Fox_comedy.png/revision/latest?cb=20150716184256" group-title="Peliculas",FOX COMEDY
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/607.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES" tvg-logo="http://lagranciudad.net/home/wp-content/uploads/2015/03/Logo-TNT-Series.png" group-title="Peliculas",TNT SERIES
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/813.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://vignette1.wikia.nocookie.net/doblaje/images/d/d4/Logo_Studio_Universal.png/revision/latest?cb=20150227172321&path-prefix=es" group-title="Peliculas",STUDIO UNIVERSAL
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/267.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="http://www.brasiltvdigital.com/wp-content/uploads/canal-space-programacao.jpg" group-title="Peliculas",SPACE
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/265.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="SONY" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20151005185034&path-prefix=es" group-title="Peliculas",SONY
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/269.ts.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/claro-sports.png" group-title="Deportes",Claro Sports
 http://live.nibbletv.info/CH/xyoHc4erdnjL/Claro-Sports.m3u8
 
