@@ -35,29 +35,12 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
 
-#EXTINF:0 tvg-logo="123" group-title="Entretenimiento", A&E [SD]
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
-
-#EXTINF:0 tvg-logo="123" group-title="Entretenimiento", Comedy Central [SD]
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Teletrece_Logo_%282016%29.png" group-title="Entretenimiento", Tele 13
-http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?johantv.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://planoinformativo.com/stock12/image/2018/Enero/05/Azteca-Uno.jpg" group-title="Entretenimiento",Azteca 1
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-#EXTINF:-1 tvg-logo="123" group-title="Entretenimiento", Canal 22
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
 
 #EXTINF:-1 tvg-logo="123" group-title="Entretenimiento", Efekto Tv HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
-#EXTINF:0 tvg-logo="123" group-title="Entretenimiento", TELEMUNDO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
 
 
 
