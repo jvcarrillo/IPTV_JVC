@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.gl/images/heLTQq" group-title="Infantiles", Disney XD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts.m3u8
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
