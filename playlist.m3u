@@ -23,6 +23,9 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="123" group-title="Peliculas y Series", FX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
