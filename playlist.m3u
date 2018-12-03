@@ -13,6 +13,9 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="http://xtremekids.cc/images/logo_xtremekids.png" group-title="Infantiles", XTREME KIDS
 http://190.113.125.30:1925/xkidstvhd/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://kids.png" group-title="Infantiles", Boomerang
+http://gangatvbox.com:25461/live/demox1/demox1/8116.ts
+
 
 
 
