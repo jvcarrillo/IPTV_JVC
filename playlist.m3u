@@ -13,8 +13,11 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="http://xtremekids.cc/images/logo_xtremekids.png" group-title="Infantiles", XTREME KIDS
 http://190.113.125.30:1925/xkidstvhd/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://kids.png" group-title="Infantiles", Boomerang
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="Infantiles", Boomerang
 http://gangatvbox.com:25461/live/demox1/demox1/8116.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/6/62/CN_Logo_%28NBA%29.png/revision/latest?cb=20110501082535" group-title="Infantiles", Cartoon Network
+http://gangatvbox.com:25461/live/demox1/demox1/8117.ts
 
 
 
