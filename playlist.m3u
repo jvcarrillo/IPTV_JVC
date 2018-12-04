@@ -2,7 +2,17 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.gl/images/heLTQq" group-title="Infantiles", Disney XD
-http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8121.ts
+
+#EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Discovery Kid
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8118.ts
+
+#EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Disney Chanell
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8119.ts
+
+#EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Disney Junior
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8120.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -23,11 +33,22 @@ http://gangatvbox.com:25461/live/demox1/demox1/8117.ts
 
 
 
+
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="Peliculas y Series", CLASSIQUE TV
 http://45.43.208.2:1935/classique/classique/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineCanal
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11816.ts
+
+#EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineMax
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11817.ts
+
+#EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", HBO2
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11829.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas y Series", FX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
