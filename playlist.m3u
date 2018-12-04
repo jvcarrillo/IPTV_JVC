@@ -29,8 +29,11 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="123" group-title="Peliculas y Series", FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas y Series", FX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-logo="https://mazorcastudio.com/wp-content/uploads/2016/05/hbo-logo.png" group-title="Peliculas y Series", HBO
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/5010.ts
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
@@ -38,6 +41,9 @@ http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="http://www.sports247.my/v1/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="Deportes", Bein Sport
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12424.ts
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
@@ -59,6 +65,9 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Telemundo-2012.png/revision/latest?cb=20130316184504" group-title="Entretenimiento", Telemundo (Puerto Rico)
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12348.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
