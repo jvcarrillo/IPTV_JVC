@@ -74,49 +74,21 @@ http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.sports247.my/v1/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="Deportes", Bein Sport
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12424.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports (Deportes)" tvg-logo="" group-title="Deportes",DirectTV Sports (Deportes)
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8820.ts
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="ESPN (Deportes)" tvg-logo="" group-title="Deportes",ESPN
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8821.ts
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 (Deportes)" tvg-logo="" group-title="Deportes",ESPN 2
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8823.ts
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="Espn Plus (Deportes)" tvg-logo="" group-title="Deportes",Espn Plus
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8822.ts
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox sports (Deportes)" tvg-logo="" group-title="Deportes",Fox sports
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8826.ts
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2 (Deportes)" tvg-logo="" group-title="Deportes",Fox Sports
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8827.ts
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="Fox Sports 3 (Deportes)" tvg-logo="" group-title="Deportes",Fox Sports 3
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8828.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (Deportes)" tvg-logo="" group-title=Deportes,Fox Sports Premium
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8829.ts
-#EXTINF:-1 tvg-id="goltv.us" tvg-name="Gol Tv (Deportes)" tvg-logo="" group-title="Deportes",Gol Tv
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8830.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes (Deportes)" tvg-logo="" group-title="Deportes",Movistar Deportes
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8831.ts
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV (Deportes)" tvg-logo="" group-title="Deportes",Real Madrid TV
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8832.ts
-#EXTINF:-1 tvg-id="tdn.mx" tvg-name="TDN (Deportes)" tvg-logo="" group-title="Deportes",TDN
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8833.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (Deportes)" tvg-logo="" group-title="Deportes",TNT Sports
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8834.ts
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="UFC Network (HD) OP2" tvg-logo="" group-title="Deportes",UFC Network (HD) OP2
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12667.ts
-#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="UFC Network (Deportes)" tvg-logo="" group-title="Deportes",UFC Network
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8835.ts
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="Univision Deportes (Deportes)" tvg-logo="" group-title="Deportes",Univision Deportes
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8836.ts
-#EXTINF:-1 tvg-id="" tvg-name="WINS PORTS (Deportes)" tvg-logo="" group-title="Deportes",WINS PORTS
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8837.ts
+#EXTINF:-1 tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/19/thumb_18801_default_news_size_5.jpeg" group-title="Deportes",ESPN
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8821.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/univisate.com/wp-content/uploads/2016/07/espn-2.jpg?fit=200%2C184&ssl=1" group-title="Deportes",ESPN 2
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8823.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOag7M-5gLv3EfxmCAUIB_MgmbaHtmLwVZN_32NSkvIAOsh8CI" group-title="Deportes",Fox sports
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8826.m3u8
+
 
 
 
