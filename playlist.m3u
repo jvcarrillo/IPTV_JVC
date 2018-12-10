@@ -96,6 +96,9 @@ http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8821.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univisate.com/wp-content/uploads/2016/07/espn-2.jpg?fit=200%2C184&ssl=1" group-title="Deportes",ESPN 2
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8823.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/univisate.com/wp-content/uploads/2016/07/espn-3.jpg?fit=200%2C184&ssl=1" group-title="Deportes", ESPN  3
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12119.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOag7M-5gLv3EfxmCAUIB_MgmbaHtmLwVZN_32NSkvIAOsh8CI" group-title="Deportes",Fox sports
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/8826.m3u8
 
@@ -108,8 +111,11 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="123" group-title="Entretenimiento", Efekto Tv HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Fox Sports 2 (HD)
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12121.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Fox Sports 3 (HD)
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12122.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
