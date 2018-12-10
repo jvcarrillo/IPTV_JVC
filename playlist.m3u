@@ -75,7 +75,7 @@ http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.sports247.my/v1/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="Deportes", Bein Sport
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12424.ts
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/12424.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
