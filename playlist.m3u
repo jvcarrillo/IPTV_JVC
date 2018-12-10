@@ -49,6 +49,8 @@ http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Fox
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11601.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series",TNT Series
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11612.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineCanal
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11816.m3u8
@@ -56,8 +58,14 @@ http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11816.m3u8
 #EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineMax
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11817.m3u8
 
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge (Peliculas)" tvg-logo="" group-title="Peliculas y Series",Golden Edge
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", De Pelicula
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11818.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden Edge
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11826.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Film Zone
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11819.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", HBO2
 http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11829.m3u8
@@ -65,15 +73,12 @@ http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11829.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas y Series", FX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden (Peliculas)
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11825.m3u8
 
-#EXTINF:-1 tvg-id="space.mx" tvg-name="Space (Peliculas)" tvg-logo="" group-title="Peliculas y Series",Space
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden Edge (Peliculas)
+http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11826.m3u8
 
-#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal (Peliculas)" tvg-logo="" group-title="Peliculas y Series",Studio Universal
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11836.m3u8
-
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT (Peliculas)" tvg-logo="" group-title="Peliculas y Series",TNT
-http://gangatvbox.com:25461/live/wquintanillagmailcom/qh.98002/11838.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
