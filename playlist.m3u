@@ -1,13 +1,10 @@
 
 #EXTM3U
 
-/heLTQq" group-title="Infantiles", Disney XD
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/mixels/images/b/b5/Disney_XD_Mixels_logo.png" group-title="Infantiles", Disney XD
 http://gangatvbox.com:25461/live/wquintanilla/987654321/8121.m3u8
 
-#EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Discovery Kid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Infantiles", Discovery Kid
 http://gangatvbox.com:25461/live/wquintanilla/987654321/8118.m3u8
 
 #EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Disney Chanel
@@ -19,7 +16,7 @@ http://gangatvbox.com:25461/live/wquintanilla/987654321/8120.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkZW1cLPLFZAIOgjh06pnknVtv-BOjcrchlAQK1wzSLYGJ_G-A" group-title="Infantiles", Nick
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatici.com/images?q=tbn%3AANd9GcRkZW1cLPLFZAIOgjh06pnknVtv-BOjcrchlAQK1wzSLYGJ_G-A" group-title="Infantiles", Nick
 http://gangatvbox.com:25461/live/wquintanilla/987654321/8125.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
