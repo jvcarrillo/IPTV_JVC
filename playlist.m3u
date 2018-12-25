@@ -1,30 +1,35 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://goo.gl/images/heLTQq" group-title="Infantiles", Disney XD
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8121.m3u8
+/heLTQq" group-title="Infantiles", Disney XD
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/mixels/images/b/b5/Disney_XD_Mixels_logo.png" group-title="Infantiles", Disney XD
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8121.m3u8
 
 #EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Discovery Kid
 http://gangatvbox.com:25461/live/wquintanilla/987654321/8118.m3u8
 
 #EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Disney Chanel
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8119.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8119.m3u8
 
 #EXTINF:-1 tvg-logo="https:ges/heLTQq" group-title="Infantiles", Disney Junior
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8120.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8120.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkZW1cLPLFZAIOgjh06pnknVtv-BOjcrchlAQK1wzSLYGJ_G-A" group-title="Infantiles", Nick
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8125.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="Infantiles", Boomerang
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/12130.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/12130.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/6/62/CN_Logo_%28NBA%29.png/revision/latest?cb=20110501082535" group-title="Infantiles", Cartoon Network
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/12129.m3u8
-
+http://gangatvbox.com:25461/live/wquintanilla/987654321/12129.m3u8
 
 
 
@@ -37,46 +42,48 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://mazorcastudio.com/wp-content/uploads/2016/05/hbo-logo.png" group-title="Peliculas y Series", HBO
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/5010.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11828.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", AXN
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11596.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032017/untitled-2_15.png" group-title="Peliculas y Series", AXN
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11596.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Fox
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11601.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png" group-title="Peliculas y Series", Fox
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11601.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series",TNT
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11838.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Peliculas y Series",TNT
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11838.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineCanal
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11816.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11816.m3u8
 
 #EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineMax
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11817.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", De Pelicula
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11818.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11818.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden Edge
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden Plus
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11825.m3u8
 
-#EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", HBO2
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11829.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="Peliculas y Series", HBO2
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11829.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas y Series", FX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11825.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden Edge
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/11826.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11826.m3u8
 
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2017/11/Max-up-canal.png" group-title="Peliculas y Series", Max up
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11833.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180531/rhz/kisspng-universal-s-islands-of-adventure-loews-portofino-b-5b0fdece5e6638.3390849815277667343867.jpg" group-title="Peliculas y Series", Studios universal
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11839.m3u8
 
 
 
@@ -87,25 +94,25 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/19/thumb_18801_default_news_size_5.jpeg" group-title="Deportes",ESPN
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8821.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8821.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univisate.com/wp-content/uploads/2016/07/espn-2.jpg?fit=200%2C184&ssl=1" group-title="Deportes",ESPN 2
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8823.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8823.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/univisate.com/wp-content/uploads/2016/07/espn-3.jpg?fit=200%2C184&ssl=1" group-title="Deportes", ESPN  3
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/12119.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/12119.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOag7M-5gLv3EfxmCAUIB_MgmbaHtmLwVZN_32NSkvIAOsh8CI" group-title="Deportes",Fox sports
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8826.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8826.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8827.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8827.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 3
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8828.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8828.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports Premium
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/8829.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/8829.m3u8
 
 
 
@@ -118,16 +125,16 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Fox Sports 2 (HD)
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/12121.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/12121.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Fox Sports 3 (HD)
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/12122.m3u8
+http://gangatvbox.com:25461/live/wquintanilla/987654321/12122.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Telemundo-2012.png/revision/latest?cb=20130316184504" group-title="Entretenimiento", Telemundo (Puerto Rico)
-http://gangatvbox.com:25461/live/wquintanilla/qh.98002/12348.ts
+http://gangatvbox.com:25461/live/wquintanilla/987654321/12348.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
@@ -217,6 +224,3 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
-
-
