@@ -50,16 +50,19 @@ http://gangatvbox.com:25461/live/wquintanilla/987654321/11601.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Peliculas y Series",TNT
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11838.m3u8
 
-#EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineCanal
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/pe_tnt-series_m.png" group-title="Peliculas y Series",TNT Series
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11612.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dossiernet.com.ar/assets/uploads/images/Cinecanal.jpg" group-title="Peliculas y Series", CineCanal
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11816.m3u8
 
-#EXTINF:-1 tvg-logo="http://vivo/cha/2929.gif" group-title="Peliculas y Series", CineMax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas y Series", CineMax
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11817.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", De Pelicula
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Peliculas y Series", De Pelicula
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11818.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas y Series", Golden Plus
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="Peliculas y Series", Golden Plus
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11825.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="Peliculas y Series", HBO2
@@ -83,6 +86,11 @@ http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 http://gangatvbox.com:25461/live/wquintanilla/987654321/11839.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0009/0897/brand.gif?itok=I2Qnm7nJ" group-title="Peliculas y Series", Sony
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11607.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/WBTV1995-2.png/revision/latest?cb=20180127175603" group-title="Peliculas y Series", Warner Channel
+http://gangatvbox.com:25461/live/wquintanilla/987654321/11615.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
