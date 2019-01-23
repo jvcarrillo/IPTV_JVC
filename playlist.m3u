@@ -7,6 +7,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantiles", Nick2
+http://ligatv.net:25461/live/clarotv/20012019/277.m3u8
 
 
 
@@ -19,8 +21,8 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas y Series", FX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload" group-title="Peliculas y Series", HBO
-https://websockets.iptvgratisdark.live/HBO_LATINO/video.m3u8?token=TOKEN-PORNO-HOY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVD1UkLNtG6Os1j30I7H1I1b4EBxgFeC3rkbJjdP6qKM4gB2x3" group-title="Peliculas y Series", HBO
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1594.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
