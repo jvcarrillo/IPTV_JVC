@@ -118,3 +118,26 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2uxwiu9.png" group-title="Prueba", Repretel CANAL 6 FULL HD 
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_w1874960427.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="Prueba", Repretel CANAL 11 HD 
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png" group-title="Prueba", Repretel CANAL 4 HD 
+http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Prueba", Repretel CANAL 2 HD 
+http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/55.png" group-title="Prueba", CANAL 7
+http://stream-04.nyc.dailymotion.com/dm/3/x29e3wg/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telered.png?fit=500%2C300" group-title="Prueba", TELERED TELEVISION HD 
+http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300" group-title="Prueba", CANAL 9 TV SUR CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
