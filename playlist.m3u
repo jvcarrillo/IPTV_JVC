@@ -138,3 +138,12 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300" group-title="Costa Rica", CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg" group-title="Nicaragua",TV NOTICIAS CANAL 2
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.net/pt-data/uploads/logo/ni-viva-nicaragua-canal-13.jpg" group-title="Nicaragua",VIVA NICARAGUA CANAL 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8 
+
