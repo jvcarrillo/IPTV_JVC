@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantiles", Animax
-http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
@@ -15,17 +12,21 @@ http://ligatv.net:25461/live/clarotv/20012019/277.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/2929.gif" group-title="Peliculas y Series", CLASSIQUE TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="Peliculas y Series", DHE HD LATINO
+http://hls.giize.com/kr/a1CIs1EVtS.m3u8?ch=dhe
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MqCnUJrEXzw/Uf8Ijci2_xI/AAAAAAAAbHk/gCoWv1YHZ4c/s1600/Cin%C3%A9+FX+logo+2013.jpg" group-title="Peliculas y Series", FX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVD1UkLNtG6Os1j30I7H1I1b4EBxgFeC3rkbJjdP6qKM4gB2x3" group-title="Peliculas y Series", HBO
 http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1594.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Peliculas y Series",Tv Pop
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.png" group-title="Peliculas y Series", SPACE HD LATINO
+http://hls.giize.com/kr/a1CIs1EVtS.m3u8?ch=space
+
 
 
 
@@ -42,8 +43,14 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="123" group-title="Entretenimiento", Efekto Tv HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
@@ -59,6 +66,15 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/small.17264306_1618446504835714_3401698618822389384_n.jpg.ea1671076d354ad1979400d92e72960f.jpg" group-title="Musica", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", Top LatinoTV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Virgin_17_logo.png" group-title="Musica", Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
 
@@ -120,30 +136,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:-1 tvg-logo="" group-title="pelicula", La cueva
+https://onedrive.live.com/download.aspx?authkey=%21APfqKSYCChLMLoQ&cid=D5072BBB4F142590&resid=D5072BBB4F142590%213404&parId=D5072BBB4F142590%212380&o=OneUp
 
-#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2uxwiu9.png" group-title="Costa Rica", Repretel CANAL 6 FULL HD 
-http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_w1874960427.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="Costa Rica", Repretel CANAL 11 HD 
-http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png" group-title="Costa Rica", Repretel CANAL 4 HD 
-http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica", Repretel CANAL 2 HD 
-http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telered.png?fit=500%2C300" group-title="Costa Rica", TELERED TELEVISION HD 
-http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300" group-title="Costa Rica", CANAL 9 TV SUR CR
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg" group-title="Nicaragua",TV NOTICIAS CANAL 2
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.net/pt-data/uploads/logo/ni-viva-nicaragua-canal-13.jpg" group-title="Nicaragua",VIVA NICARAGUA CANAL 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8 
 
