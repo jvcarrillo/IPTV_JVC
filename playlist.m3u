@@ -118,6 +118,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 #EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="Espana", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oj2QAm-Yt6o/VwZF43nP9cI/AAAAAAAABYk/8da6XwxzznsYWqODeui0zm2GCXZhJWQpw/h120/es%2Bantena%2B3.png" group-title="Espana", Antena 3
+https://vergol.com/canales/live1/antena3.php
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="Mexico", Canal 4 Saltillo
@@ -135,9 +137,5 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/images/nnSRY5" group-title="pelicula", La cueva (2017)
-https://onedrive.live.com/download.aspx?authkey=%21APfqKSYCChLMLoQ&cid=D5072BBB4F142590&resid=D5072BBB4F142590%213404&parId=D5072BBB4F142590%212380&o=OneUp
 
 
