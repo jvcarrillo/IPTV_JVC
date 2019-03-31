@@ -43,17 +43,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", Top LatinoTV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Virgin_17_logo.png" group-title="Musica", Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/sv_canal-10-nacional_m.png" group-title="El Salvador",Canal 10
-http://198.24.135.42:80/canal10/canal10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png" group-title="El Salvador", Canal 11 TuTV
 http://198.24.135.42:80/canal11/canal11/playlist.m3u8
@@ -71,8 +62,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Canal_5_Telesol_San_Juan.png" group-title="Argentina",Canal 5 Telesol
-http://149.56.98.124:9090/hls/telesol.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-1/c33.0.200.200/p200x200/424028_364415380248328_708893702_n.jpg?_nc_cat=0&oh=563ae284e64a7565d767cb23c6199bbb&oe=5C05FBC2" group-title="Argentina",Canal 9 Comodoro Rivadavia
 http://live.canalnueve.tv:8082/hls/canal.m3u8
