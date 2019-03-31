@@ -80,8 +80,6 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
 #EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="Espana", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oj2QAm-Yt6o/VwZF43nP9cI/AAAAAAAABYk/8da6XwxzznsYWqODeui0zm2GCXZhJWQpw/h120/es%2Bantena%2B3.png" group-title="Espana", Antena 3
-https://vergol.com/canales/live1/antena3.php
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="Mexico", Canal 4 Saltillo
@@ -90,8 +88,6 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
 
