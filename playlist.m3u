@@ -26,10 +26,7 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
-https://secure-streams.akamaized.net/rt-esp/index.m3u8
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
@@ -45,9 +42,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/small.17264306_1618446504835714_3401698618822389384_n.jpg.ea1671076d354ad1979400d92e72960f.jpg" group-title="Musica", Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", Top LatinoTV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
