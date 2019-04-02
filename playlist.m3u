@@ -42,6 +42,8 @@ http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.png" group-title="Peliculas y Series",SPACE HD LATINO
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11317.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
@@ -429,12 +431,9 @@ http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11345.m3u8
 http://bit.ly/2CjtK3E
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg",Golden Edge HD LATINO
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11344.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINE", GOLDEN PREMIER HD MEX
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/10708.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/alacarta/10.png",PREMIER 2 FULHD LATINO
 http://144.217.11.219:25461/live/dEnU2j8wZ/4tv2Y3rt6J/4736.m3u8
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="CINE", DHE HD LATINO
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11238.m3u8
+
 #EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",CANAL SONY FULL HD  MEX 
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11292.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC 
@@ -552,8 +551,6 @@ http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11348.m3u8
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11296.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11349.m3u8
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.png" group-title="CINE",SPACE HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="CINE PREMIUM",TCM HD LATINO
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11311.m3u8
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/wxw0.png" group-title="ENTRETENIMIENTO",TBS FULLHD LATINO
