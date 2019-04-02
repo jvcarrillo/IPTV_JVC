@@ -629,8 +629,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Canal 3 TV HD
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
-http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/AlUK3kT2VNq7-QVHj6ev0BwEsj8gM4cYgqbmSJZKi-KQxoSCualdChk4wwprBADu2Ho=w300" group-title="SudAmerica", Latina TV HD
 https://cialivetec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8&ip=190.237.110.62&hash=0d04fddca63552542d7ce&width=700&height=395&hide=0&credentials=1&timestamp=1522721627&ttl=172800&cache=55773.054290047825
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/america-tv.jpg",AMERICA TV 
