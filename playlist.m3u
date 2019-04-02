@@ -186,8 +186,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Panico.png" group-title="Cine", PANICO HD
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11275.m3u8
-#EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="LATINO", Unimas 
-http://149.56.26.6:25461/live/eduardo/eduardo/68420.m3u8
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE Y SERIES", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 zEXTINF:-1 tvg-id="" tvg-name="24/7: Peliculas FULL HD" tvg-logo="http://i68.tinypic.com/10ns6ye.png" group-title="CANALES 24/7",CANAL: DE Peliculas FULL HD LATINO
@@ -461,8 +459,7 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14 HD
 http://181.143.238.252/live/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1US5eCanIa_pqfoFBA1FI-Z3xWnij3E4e10X_2nRDskw7YuJ" group-title="LATINO",RCN Novelas C0L
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANOTY",Tele VIDA (Colombia)
@@ -615,8 +612,6 @@ http://us.live.skyfolk.mk/live.m3u8
 http://photocall.tv/un?ch=crime
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br_hd.jpg",CINE SKY HD 
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/pasiones_logo_big_grandefinal.jpg" group-title="LATINO", Pasiones HD
-http://127.0.0.1:52047/http/158.69.199.21/clarotv/claro.php?calidad=4&canal=762286&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="SudAmerica",Canal 4
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1414225809_b3044100.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw" group-title="Peliculas",EUROPA HD
@@ -745,8 +740,6 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 http://live.m2.tv/hls/stream.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="http://radiodigital.fm/wp-content/themes/digitalfm/images/marca.png",CADENA DIGITAL FM
 http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w1739773445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/44i7vyw.png" group-title="LATINO",Concert Channel
-http://www.iptvmexico.xyz/play3.php?calidad=05&canal=CONCERT_CHANNEL_HD&token=494922/2796.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mM0Bx/46d1a41194.png" group-title="Entretenimiento", Trendy
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACu9QTH.png" group-title="PANAMA",OYE HD
