@@ -694,8 +694,6 @@ http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGAT
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
 http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/1269vdk.png" group-title="ENTRETENIMIENTO",VH1 CLASS HD
-http://127.0.0.1:38588/http/158.69.199.21/clarotv/claro.php?calidad=4&canal=762206&f=.m3u8
 #EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MUSICA",PERU TOP LatiNO HD
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png", Mi Musica HD
