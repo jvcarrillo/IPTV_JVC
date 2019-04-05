@@ -23,6 +23,7 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="123" group-title="Entretenimiento", Efekto Tv HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
@@ -81,14 +82,14 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="Espana", 13tv
+#EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Espana", 24H
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
-
-#EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="Espana", TV3
+#EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="España", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
 
 
 
@@ -754,8 +755,7 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="SPAIN",LifeTV
 http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
+
 #EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/10/movistarestrenos.jpg",MOVISTAR CANAL DE ESTRENOS 
 http://edge1.lacalleochotv.online/live/estrenos_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
