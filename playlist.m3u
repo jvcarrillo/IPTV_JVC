@@ -19,6 +19,8 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="Entretenimiento",ACS NETWORK PLAYER HD
+http://inliveserver.com:1935/8494/8494/chunklist_w378066150.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
@@ -85,11 +87,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="España", TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
 
 
 
@@ -176,8 +173,6 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD LATINO
 http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/455.ts
-#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="INFANTILES",ACS NETWORK PLAYER HD
-http://inliveserver.com:1935/8494/8494/chunklist_w378066150.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/mediatv.png",TU MEJOR TELEVISION FULHD
 http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/nacional/sanclementeutv.png",UTV SAN CLEMENTE HD
@@ -932,12 +927,8 @@ http://192.227.107.159:5219/stream
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 #EXTINF:-1,RT
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/47mne9t.png" group-title="FAVORITOS", UNIVISION HD
-http://mxiptv.org:7000/live/1qoZHo2jmgQLKY4HUDe8/Z4mMTNNkLAsxXHJ4dj9N/16.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/47mne9t.png" group-title="FAVORITOS", UNIVISION
-http://142.0.43.5:25461/live/teleapk/09072018/275.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rUCZ2yu.png" group-title="FAVORITOS", Telemundo 51 HD
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
+
+
 #EXTINF:-1 tvg-logo="https://sugarfactory.com/wp-content/uploads/2017/01/Telemundo-51-Miami-Logo.jpg",TELEMUNDO 51 
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO HD
