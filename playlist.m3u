@@ -7,7 +7,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
-
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/7WTzXck.png" group-title="MEXICO",Azteca 7 HD MEXICO
+http://149.56.26.6:25461/live/Tony123/Tony123/19391.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
@@ -344,16 +345,10 @@ http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LOGO_LAS_ESTRELLAS_2017.svg/revision/latest/scale-to-width-down/200?cb=20170108213622",Canal de las Estrellas HD
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68587.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO MX
-http://micine.club:25461/live/eamo2020/eamo2020/2070.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO FULL HD MEX
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", TiiN HD 
 http://192.99.80.6:8000/live/123456789/123456789/16463.m3u8
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once MMEXICO
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/7WTzXck.png" group-title="TV MEXICO",Azteca 7 HD MEXICO
-http://149.56.26.6:25461/live/Tony123/Tony123/19391.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP Los Mochis
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun HD
