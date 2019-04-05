@@ -443,8 +443,6 @@ http://ligatv.net:25461/live/clarotv/20012019/2.m3u8
 http://192.99.80.6:8000/live/123456789/123456789/16978.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
 http://192.99.80.6:8000/live/123456789/123456789/16941.m3u8
-#EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/SENAL_COLOMBIA_COLOR-01_web.png" group-title="COLOMBIA",Senal Colombia
-http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
 http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m5734a/20170710_130553.jpg" group-title="SudAmerica", CARACOL HD
@@ -455,8 +453,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",COLOMBIA RCN HD  
 http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14 HD
-http://181.143.238.252/live/livestream/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
