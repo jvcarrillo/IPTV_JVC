@@ -432,8 +432,8 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 http://ligatv.net:25461/live/clarotv/20012019/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD LATINO
 http://192.99.80.6:8000/live/123456789/123456789/16978.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
-http://192.99.80.6:8000/live/123456789/123456789/16941.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
 http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m5734a/20170710_130553.jpg" group-title="SudAmerica", CARACOL HD
@@ -604,8 +604,8 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro HD
 http://162.255.86.122:25461/live/wwwdazplayercom/DescargaNuestraApp-IPTV-DaZPlayer/409.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEkH6Rj.png" group-title="TV ARGENTINA",TELEFE HD
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2500.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
