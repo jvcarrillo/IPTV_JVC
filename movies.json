@@ -1,17 +1,17 @@
 [{
-		"title": "¡A ganar!", 
-		"image": "https://m.media-amazon.com/images/M/MV5BMDU1MjdhN2UtNGRjMC00N2M4LTg1ZTUtZDIzZjIyMzA3YWRmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,704,1000_AL_.jpg", 
-		"releaseYear": 2018,
-		"genere":  ["Drama", "Sport"]
-	},
- 	{
-		"title": "7 Guardians of the Tomb", 
-		"image": "https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg", 
-		"releaseYear": 2018,
-		"genere":  ["Action", "Adventure", "Horror"]
-	},
-	{
-	"title": "12 Strong",
+	"title": "¡A ganar!", 
+	"image": "https://m.media-amazon.com/images/M/MV5BMDU1MjdhN2UtNGRjMC00N2M4LTg1ZTUtZDIzZjIyMzA3YWRmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,704,1000_AL_.jpg", 
+	"releaseYear": 2018,
+	"genere":  ["Drama", "Sport"]
+    },
+    {
+	"title": "7 Guardians of the Tomb", 
+	"image": "https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg", 
+	"releaseYear": 2018,
+	"genere":  ["Action", "Adventure", "Horror"]
+    },
+    {
+	"title": "12 Strong", 
 	"image": "https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg", 
 	"releaseYear": 2018,
 	"genere":  ["Action", "Drama", "History"]
