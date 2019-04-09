@@ -1,10 +1,23 @@
 [{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "https://api.androidhive.info/json/movies/1.jpg",
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+    {
+        "title": "District 9",
+        "image": "https://api.androidhive.info/json/movies/2.jpg",
+        "rating": 8,
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
         "title": "A ganar!", 
         "image": "https://m.media-amazon.com/images/M/MV5BMDU1MjdhN2UtNGRjMC00N2M4LTg1ZTUtZDIzZjIyMzA3YWRmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
         "releaseYear": 2018,
         "genere": ["Drama", "Sport"]
-},
- {       "title": "7 Guardians of the Tomb",
+     },
+     {
+        "title": "7 Guardians of the Tomb",
         "image": "https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg",
         "releaseYear":  2018,
         "genere": ["Action", "Adventure", "Horror"]
