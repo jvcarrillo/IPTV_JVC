@@ -16,10 +16,6 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="Entretenimiento",ACS NETWORK PLAYER HD
-http://inliveserver.com:1935/8494/8494/chunklist_w378066150.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
@@ -42,10 +38,6 @@ http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_w187496042
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png" group-title="Entretenimiento", Repretel CANAL 11
 http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.png" group-title="Peliculas y Series",SPACE HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11317.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
