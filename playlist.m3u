@@ -48,10 +48,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 
-
-#EXTINF:-1 tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png" group-title="El Salvador", Canal 11 TuTV
-http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-23-tvx_m.png" group-title="El Salvador", Canal 23 TVX
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
 
@@ -86,12 +82,6 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-
-#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/7WTzXck.png" group-title="Mexico",Azteca 7
-http://149.56.26.6:25461/live/Tony123/Tony123/19391.m3u8
-
-
-
 
 
 
