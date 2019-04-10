@@ -8,14 +8,7 @@
         "title": "7 Guardians of the Tomb",
         "image": "https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg",
         "releaseYear": 2018,
-        "genere":  ["Action","Adventure","Horror"]
-    },
-    {
-        "title": "Transformers: Age of Extinction",
-        "image": "https://api.androidhive.info/json/movies/3.jpg",
-        "rating": 6.3,
-        "releaseYear": 2014,
-        "genre": ["Action", "Adventure", "Sci-Fi"]
+        "genre": ["Action", "Adventure", "Horror"]
     },
     {
         "title": "X-Men: Days of Future Past",
