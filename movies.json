@@ -41,16 +41,16 @@
         "genre": ["Animation", "Adventure", "Family"]
     },
     {
-        "title": "How to Train Your Dragon",
+        "title": "How to Train Your Dragon2",
         "image": "https://api.androidhive.info/json/movies/15.jpg",
         "rating": 8.5,
-        "releaseYear": 2010,
+        "releaseYear": 2014,
         "genre": ["Animation", "Adventure", "Family"]
     },
     {
-        "title": "How to Train Your Dragon",
+        "title": "How to Train Your Dragon3",
         "image": "https://api.androidhive.info/json/movies/15.jpg",
         "rating": 8.5,
-        "releaseYear": 2010,
+        "releaseYear": 2018,
         "genre": ["Animation", "Adventure", "Family"]
     }]
