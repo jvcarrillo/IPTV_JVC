@@ -5,18 +5,6 @@
         "genre": ["Drama", "Sport"]
     },
     {
-        "title": "7 Guardians of the Tomb",
-        "image": "https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg",
-        "releaseYear"": 2018,
-        "genere":  ["Action", "Adventure", "Horror"]
-    },
-    {
-        "title": "12 Strong",
-        "image": "https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg", 
-        "releaseYear": 2018,
-        "genere":  ["Action", "Drama", "History"]
-    },
-    {
         "title": "Transformers: Age of Extinction",
         "image": "https://api.androidhive.info/json/movies/3.jpg",
         "rating": 6.3,
