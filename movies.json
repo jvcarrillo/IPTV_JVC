@@ -1,228 +1,228 @@
 [
-   {
-      "title":"¡A ganar!",
-      "image":"https://m.media-amazon.com/images/M/MV5BMDU1MjdhN2UtNGRjMC00N2M4LTg1ZTUtZDIzZjIyMzA3YWRmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Drama",
-         "Sport"
-      ]
-   },
-   {
-      "title":"7 Guardians of the Tomb",
-      "image":"https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Action",
-         "Adventure",
-         "Horror"
-      ]
-   },
-   {
-      "title":"12 Strong",
-      "image":"https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Action",
-         "Drama",
-         "History"
-      ]
-   },
-   {
-      "title":"24 Hours to Live",
-      "image":"https://m.media-amazon.com/images/M/MV5BMjAyNjY0MjU1NF5BMl5BanBnXkFtZTgwMjAwNDMwNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2017,
-      "genere":[
-         "Action",
-         "Sci-Fi",
-         "Thriller"
-      ]
-   },
-   {
-      "title":"211",
-      "image":"https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Action",
-         "Drama",
-         "Crime"
-      ]
-   },
-   {
-      "title":"47 Meters Down",
-      "image":"https://m.media-amazon.com/images/M/MV5BOGJlNDJkZmEtMjUwNS00ZWViLWIyZGEtN2Y5ZjZlNDE1NWJkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX675_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2017,
-      "genere":[
-         "Adventure",
-         "Drama",
-         "Horror"
-      ]
-   },
-   {
-      "title":"A Christmas Prince The Royal Wedding",
-      "image":"https://en.wikipedia.org/wiki/A_Christmas_Prince#/media/File:A_Christmas_Prince.png",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Drama",
-         "Romance"
-      ]
-   },
-   {
-      "title":"A la deriva",
-      "image":"https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Action",
-         "Aventure",
-         "Biography"
-      ]
-   },
-   {
-      "title":"A Quiet Place",
-      "image":"https://images-na.ssl-images-amazon.com/images/I/81FIfnR9OKL._SY550_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Drama",
-         "Horror",
-         "Mystery"
-      ]
-   },
-   {
-      "title":"A simple favor",
-      "image":"https://1645110239.rsc.cdn77.org/image/f330x470/q50/mm/been/movies18586/posters/a-simple-favor.20190201000000.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Comedy",
-         "Crime",
-         "Drama"
-      ]
-   },
-   {
-      "title":"Un viaje en el tiempo",
-      "image":"https://www.easons.com/globalassets/5637150827/all/books/childrens/fiction-teenage/teenage-fiction-12-to-15-years/97802413311632.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Adventure",
-         "Family",
-         "Fantasy"
-      ]
-   },
-   {
-      "title":"Infiel",
-      "image":"https://www.elseptimoarte.net/carteles/acrimony_69221.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Drama",
-         "Romance",
-         "Thriller"
-      ]
-   },
-   {
-      "title":"Alita Battle Angel",
-      "image":"https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg",
-      "rating": 8.3,
-      "releaseYear":2019,
-      "genere":[
-         "Action",
-         "Adventure",
-         "Romance"
-      ]
-   },
-   {
-      "title":"Alleycats",
-      "image":"https://m.media-amazon.com/images/M/MV5BNDc4NDY5YWQtMjc1YS00NGZmLThlN2QtNmMwYjk0NDU2NjMxXkEyXkFqcGdeQXVyMjQ1MzYwMjM@._V1_SY1000_SX675_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2016,
-      "genere":[
-         "Action",
-         "Thriller"
-      ]
-   },
-   {
-      "title":"Almas Gemelas",
-      "image":"https://m.media-amazon.com/images/M/MV5BY2VjZTI2ZjYtNjU1NC00MDA2LWI0ZDItZmE4MTQzNGJkNTk2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2015,
-      "genere":[
-         "Drama",
-         "Romance",
-         "Sci-Fi"
-      ]
-   },
-   {
-      "title":"Along with the gods the last 49 days",
-      "image":"https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/60/d4/6f/60d46f18-9368-b7b0-0d1e-2aa47e51ecf6/pr_source.lsr/268x0w.png",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Action",
-         "Drama",
-         "Fantasy"
-      ]
-   },
-   {
-      "title":"Alpha",
-      "image":"https://in.bmscdn.com/iedb/movies/images/website/poster/large/alpha-et00072332-12-03-2018-02-19-00.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Adventure",
-         "Drama",
-         "Family"
-      ]
-   },
-   {
-      "title":"Anonimo ",
-      "image":"https://m.media-amazon.com/images/M/MV5BMjE0MjIwMDE2MV5BMl5BanBnXkFtZTgwMzM5MDQzNTM@._V1_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Sci-Fi",
-         "Thriller"
-      ]
-   },
-   {
-      "title":"Anti Matter",
-      "image":"https://m.media-amazon.com/images/M/MV5BMjEyODcwNDk4OV5BMl5BanBnXkFtZTgwNzcwMjgxMzI@._V1_SX708_CR0,0,708,999_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2016,
-      "genere":[
-         "Mystery",
-         "Sci-Fi"
-      ]
-   },
-   {
-      "title":"Ant-Man y la Avispa",
-      "image":"https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
-      "rating": 8.3,
-      "releaseYear":2018,
-      "genere":[
-         "Action",
-         "Aventure",
-         "Comedy"
-      ]
-   },
-   {
-      "title":"Ant-Man",
-      "image":"https://static.posters.cz/image/750/poster/ant-man-grow-i24750.jpg",
-      "rating": 8.3,
-      "releaseYear":2015,
-      "genere":[
-         "Action",
-         "Aventure",
-         "Comedy"
-      ]
-   }
+  {
+    "title": "¡A ganar!",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU1MjdhN2UtNGRjMC00N2M4LTg1ZTUtZDIzZjIyMzA3YWRmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "title": "7 Guardians of the Tomb",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjMzZDI4YmEtZDIwNS00YWQ5LTkzN2UtMzJiMTliNjZiMzRjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ]
+  },
+  {
+    "title": "12 Strong",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Action",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "title": "24 Hours to Live",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAyNjY0MjU1NF5BMl5BanBnXkFtZTgwMjAwNDMwNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2017,
+    "genere": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "title": "211",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Action",
+      "Drama",
+      "Crime"
+    ]
+  },
+  {
+    "title": "47 Meters Down",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGJlNDJkZmEtMjUwNS00ZWViLWIyZGEtN2Y5ZjZlNDE1NWJkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX675_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2017,
+    "genere": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "title": "A Christmas Prince The Royal Wedding",
+    "image": "https://en.wikipedia.org/wiki/A_Christmas_Prince#/media/File:A_Christmas_Prince.png",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "title": "A la deriva",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Action",
+      "Aventure",
+      "Biography"
+    ]
+  },
+  {
+    "title": "A Quiet Place",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81FIfnR9OKL._SY550_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
+  },
+  {
+    "title": "A simple favor",
+    "image": "https://1645110239.rsc.cdn77.org/image/f330x470/q50/mm/been/movies18586/posters/a-simple-favor.20190201000000.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "title": "Un viaje en el tiempo",
+    "image": "https://www.easons.com/globalassets/5637150827/all/books/childrens/fiction-teenage/teenage-fiction-12-to-15-years/97802413311632.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "title": "Infiel",
+    "image": "https://www.elseptimoarte.net/carteles/acrimony_69221.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "title": "Alita Battle Angel",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2019,
+    "genere": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ]
+  },
+  {
+    "title": "Alleycats",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc4NDY5YWQtMjc1YS00NGZmLThlN2QtNmMwYjk0NDU2NjMxXkEyXkFqcGdeQXVyMjQ1MzYwMjM@._V1_SY1000_SX675_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2016,
+    "genere": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "title": "Almas Gemelas",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2VjZTI2ZjYtNjU1NC00MDA2LWI0ZDItZmE4MTQzNGJkNTk2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2015,
+    "genere": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Along with the gods the last 49 days",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/60/d4/6f/60d46f18-9368-b7b0-0d1e-2aa47e51ecf6/pr_source.lsr/268x0w.png",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "title": "Alpha",
+    "image": "https://in.bmscdn.com/iedb/movies/images/website/poster/large/alpha-et00072332-12-03-2018-02-19-00.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "title": "Anonimo ",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE0MjIwMDE2MV5BMl5BanBnXkFtZTgwMzM5MDQzNTM@._V1_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Sci-Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "title": "Anti Matter",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEyODcwNDk4OV5BMl5BanBnXkFtZTgwNzcwMjgxMzI@._V1_SX708_CR0,0,708,999_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2016,
+    "genere": [
+      "Mystery",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Ant-Man y la Avispa",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+    "rating": 8.3,
+    "releaseYear": 2018,
+    "genere": [
+      "Action",
+      "Aventure",
+      "Comedy"
+    ]
+  },
+  {
+    "title": "Ant-Man",
+    "image": "https://static.posters.cz/image/750/poster/ant-man-grow-i24750.jpg",
+    "rating": 8.3,
+    "releaseYear": 2015,
+    "genere": [
+      "Action",
+      "Aventure",
+      "Comedy"
+    ]
+  }
 ]
