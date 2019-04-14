@@ -29,8 +29,11 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAqme8CkfkK9ycCB14PXCEeN41N9_TdL01HXg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", Efekto Tv HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 1 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg", MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
@@ -57,6 +60,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="Musica", CANAL 88 STEREO 
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Musica", TICAVISION CANAL 52 HD 
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 
 
@@ -138,31 +144,30 @@ http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_con_sombra.png" group-title="Costa Rica", Canal UCR 
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8 
 
-
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reNsN/6560b47772.png" group-title="Costa Rica", Canal 19 
-http://stream01.cyberfuel.com/RadioCostaRica/livestream/chunklist_w1906756685.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CentroAmerica", TICAVISION CANAL 52 HD 
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://doutico.com/wpimages/wp284c9e60_06.png",CANAL NICOYA TV 36 
+#EXTINF:-1 tvg-logo="http://doutico.com/wpimages/wp284c9e60_06.png" group-title="Costa Rica", CANAL NICOYA TV 36 
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D62pR8kQym8/maxresdefault.jpg",SAN JOSE TV CANAL48 
-https://www.youtube.com/watch?v=bhjpKOocOXs/watch?v=x2dte6JUbog&feature=youtu.be
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/42/9d/ae/429daea6-935a-779b-7cc0-f012797a8bae/pr_source.png/1200x630wa.png",FIDES TV 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/42/9d/ae/429daea6-935a-779b-7cc0-f012797a8bae/pr_source.png/1200x630wa.png" group-title="Radio IP",FIDES TV 
 http://radios.rarserver.net:1935/live/fides_360p/chunklist_w1087833765.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg",MULTIMEDIOS
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg",TV NOTICIAS CANAL 2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg"  group-title="NICARAGUA", TV NOTICIAS CANAL 2
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.net/pt-data/uploads/logo/ni-viva-nicaragua-canal-13.jpg",VIVA NICARAGUA CANAL 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHHSa2lAaxTMRVl418wwH0AASncfMC7H4NcyKZVS8yZrB4PHp",CANAL 9
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHHSa2lAaxTMRVl418wwH0AASncfMC7H4NcyKZVS8yZrB4PHp"  group-title="NICARAGUA", CANAL 9
 http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD LATINO
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/455.ts
+
+
+
+
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/mediatv.png",TU MEJOR TELEVISION FULHD
 http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/nacional/sanclementeutv.png",UTV SAN CLEMENTE HD
