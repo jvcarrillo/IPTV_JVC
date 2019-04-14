@@ -3,10 +3,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantiles", Animax
 http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD
-http://192.99.80.6:8000/live/123456789/123456789/32642.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
@@ -90,7 +86,8 @@ http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536
 #EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="Entretenimiento",NEX 21 TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.info
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="Entretenimiento",Telenord
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 
 
 
@@ -197,14 +194,11 @@ http://radios.rarserver.net:1935/live/fides_360p/chunklist_w1087833765.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg"  group-title="NICARAGUA", TV NOTICIAS CANAL 2
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg"  group-title="Nicaragua", TV NOTICIAS CANAL 2
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHHSa2lAaxTMRVl418wwH0AASncfMC7H4NcyKZVS8yZrB4PHp"  group-title="NICARAGUA", CANAL 9
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHHSa2lAaxTMRVl418wwH0AASncfMC7H4NcyKZVS8yZrB4PHp"  group-title="Nicaragua", CANAL 9
 http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
-
-
-
 
 
 
@@ -257,8 +251,7 @@ http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1657892726
 http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8
 #EXTINF:-1 tvg-logo="http://www.las-terrenas-live.com/upload/logo-telenord.jpg",telenord 12
 http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w1249362279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUwpSJsMwHotj3TWMKx-AiiIo4XjvlwrzzdvZfdpjehNGFRgBBg",TV WESTERNS 1947
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx",BLACK CINEMA TV 
@@ -886,8 +879,8 @@ https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sugarfactory.com/wp-content/uploads/2017/01/Telemundo-51-Miami-Logo.jpg",TELEMUNDO 51 
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO HD
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png" group-title="Entretenimiento", Telemundo Internacional HD
 http://102.165.52.64:25461/live/clarotv/20012019/171.m3u8?token=TkFRUhdfFw4aAQBXU1MNAldWW18EUAQGVFMGDAEEA1sHBlgEBgMGUggbHUAQEUZSUAg8UAUTDgUBB08aTUcES2oKXRFeFQ0DGhUTFgoIURULVU8bEVhQFgwUUQ4OAVUbGUFcSxBSR1pZVW4GBhNdVFRHWVcUXVgYFFkNZ1xRDFhbBxsJRgcXGBpQQhJBXxZ+XxYXUBVEQFsWdQxLTFUTS1wAXF0XUhVQXRl0DgYGQEVYBgpdAFUUbRZiBlRdVw5UG0EVEQZeQUZZTVRAWUcGBwBcQRVDUltBWEIRQRoOQ3pnQRURAU9BUVZKWA0NRw4VXFYWAUMdFl1FaRFdS0ATXFQOXEFGDRcEGhUTDwIda1ReCw1cAkVdW1hFQQIaBEMVFw5WXQ1DWkZnSVgGQV8WBgRdVApDTA==
 #EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias" tvg-name="CNN en Español",CNN en Español
