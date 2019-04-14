@@ -1,9 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="Infantiles", Disney Channel HD
+http://192.99.80.6:8000/live/123456789/123456789/32643.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantiles", Nick JR HD
+http://micine.club:25461/live/eamo2020/eamo2020/1968.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infantiles", Nick HD
+http://micine.club:25461/live/eamo2020/eamo2020/1970.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vSqPyfO646U/Vap1HY9lhbI/AAAAAAAAAUQ/Fnkm3Uy2cXw/s1600/nicktoon.png" group-title="Infantiles", Nicktoons
+http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/44.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantiles", Animax
+http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
+#EXTINF:-1 tvg-logo="https://www.kidsparc.fr/wp-content/uploads/2015/11/Logo-Nickelodeon.png" group-title="Infantiles",NICKELODEON
+http://185.66.143.240:25461/live/franky/franky/753.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD
+http://192.99.80.6:8000/live/123456789/123456789/32642.m3u8
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="Infantiles",EBS KIDS 
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantiles",Locomotion infantil
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
@@ -201,22 +219,7 @@ http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Infantil", Disney Channel HD
-http://192.99.80.6:8000/live/123456789/123456789/32643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infantil", Nick JR HD
-http://micine.club:25461/live/eamo2020/eamo2020/1968.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infantil", Nick HD
-http://micine.club:25461/live/eamo2020/eamo2020/1970.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vSqPyfO646U/Vap1HY9lhbI/AAAAAAAAAUQ/Fnkm3Uy2cXw/s1600/nicktoon.png" group-title="Infantil", Nicktoons
-http://198.255.114.218:8000/live/ez9RrBt05e/czfUqk5epQ/44.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantil", Animax
-http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
-#EXTINF:-1 tvg-logo="https://www.kidsparc.fr/wp-content/uploads/2015/11/Logo-Nickelodeon.png",NICKELODEON
-http://185.66.143.240:25461/live/franky/franky/753.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD
-http://192.99.80.6:8000/live/123456789/123456789/32642.m3u8
-#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",EBS KIDS 
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 
 
 
