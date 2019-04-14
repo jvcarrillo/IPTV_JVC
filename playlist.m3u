@@ -26,7 +26,7 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
 
-#EXTINF:-1 https://images.app.goo.gl/raXzGWS4h1Mszjjt5" group-title="Entretenimiento", Efekto Tv HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAqme8CkfkK9ycCB14PXCEeN41N9_TdL01HXg=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", Efekto Tv HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
@@ -104,24 +104,30 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel CANAL 4 HD 
 http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica", Repretel CANAL 2 HD 
 http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telered.png?fit=500%2C300", TELERED TELEVISION HD 
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300", CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", TV Sur 14 HD 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="Costa Rica", TV Sur 14 HD 
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png",SUPER 5 HD TV 
+
+#EXTINF:-1 tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png" group-title="Costa Rica", SUPER 5 HD TV 
 http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMGTBsQ400Z5umh5mnA8tpCCR3JIOC9cSKhfXoM=s1600-w400", TELESUR 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMGTBsQ400Z5umh5mnA8tpCCR3JIOC9cSKhfXoM=s1600-w400" group-title="Costa Rica", TELESUR 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940976728402472960/LRts_wHX_400x400.jpg",GUAPILES TV
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940976728402472960/LRts_wHX_400x400.jpg" group-title="Costa Rica", GUAPILES TV
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
-#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/009a63_60fcede9e7c0454899446564978f3902~mv2_d_1662_1536_s_2.png/v1/fill/w_784,h_725,al_c,usm_0.66_1.00_0.01/009a63_60fcede9e7c0454899446564978f3902~mv2_d_1662_1536_s_2.png", Tele UNO 1 HD 
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.8300.com.ar/wp-content/uploads/2015/04/cartago-logo1.png",CARTAGO tv 
 https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jcjLLJ9A_V0/maxresdefault_live.jpg", CANAL TRECES 13
