@@ -32,8 +32,11 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png" group-title="Peliculas y Series", ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg"group-title="Peliculas y Series", CIUDAD MAGAZINE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg" group-title="Peliculas y Series", CIUDAD MAGAZINE
 https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
+
+#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="Peliculas y Series", MicroVision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 
 
@@ -73,7 +76,12 @@ http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_w187496042
 http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="TV COSTA RICA"  group-title="Entretenimiento", Extrema Tv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="Entretenimiento", TVC TELEVICENTRO
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+
+
 
 
 
@@ -202,12 +210,8 @@ https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="Film&Arts (Latin America)" tvg-name="Film&Arts" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/051/original/pic_film_arts.png?1522177384" group-title="PREMIUM",Film&Arts
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EC: TVC TELEVICENTRO" tvg-logo="http://cdn.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="ECUADOR",EC: TVC TELEVICENTRO
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
-#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",TELECINCO CANAL 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-VXDoeMHwMLw/WBpNaCXApNI/AAAAAAAAExI/bzBQm20dob02pUcB-wstiNKLNVjdrJ1iwCK4B/s1600/megatv.jpgMega",TV Araquipa HD
 http://media1.cdnlayer.biz:1935/8016/8016/chunklist_w1301981595.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png",COMEDY CENTRAL HD
