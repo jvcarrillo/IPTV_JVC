@@ -81,6 +81,9 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="Entretenimiento", TVC TELEVICENTRO
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 
+#EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="Entretenimiento",NEX 21 TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.info
+
 
 
 
@@ -193,7 +196,6 @@ http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHHSa2lAaxTMRVl418wwH0AASncfMC7H4NcyKZVS8yZrB4PHp"  group-title="NICARAGUA", CANAL 9
 http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
-
 
 
 
@@ -472,10 +474,8 @@ http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/EwOBtIO.png" group-title="Canales Ecuatorianos", RTS HD
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Educa TC" tvg-logo="https://i.imgur.com/ESmucp9.png" group-title="TV ECUADOR",Educa TC HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/39b789_6585db34b47345e19d3c5453fefbb6af~mv2.jpg",CENTRO ECUADOR HD 
 https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJPjWgA.png" group-title="TV VARIOS",INTERCABLE CANAL 10 HD PARAGUAY
@@ -910,8 +910,7 @@ http://www.iptvmexico.xyz/tv1.php?calidad=05&canal=TRU_TV_HD&token=494922/320.m3
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="CentroAmerica",NEX 21 TV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.info
+
 #EXTINF:-1  tvg-logo="https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/11_16_16_flamencoradio5-e1479209627998.jpg" group-title="SPAIN",Canal Sur Flamenco
 http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/895766074452566016/uZx3koXo.jpg", TENOVELAS
