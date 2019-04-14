@@ -7,6 +7,9 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Peliculas y Series", GOLDEN PREMIER HD MEX http://iptv.wtf:25461/live/ZthA5TEUj/vm72kO9h6T/10708.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
