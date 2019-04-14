@@ -29,6 +29,11 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/09/logo-tvs.png" group-title="Peliculas y Series", TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png" group-title="Peliculas y Series", ATV
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg"group-title="Peliculas y Series", CIUDAD MAGAZINE
+https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
 
 
 
@@ -195,12 +200,8 @@ https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png",ATV
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
-#EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/programacion/08sky-logo-GalaTvHD.jpg",GALAVISION HD
-http://192.99.80.6:8000/live/123456789/123456789/16678.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg",CIUDAD MAGAZINE
-https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
+
+
 #EXTINF:-1 tvg-ID="Film&Arts (Latin America)" tvg-name="Film&Arts" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/051/original/pic_film_arts.png?1522177384" group-title="PREMIUM",Film&Arts
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EC: TVC TELEVICENTRO" tvg-logo="http://cdn.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="ECUADOR",EC: TVC TELEVICENTRO
