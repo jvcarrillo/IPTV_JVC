@@ -23,6 +23,15 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinepokerreport.com/wp-content/uploads/2013/09/wms-industries-online-poker.jpg" group-title="Peliculas y Series", WMS HD
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="Peliculas y Series", PUÑAL TV HD
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/09/logo-tvs.png" group-title="Peliculas y Series", TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png" group-title="Deportes", CDO DEPORTES
@@ -181,24 +190,11 @@ http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNjCsaAKgrpqs6gv_9Y8dPSFltytyrQpPokvKksssNODsiGPS",CANAL 22 HD
-http://190.2.153.8:25461/live/dazplayer//daz/133.m3u8
-#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png",PUÑAL TV HD
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
-#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/09/logo-tvs.png",EL CANAL 22 TVS DE TODOS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/707590201401581568/n8OaJUHc.jpg",POP HD
-http://162.255.86.122:25461/live/wwwdazplayercom/DescargaNuestraApp-IPTV-DaZPlayer/266.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9PfHZmFm9_WL4vcIbnJOjtInDXo2G9LE7boXzehTcgVbdDACH",ONE tracers
-http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
-#EXTINF:-1 tvg-logo="http://leedor.com/wp-content/uploads/2017/12/screenshot-2017-12-10.jpg",CINE AR HD
-http://tv.cine.ar/wp-content/uploads/2019/01/promoweb.mp4
-#EXTINF:-1 tvg-logo="https://img.webme.com/pic/l/latinoamericateve/lo_telecreativa.jpg",CANAL 5 ELECREATIVA 
-http://162.255.86.122:25461/live/EntraAhoraAwwwdazplayercom/IPTVGratisDaZPlayer/595.m3u8
-#EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif",CANAL 5 MULTIMEDIOS TELECREATIVA
-http://58ee6ee476b11.streamlock.net:1935/live/zencast4/playlist.m3u8  
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAZqoIXSarUBbSM0OEiH20sqvicbrx7IpboTXkBIx0kXEZ8GOc", Canal 5 Telesol HD
-http://149.56.98.124:9090/hls/telesol.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png",ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 #EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/programacion/08sky-logo-GalaTvHD.jpg",GALAVISION HD
