@@ -17,19 +17,19 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vHyzKSx.png" group-title="Peliculas y Series", FMHOT
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
 
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3782801/logo_estv.png" group-title="Peliculas y Series", Peñoculas 7/24
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3782801/logo_estv.png" group-title="Peliculas y Series", Peliculas 7/24
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.onlinepokerreport.com/wp-content/uploads/2013/09/wms-industries-online-poker.jpg" group-title="Peliculas y Series", WMS HD
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="Peliculas y Series", PUÑAL TV HD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9S_fV-oLS_E/WiExTNbQZ7I/AAAAAAABxgE/3eU7lZOAdE4dTPtB8WMD3-HF8GvLVas0gCLcBGAs/s1600/FB_IMG_1512128411102.jpg" group-title="Peliculas y Series", PUÑAL TV HD
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/09/logo-tvs.png" group-title="Peliculas y Series", TVS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtEPqqRWYFUDaN8BF_L0NuAbhYJAO01NbdSm7dHDxIhWjRdslFLQ" group-title="Peliculas y Series", TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png" group-title="Peliculas y Series", ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Peliculas y Series", ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg" group-title="Peliculas y Series", CIUDAD MAGAZINE
