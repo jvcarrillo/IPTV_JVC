@@ -115,6 +115,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="Guatemala", Guatevision  
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
@@ -307,10 +313,6 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision  
-http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png" group-title="GUATEMALA",Canal 3
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="http://guateradios.com/wp-content/uploads/2018/06/canal7-televisiete.png" group-title= "PAISES", TELEVISIETE 7
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8 
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/Teledoce_2013_blanco.jpg",TELE DOCE 12 HD 
