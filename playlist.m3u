@@ -120,6 +120,10 @@ http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" group-title="Rep. Dominicana", XTREMO TV FULL HD
+http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w619691117.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
@@ -446,14 +450,13 @@ https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
 #EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg",CANAL AME 47
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" group-title="DOMINICANA", XTREMO TV FULL HD
-http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w619691117.m3u8
 #EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="NATIONAL" tvg-name="Ready HD TV" , READY TV CANAL 6 HD REPUBLICA DOMINICANA
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://2.bp.blogspot.com/-uPpVcbIm6EY/VQAzwvqhN4I/AAAAAAAAmpE/69XIyuEhDtY/s1600/problemas-en-telecentro-canal-13.gif.png",TELECENTRO CANAL 13 HD
 http://stream.grupotelemicro.com/13.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WRq-z1cSU50/hqdefault.jpg" group-title="NATIONAL" group-title="DOMINICANA", CANAL 5 HD
-http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png",GH TELEVISION CANAL 10
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 REPUBLICA DOMINICANA 
