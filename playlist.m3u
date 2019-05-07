@@ -51,6 +51,8 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="Deportes", Fox Sport
+http://tv.latintvweb.com:25461/u7e1GUxH1i/BicQqyZWYH/91080
 
 
 
