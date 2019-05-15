@@ -5,6 +5,13 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", TiiN HD 
+http://192.99.80.6:8000/live/123456789/123456789/16463.m3u8
+
+#EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425" group-title="Infantiles", CANALES INFANTIL
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+
+
 
 
 
@@ -328,8 +335,7 @@ http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LOGO_LAS_ESTRELLAS_2017.svg/revision/latest/scale-to-width-down/200?cb=20170108213622",Canal de las Estrellas HD
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/68587.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", TiiN HD 
-http://192.99.80.6:8000/live/123456789/123456789/16463.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP Los Mochis
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun HD
@@ -596,8 +602,7 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 https://cialivetec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8&ip=190.237.110.62&hash=0d04fddca63552542d7ce&width=700&height=395&hide=0&credentials=1&timestamp=1522721627&ttl=172800&cache=55773.054290047825
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/america-tv.jpg",AMERICA TV 
 http://s1.multicanal.tel:25461/live/jortuz/jortuz/3844.m3u8
-#EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",CANALES INFANTIL
-http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+
 #EXTINF:-1 tvg-logo="https://www.grupoisos.com/uploads/posts/crop/480-1842294.jpg",BABY TV
 http://192.99.80.6:8000/live/123456789/123456789/16947.m3u8
 
