@@ -7,9 +7,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Peliculas y Series", BHTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
@@ -48,7 +45,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="Deportes", Fox Sport
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="Deportes", Fox Sport 2
 http://tv.latintvweb.com:25461/u7e1GUxH1i/BicQqyZWYH/91080
 
 
@@ -392,8 +389,8 @@ http://149.56.26.6:25461/live/Tony123/Tony123/8553.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Cinema" tvg-logo="http://167.114.172.82/imagens/7.png" group-title="• Interés general",Azteca Cinema
-http://144.217.255.70:8000/live/multiusuarioArgenTV/multiusuario/7394.ts
+
+
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN HD MEX LATINO
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11320.m3u8
 #EXTINF:-1 tvg-logo="https://farm5.static.flickr.com/4683/39199446922_0b81e3e488_b.jpg",GOLDEN PLUS MEX 
