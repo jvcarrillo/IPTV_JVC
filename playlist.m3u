@@ -98,10 +98,9 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.i
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="Entretenimiento",Telenord
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="ENTRETENIMIENTO",E! HD LATINO
-http://192.99.80.6:8000/live/123456789/123456789/18339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Canal 3 TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Entretenimiento",Canal 3 TV HD
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
 http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png" group-title="ENTRETENIMIENTO",Investigation Discovery ID HD LATINO
