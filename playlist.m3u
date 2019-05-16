@@ -190,6 +190,18 @@ http://149.56.26.6:25461/live/Tony123/Tony123/8553.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png" group-title="Mexico", CINEMA DINAMITA MEX
+http://alt.mirandatvandroid.cf/mirandatvhls/streams/23_.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NHQtMLU.jpg" group-title="Mexico", De Pelicula
+http://micine.club:25461/live/eamo2020/eamo2020/2054.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3TKq7w.png" group-title="Mexico", Telefuturo
+http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
+
 
 
 
@@ -400,12 +412,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCDkSlL.png" group-title="SudAmerica", Canal Claro HD
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png" group-title="CINE PREMIUM",CINEMA DINAMITA MEX
-http://alt.mirandatvandroid.cf/mirandatvhls/streams/23_.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NHQtMLU.jpg" group-title="CINE PREMIUM",De Pelicula FULL HD MEXICO
-http://micine.club:25461/live/eamo2020/eamo2020/2054.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3TKq7w.png" group-title="PARAGUAY", Telefuturo HD MEXICO
-http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
+
 
 
 
@@ -422,10 +429,6 @@ http://144.217.11.219:25461/live/dEnU2j8wZ/4tv2Y3rt6J/4736.m3u8
 
 #EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",CANAL SONY FULL HD  MEX 
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC 
-https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC HD MEX
-http://ligatv.net:25461/live/clarotv/20012019/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD LATINO
 http://192.99.80.6:8000/live/123456789/123456789/16978.m3u8
 
@@ -694,8 +697,6 @@ http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w2010839434.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AL3AGGx.png",CANAL CARNAVAL
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpRgjdj.png",Canal Provincia 
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDi9RSTDqibXagTjG-5wj0xr-C6ZX3Xn0jh0Es5_ccQgm3zX1",DESIERTO tv
