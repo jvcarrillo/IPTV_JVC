@@ -164,14 +164,11 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel CANAL 4 HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png" group-title="Costa Rica", Repretel CANAL 4 HD 
 http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica", Repretel CANAL 2 HD 
-http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telered.png?fit=500%2C300", TELERED TELEVISION HD 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telered.png?fit=500%2C300" group-title="Costa Rica", TELERED TELEVISION HD 
 http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300", CANAL 9 TV SUR CR
