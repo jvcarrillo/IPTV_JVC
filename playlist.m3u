@@ -44,31 +44,6 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11318.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png" group-title="Entretenimiento" tvg-name="Mundo Fox",Mundo Fox 
-http://live.nibbletv.info/CH/ZAtXJJVWec/FOX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="ENTRETENIMIENTO",FOX LIFE FULHD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11306.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES  HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11346.m3u8
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX LATINO HD
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11281.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11309.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zVFzzGYn5UAud2CT7Oh5JKyooBpbrRRUschAQy3AkqskX0CqeA",A&E HD LATINO 
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11296.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVX98sz.png" group-title="CINE PREMIUM",MAX UP HD LATINO
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/474.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX HD 
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11347.m3u8
-#EXTINF:-1 tvg-logo="hhttp://media.tvblog.it/c/cri/crimesubianco.jpg",PREMIUM CRIME
-http://photocall.tv/un?ch=crime
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br_hd.jpg",CINE SKY HD 
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-
-
 
 
 
