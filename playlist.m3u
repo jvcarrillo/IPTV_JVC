@@ -34,6 +34,38 @@ https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_liv
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="Peliculas y Series", MicroVision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series",CiNEMA +
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byu8ZMS.jpg" group-title="Peliculas y Series",FOX PREMIUM CINEMA Ingles
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="Peliculas y Series",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11348.m3u8
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11349.m3u8
+#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/tnt.jpg",TNT FULLHD LATINO
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11323.m3u8
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2zrg8le.png" group-title="CINE PREMIUM",UNIVERSAL CHANNEL HD
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11315.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="CINE PREMIUM", Warner Channel FULLHD LATINO
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11321.m3u8
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="CINE PREMIUM", StTUDIO UNIVERSAL HD LATINO
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11338.m3u8
+#EXTINF:-1 tvg-logo="http://158.69.127.19/oscuros/foxseries.jpg" group-title="CINE PREMIUM",FOX PREMIUM SERIES FULLHD LATINO
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11369.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -221,14 +253,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png" group-title="Mexico", CINEMA DINAMITA MEX
-http://alt.mirandatvandroid.cf/mirandatvhls/streams/23_.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NHQtMLU.jpg" group-title="Mexico", De Pelicula
-http://micine.club:25461/live/eamo2020/eamo2020/2054.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3TKq7w.png" group-title="Mexico", Telefuturo
-http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
 
 
@@ -527,50 +552,11 @@ http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11346.m3u8
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11281.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL HD LATINO
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11309.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",CiNEMA+ PLUS HD LATINO
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11348.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zVFzzGYn5UAud2CT7Oh5JKyooBpbrRRUschAQy3AkqskX0CqeA",A&E HD LATINO 
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11296.m3u8
-#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11349.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="CINE PREMIUM",TCM HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11311.m3u8
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/wxw0.png" group-title="ENTRETENIMIENTO",TBS FULLHD LATINO
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/458.ts
-#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/tnt.jpg",TNT FULLHD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11323.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11322.m3u8
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2zrg8le.png" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL HD
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11315.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Entretenimiento", Warner Channel FULLHD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11321.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas", StTUDIO UNIVERSAL HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11338.m3u8
-#EXTINF:-1 tvg-ID="6757ac0777760e0b3b8e2032e3e5db7f" tvg-name="Fox Series" tvg-logo="http://158.69.127.19/oscuros/foxseries.jpg" group-title="PREMIUM",FOX PREMIUM SERIES FULLHD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11369.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Vb5kv2.jpg" group-title="CINE PREMIUM",FOX PREMIUN ACTION HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11373.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A04zXqz.png" group-title="CINE PREMIUM",FOX PREMIUN MOVIES HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11370.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byu8ZMS.jpg" group-title="CINE PREMIUM",FOX PREMIUM CINEMA HD LATINO 
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uT3M7lL.jpg" group-title="CINE PREMIUM",FOX PREMIUN FAMILY HD LATINO
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/450.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFeZD7J.jpg" group-title="CINE PREMIUM",FOX PREMIUM CLASSICS HD LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11371.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhHWw7B.jpg" group-title="CINE PREMIUM",FOX PREMIUM COMEDY HD LATINO
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2 HD LATINO
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1aHCTHz.jpg" group-title="CINE PREMIUM",HBO PLUS HD LATINO
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/409.ts
-#EXTINF:-1 tvg-ID="HBO Family (Spanish)" tvg-name="HBO Family" tvg-logo="http://158.69.127.19/oscuros/hbofamily.jpg" group-title="PREMIUM",HBO Family HD LATINO
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/404.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg" group-title="CINE PREMIUM",HBO SIGNATURE HD LATINO
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/14293.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png?SrRegio" group-title="USA",USA: HBO COMEDY HD
 http://185.66.143.240:25461/live/franky/franky/235.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/xuM9C/c191111316.png" group-title="USA" tvg-name="USA: HBO Zone",USA: HBO ZONE HD
