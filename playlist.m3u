@@ -123,6 +123,35 @@ http://190.11.224.14:8134/liveevent.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png" group-title="España", ESPAÑA
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309" group-title="España", COSMO TV HD ESPAÑA
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309" group-title="España", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="España", La 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="España", LifeTV
+http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/10/movistarestrenos.jpg" group-title="España", MOVISTAR CANAL DE ESTRENOS 
+http://edge1.lacalleochotv.online/live/estrenos_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
+http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/34.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOgezsz.png" group-title="España", MOVISTAR DCINE HD
+http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España",MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/81717eef9d81ab9abf386f2c11c58e59/606/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72sGTeY.png" group-title="España",MOVISTAR ACCION HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8?sd=10&rebase=on 
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" group-title="Rep. Dominicana", XTREMO TV FULL HD
 http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w619691117.m3u8
@@ -161,8 +190,6 @@ http://149.56.26.6:25461/live/Tony123/Tony123/8553.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="Mexico", TVMAS Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
 
 
 
@@ -171,6 +198,8 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="Ingles", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+
 
 
 
@@ -679,31 +708,10 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo ="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/la-mega-mundial.png?resize=356%2C220",LA MEGA MUNDIAL 
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",ESPAÑA
-http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 #EXTINF:-1 tvg-logo="http://i59.tinypic.com/121snyq.jpg" group-title="Cine", Paramount Channel HD
 http://paramount.live.flumotion.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309", COSMO TV HD ESPAÑA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309", COSMO TV
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="SPAIN",La 1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="SPAIN",LifeTV
-http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/10/movistarestrenos.jpg",MOVISTAR CANAL DE ESTRENOS 
-http://edge1.lacalleochotv.online/live/estrenos_1/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
-http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/34.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FOgezsz.png" group-title="TV ESPAÑA",MOVISTAR DCINE HD
-http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España",MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/81717eef9d81ab9abf386f2c11c58e59/606/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72sGTeY.png" group-title="TV ESPAÑA",MOVISTAR ACCION HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8?sd=10&rebase=on 
+
 #EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8?sd=10&rebase=on 
 #EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="http://www.area787magazine.com/wp-content/uploads/2017/08/sgaXRdpZ.jpg" group-title="ESPAÑA",ES: CALLE 13 ESPAÑA HD
@@ -736,8 +744,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
 #EXTINF:-1 tvg-logo="https://www.prodege.com/wp-content/uploads/2014/01/unnamed-1-1.png", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1 tvg-logo="http://canalfavorito.com/videos/wp-content/uploads/2017/05/tn.png" group-title="Noticias", TN
-https://www.youtube.com/watch?v=0tek2aa8hAQ
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GxqTE25.png" group-title="TV ESPAÑA",TELECINCO HD
@@ -878,10 +884,7 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&r
 
 #EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png" group-title="Entretenimiento", Telemundo Internacional HD
 http://102.165.52.64:25461/live/clarotv/20012019/171.m3u8?token=TkFRUhdfFw4aAQBXU1MNAldWW18EUAQGVFMGDAEEA1sHBlgEBgMGUggbHUAQEUZSUAg8UAUTDgUBB08aTUcES2oKXRFeFQ0DGhUTFgoIURULVU8bEVhQFgwUUQ4OAVUbGUFcSxBSR1pZVW4GBhNdVFRHWVcUXVgYFFkNZ1xRDFhbBxsJRgcXGBpQQhJBXxZ+XxYXUBVEQFsWdQxLTFUTS1wAXF0XUhVQXRl0DgYGQEVYBgpdAFUUbRZiBlRdVw5UG0EVEQZeQUZZTVRAWUcGBwBcQRVDUltBWEIRQRoOQ3pnQRURAU9BUVZKWA0NRw4VXFYWAUMdFl1FaRFdS0ATXFQOXEFGDRcEGhUTDwIda1ReCw1cAkVdW1hFQQIaBEMVFw5WXQ1DWkZnSVgGQV8WBgRdVApDTA==
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias" tvg-name="CNN en Español",CNN en Español
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CNN_ESPANOL)/index.m3u8 
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias" tvg-name="CNN en Español",CNN  Español
-http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/435
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Telemar_Mexico.jpg",TELEMAR
