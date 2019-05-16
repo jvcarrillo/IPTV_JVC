@@ -101,21 +101,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Entretenimiento",Canal 3 TV HD
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
-http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png" group-title="ENTRETENIMIENTO",Investigation Discovery ID HD LATINO
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11376.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY H&H disc_hh HD
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/14016.m3u8
-#EXTINF:-1 tvg-name="DW Entretenimiento" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Entretenimiento
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN HD MEX LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11320.m3u8
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.png" group-title="ENTRETENIMIENTO",CINELATINO HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="ENTRETENIMIENTO",Cali TV (Colombia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="Entretenimiento", RCN
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
 
