@@ -149,32 +149,23 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playl
 
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="Mexico", Canal 4 Saltillo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="Mexico", Canal 4 
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="Mexico",Canal 10 Cancun HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/A%2BMexico.jpg/220px-A%2BMexico.jpg" group-title="Mexico",A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="Mexico", Canal 4 
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="Mexico", Canal 5 
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11406.m3u8
-
 #EXTINF:-1 tvg-logo="http://startvmexico.com.mx/images/unicable.png?crc=4149749936" group-title="Mexico", UNICABLE FULHD MX
 http://149.56.26.6:25461/live/Tony123/Tony123/8553.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="Mexico", TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
+
+
+
 
 
 
