@@ -98,6 +98,33 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.i
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="Entretenimiento",Telenord
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="ENTRETENIMIENTO",E! HD LATINO
+http://192.99.80.6:8000/live/123456789/123456789/18339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Canal 3 TV HD
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
+http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png" group-title="ENTRETENIMIENTO",Investigation Discovery ID HD LATINO
+http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11376.m3u8
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY H&H disc_hh HD
+http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/14016.m3u8
+#EXTINF:-1 tvg-name="DW Entretenimiento" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN HD MEX LATINO
+http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11320.m3u8
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.png" group-title="ENTRETENIMIENTO",CINELATINO HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
+http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="ENTRETENIMIENTO",Cali TV (Colombia)
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
@@ -185,6 +212,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/telesur.png" group-title="Cultura",TELE SUR Channel
 http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA Tv EN VIVO
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
 
@@ -336,6 +365,8 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Religion",Tele VIDA (Colombia)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Aconcaga-
@@ -344,6 +375,8 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://guateradios.com/wp-content/uploads/2018/06/canal7-televisiete.png" group-title= "REGIONALES", TELEVISIETE 7
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8 
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="REGIONALES" tvg-name="Ready HD TV" , READY TV CANAL 6 HD REPUBLICA DOMINICANA
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 
 
 
@@ -362,8 +395,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u
 http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/programs/hn_cinema-premiere_l_m.jpg",CINEMA PREMIER HD
 http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/294.m3u8
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN HD MEX LATINO
-http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11320.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://farm5.static.flickr.com/4683/39199446922_0b81e3e488_b.jpg",GOLDEN PLUS MEX 
 http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11345.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826598610225672192/MJo74A8B_400x400.jpg",GOLDEN HD
@@ -443,8 +478,6 @@ http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunkli
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/175x175bb.jpg", 15TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azmundo.jpg" group-title="CULTURAL",AZ MUNDO HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 1 Saltillo
@@ -465,16 +498,20 @@ http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1598637643.
 http://ligatv.net:25461/live/tptv/23012019/305.m3u8
 #EXTINF:-1 tvg-logo="http://www.conexion360.mx/wp-content/uploads/2016/10/FOTO-WEB-LOGO-MVS-RADIO--810x410.png", MVS Radio
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijKffyy.png" group-title="ENTRETENIMIENTO",LIFETIME FULLHD 
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/412.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="Entretenimiento",FORO TV
 http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UoD8MSMQY70/AAAAAAAAAAI/AAAAAAAAAAA/u0DAtEgs0hA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",Televisa Monterrey HD
 http://162.255.86.122:25461/live/DAZPLAYER-IPTV-WEB/VER-TV-CON-DAZPLAYER-APP/780.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/tlnovelas_logo.png?itok=p_-2GS_P.png",TL NOVELAS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.png" group-title="ENTRETENIMIENTO",CINELATINO HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCDkSlL.png" group-title="SudAmerica", Canal Claro HD
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 
@@ -488,20 +525,15 @@ http://iptv.wtf:25461/live/elrhtwwr/839b8LIkuq/11292.m3u8
 http://192.99.80.6:8000/live/123456789/123456789/16978.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m5734a/20170710_130553.jpg" group-title="SudAmerica", CARACOL HD
 https://ssl3.cdn4.us/ingest011/27143.m3u8?sf=Vnd1d0ducEdDZw==&token=h_4SvH_36ig3dspSgYQvoQ&expires=1536042307&rnd=27143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="ENTRETENIMIENTO",Cali TV (Colombia)
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",COLOMBIA RCN HD  
 http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANOTY",Tele VIDA (Colombia)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/58b9cf114f976_RedMsHD.png.e1b38a940b0d63fefca30a77481c3fc6.png",RED
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8 
 
@@ -515,8 +547,6 @@ https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_
 
 #EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg",CANAL AME 47
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
-#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="NATIONAL" tvg-name="Ready HD TV" , READY TV CANAL 6 HD REPUBLICA DOMINICANA
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://2.bp.blogspot.com/-uPpVcbIm6EY/VQAzwvqhN4I/AAAAAAAAmpE/69XIyuEhDtY/s1600/problemas-en-telecentro-canal-13.gif.png",TELECENTRO CANAL 13 HD
 http://stream.grupotelemicro.com/13.m3u8
 
@@ -536,8 +566,6 @@ http://unlimited1-us.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8
 http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWKR5gzzx19xo3yGdmatQ9ez6MhoogMemjlojqoBvvakAi2bw", El Pingüino | HD | Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YFxjfwm.png" group-title="CHILE",CHIGUAYANTE TV HD CHILE
-http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/oWya6SB.png" group-title="Canales Peruanos", Central TV HD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
@@ -561,8 +589,6 @@ http://198.255.22.218:25461/live/micine1234/micine1234/2089.ts?token=GkBaAkMKGgl
 
 
 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/10qdo4k.png" group-title="ENTRETENIMIENTO",E! HD LATINO
-http://192.99.80.6:8000/live/123456789/123456789/18339.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VmZX2A5.png",SKY FOLK
@@ -582,8 +608,9 @@ http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/418740034850652160/1neZ05qw_400x400.jpeg" group-title="Entretenimiento",CANAL telpiin
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Canal 3 TV HD
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/AlUK3kT2VNq7-QVHj6ev0BwEsj8gM4cYgqbmSJZKi-KQxoSCualdChk4wwprBADu2Ho=w300" group-title="SudAmerica", Latina TV HD
 https://cialivetec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8&ip=190.237.110.62&hash=0d04fddca63552542d7ce&width=700&height=395&hide=0&credentials=1&timestamp=1522721627&ttl=172800&cache=55773.054290047825
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/america-tv.jpg",AMERICA TV 
@@ -611,8 +638,8 @@ http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGAT
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music HD
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
-http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
+
+
 #EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MUSICA",PERU TOP LatiNO HD
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png", Mi Musica HD
@@ -681,8 +708,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://i.imgur.com/8GQq82x.png" group-title="TV ESPAÑA",NOVA HD ESPAÑA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on 
+
 #EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png",Telecafe
@@ -702,42 +728,27 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
 #EXTINF:-1 tvg-logo="https://www.prodege.com/wp-content/uploads/2014/01/unnamed-1-1.png", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GxqTE25.png" group-title="TV ESPAÑA",TELECINCO HD
-http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GxqTE25.png" group-title="TV ESPAÑA",TELECINCO
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3227.m3u8
+
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/b2/94/c6/b294c6f6-77b5-b92b-0a27-89bc2547e936/mzl.tiatgxst.png/200x0w.jpg",NAVARRA ESPAÑA 
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LZcSuvnM24I/maxresdefault_live.jpg",two doc GRANADA CHANNEL TV | DIRECTO
 http://www.myvideo.ge/%3FCI%3D1%26ci_c%3Dvideo%26ci_m%3Dembed%26id%3Do2rViDSaRZE/watch?v=GkkeeCt21m4&feature=youtu.be
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/qo7qx2.jpg" group-title="CULTURAL",ANIMAL PLANET HD
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/468.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png" group-title="ENTRETENIMIENTO",Investigation Discovery ID HD LATINO
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11376.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=”https://forounivers.com/uploads/monthly_2018_03/large.5aa9c2f20f864_DiscoveryCivilization.png.69a2d851d2973fddacbeb644a85b953d.png",DISCOVIRY CIVILIZATION HD
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11384.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png",NatGeo Wild HD
 http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/6702
-#EXTINF:-1 tvg-ID="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3puthGEm6AjNI05L5xw4OHSzFnFmqFsWPXfwBbt7R7oDsewsf.png" group-title="PREMIUM",Discovery Channel
-http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/9377
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA tv HD
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Tv EN VIVO HD
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY H&H disc_hh HD
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/14016.m3u8
 #EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", NatGeo
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/13976.m3u8
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png",HISTORY HD
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/13971.m3u8
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/zme9h5.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",H2
-http://latinorigin.spidertv.info:80/live/juanusa/9QFd8pXP7w/454.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="DW Entretenimiento" tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Entretenimiento
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/547ced7fe4b082da1f2b98ab/54b418e5e4b0418eb56579a9/54b418e5e4b0418eb56579ac/1419366722251/WGNA_Logos_ForCaseStudy_01_00026.jpg",WGN AMERICA
 http://185.66.143.240:25461/live/franky/franky/908.m3u8
@@ -850,8 +861,6 @@ http://www.iptvmexico.xyz/tv1.php?calidad=05&canal=TRU_TV_HD&token=494922/320.m3
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/11_16_16_flamencoradio5-e1479209627998.jpg" group-title="SPAIN",Canal Sur Flamenco
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/895766074452566016/uZx3koXo.jpg", TENOVELAS
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbyQkZMsuM4Sw9sHfBlotwQchGnLR6g4uMt79XhtEaLRAcS92rw",CNN INTERNACIONAL 
