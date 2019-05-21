@@ -204,29 +204,14 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png" group-title="España", ESPAÑA
-http://tvpremiumhd.com/channels/tvpremiumhd.mp4
-
 #EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309" group-title="España", COSMO TV 2
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="España", La 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="España", La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="España", LifeTV
-http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/10/movistarestrenos.jpg" group-title="España", CANAL DE ESTRENOS 
 http://edge1.lacalleochotv.online/live/estrenos_1/index.m3u8
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
-http://37.187.128.169:8000/live/8iPlAaYyEeRr14119848/ar886o33b218/34.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FOgezsz.png" group-title="España", MOVISTAR DCINE HD
-http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España",MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/81717eef9d81ab9abf386f2c11c58e59/606/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72sGTeY.png" group-title="España", MOVISTAR ACCION HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8?sd=10&rebase=on 
 
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
@@ -235,10 +220,9 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playl
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" group-title="Rep. Dominicana", XTREMO TV FULL HD
 http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w619691117.m3u8
+
 
 
 
