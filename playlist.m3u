@@ -340,6 +340,11 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://dazplayer.com/img_chh/ten_ecuador.png",TEN HD ECUADOR
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Aconcaga-
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Viña del Mar
@@ -431,7 +436,7 @@ http://162.255.86.122:25461/live/DAZPLAYER-IPTV-WEB/VER-TV-CON-DAZPLAYER-APP/477
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",SONY MOVIES NETWORK FULHD 
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="Panama", Telemetro
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="Panama", Telemetro
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
 
 
@@ -471,7 +476,7 @@ http://ligatv.net:25461/live/tptv/23012019/305.m3u8
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="Entretenimiento",FORO TV
 http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UoD8MSMQY70/AAAAAAAAAAI/AAAAAAAAAAA/u0DAtEgs0hA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",Televisa Monterrey HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UoD8MSMQY70/AAAAAAAAAAI/AAAAAAAAAAA/u0DAtEgs0hA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",Televisa Monterrey HD
 http://162.255.86.122:25461/live/DAZPLAYER-IPTV-WEB/VER-TV-CON-DAZPLAYER-APP/780.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/tlnovelas_logo.png?itok=p_-2GS_P.png",TL NOVELAS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
@@ -627,7 +632,7 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 http://www.iptvmexico.xyz/pony2/2032.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/66/MTV_Hits_Logo_2011.png/120px-MTV_Hits_Logo_2011.png", MTV Hits
 http://127.0.0.1:38588/http/158.69.199.21/clarotv/claro.php?calidad=4&canal=762289&f=.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica", MTV Live HD
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica", MTV Live HD
 http://127.0.0.1:38588/http/158.69.199.21/clarotv/claro.php?calidad=4&canal=762196&f=.m3u8
 
 
@@ -645,9 +650,9 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1,M2
 http://live.m2.tv/hls/stream.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://radiodigital.fm/wp-content/themes/digitalfm/images/marca.png",CADENA DIGITAL FM
+#EXTINF:-1 tvg-logo="http://radiodigital.fm/wp-content/themes/digitalfm/images/marca.png",CADENA DIGITAL FM
 http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w1739773445.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mM0Bx/46d1a41194.png" group-title="Entretenimiento", Trendy
+#EXTINF:-1 tvg-logo="http://puu.sh/mM0Bx/46d1a41194.png" group-title="Entretenimiento", Trendy
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="MUSICA", Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -680,7 +685,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png",Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
@@ -714,7 +719,7 @@ http://www.myvideo.ge/%3FCI%3D1%26ci_c%3Dvideo%26ci_m%3Dembed%26id%3Do2rViDSaRZE
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11384.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png",NatGeo Wild HD
 http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/6702
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", NatGeo
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", NatGeo
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/13976.m3u8
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png",HISTORY HD
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/13971.m3u8
@@ -847,13 +852,4 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg",DIRECTV SPORTS 2
 http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/11029
 
-
-
-#EXTINF:0 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports MEX
-http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/1245
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="http://dazplayer.com/img_chh/ten_ecuador.png",TEN HD ECADOR
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
