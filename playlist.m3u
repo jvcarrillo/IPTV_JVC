@@ -1,7 +1,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-
 #EXTINF:0 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png"  group-title="Infantil", Disney XD
 http://flow.nibbletv.info/CH/xJc42flVokZf/Disney-XD.m3u8
 
@@ -52,6 +51,43 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://i59.tinypic.com/121snyq.jpg" group-title="Peliculas y Series", Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2jaj778.png" group-title="Peliculas y Series", HBO FULHD
+http://144.217.69.93:25461/live/Maelo777/magie777/58915.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="Peliculas y Series", HBO 2 HD LATINO
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://158.69.127.19/oscuros/hbofamily.jpg" group-title="Peliculas y Series", HBO Family HD LATINO
+http://flow.nibbletv.info/CH/SlYuf0gZQS0/HBO-Family.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg" group-title="Peliculas y Series", HBO SIGNATURE HD LATINO
+http://kimbogrupol.com:25461/filiberto/filiberto/16167
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png?SrRegio" group-title="Peliculas y Series", USA: HBO COMEDY HD
+http://185.66.143.240:25461/live/franky/franky/235.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9C/c191111316.png" group-title="Peliculas y Series", USA: HBO ZONE HD
+http://185.66.143.240:25461/live/franky/franky/927.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017126187343245316/3KEsGf63_400x400.jpg" group-title="Peliculas y Series", MAX PRIME HD LATINO
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/maxprime.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVX98sz.png" group-title="Peliculas y Series", MAX UP HD LATINO
+http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/17390.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FAThROIRlhY/VmtpwTVVU8I/AAAAAAAAAWU/gSSUkjojeaA/s1600/max-hd.gif" group-title="Peliculas y Series", MAX HD
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/max.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG" group-title="Peliculas y Series", CINEMAX HD
+http://134.209.75.14:9981/stream/channelid/1886498934?profile=h265
+
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png" group-title="Peliculas y Series", Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+
+
+
 
 
 
