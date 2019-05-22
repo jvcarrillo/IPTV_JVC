@@ -198,6 +198,31 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="El Salvador", Nex CANAL 21 HD 
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="El Salvador", TvES
+http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WOW TV" tvg-logo="https://i.imgur.com/HsFPm0z.png" group-title="El Salvador", WOW TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-11-sv.png", canal 11 TUTV HD
+http://198.24.135.42/canal11/canal11/chunklist_w1425572302.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png" group-title="El Salvador", Canal 12
+http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg" group-title="El Salvador", TVO
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png" group-title="El Salvador", TVES Canal 10
+http://198.24.135.42/canal10/canal10/playlist.m3u8 
+
+
+
+
+
 
 
 
