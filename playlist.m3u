@@ -62,6 +62,10 @@ http://tv.latintvweb.com:25461/u7e1GUxH1i/BicQqyZWYH/91080
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="Deportes", Real Madrid TV 2
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Deportes", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+
 
 
 
@@ -845,32 +849,8 @@ http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/11029
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496415326540546048/WZqGHADX_400x400.jpeg",COS
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.vacantesmedcom.com/css/img/cos_2015.png", COS FC
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png", MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Sevilla_FC_%28Puerto_Rico%29.svg/631px-Sevilla_FC_%28Puerto_Rico%29.svg.png", Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Sevilla_FC_%28Puerto_Rico%29.svg/631px-Sevilla_FC_%28Puerto_Rico%29.svg.png", Sevilla FC TV HD
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPORT
-http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/1000
-#EXTINF:0 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" , Univision TDN HD
-http://23.237.22.157:25461/live/skokolopo/2s3avt9koa45/45.m3u8?token=HxENBBFREl5GAQEJVFIHUQcABwJXV1NcVgYCA1wFDgUGAl1TAw1RB1YSGxJCRRMAAgs+WwJHWA0GSBRCSwRLbQ1XR19ADRJIRkReXVQTW1VPRBFbAkdYGwJcAgMaTRtXHEcAFwxYXDsAVUFZUlRDXw0TDV5KRw1XbABTWlkPXRBeEVVHThtZFxQSDRJlVA0ABQkPWwUEQnBdEFNFVgBNWwtdBAlCblgLCFVEUV1UQTYGFBdbBQARGXIWUVJWFVBcBRM2SyMXEkhGUl5EQ1AVAEFcQwNXVFcbH0ZVWE0PTUAdEV9HIWsSSEZVT0RUXxIMDAhDCEQIUUwLRhoVURJmQAFAERcHWF0BFhINEgETTUcOBxltBQoMV1YHQl5XD0oQXhFVR04bXQsKWUNfQ24RDAdEWxBVVFYOC0ZL
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_todo-deportes-tdtv_m.png",TDTV
-http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports MEX
+#EXTINF:0 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports MEX
 http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/1245
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8?xtreamiptv.m3u8
