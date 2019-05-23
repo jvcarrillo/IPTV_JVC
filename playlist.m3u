@@ -61,6 +61,65 @@ http://134.209.75.14:9981/stream/channelid/1886498934?profile=h265
 http://disfruta.net:8000/live/HIXrjrLwMk/Ni2CS1GFT7/83.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JwdH-2k6VBnll_uxxj0l5eD6VW4r-7GPNGca0czVPdxNim8oSHXxI1tpJb4pWY-wNeeB=s180",~ ESTADOS UNIDOS
+http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD 
+http://134.209.75.14:9981/stream/channelid/1095588360?profile=h265
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png" group-title="Peliculas y Series" ,Mundo Fox 
+http://live.nibbletv.info/CH/ZAtXJJVWec/FOX.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="Peliculas y Series",FOX LIFE FULHD LATINO
+http://tvmicine.tk/entretenimiento/fox_life.php
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD LATINO
+http://144.217.69.93:25461/live/Maelo777/magie777/58922.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX LATINO HD
+http://144.217.69.93:25461/live/Maelo777/magie777/58923.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL HD LATINO
+http://144.217.69.93:25461/live/Maelo777/magie777/58969.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series",CiNEMA+ PLUS HD LATINO
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
+http://144.217.69.93:25461/live/Maelo777/magie777/58986.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E HD
+http://144.217.69.93:25461/live/Maelo777/magie777/58990.m3u8
+
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY
+http://23.237.29.98:2095/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.png" group-title="Peliculas y Series",SPACE HD LATINO
+http://tvmicine.tk/entretenimiento/space.php
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="Peliculas y Series",TCM HD LATINO
+http://tvmicine.tk/entretenimiento/tcm.php
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/wxw0.png" group-title="Peliculas y Series",TBS FULLHD LATINO
+http://162.220.164.62/extract.php?n=TBS%20HD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/tnt.jpg",TNT FULLHD LATINO
+http://flow.nibbletv.info/CH/xJc42flVokZf/TNT.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CPeliculas y Series",TNT SERIES HD LATINO
+http://flow.nibbletv.info/CH/DUWc7I7D2gwV/TNT-Series.m3u8
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2zrg8le.png" group-title="Peliculas y Series",UNIVERSAL CHANNEL HD
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Peliculas y Series", Warner Channel FULLHD LATINO 
+http://144.217.69.93:25461/live/Maelo777/magie777/58857.m3u8
+
+#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas y Series", StTUDIO UNIVERSAL HD LATINO
+http://144.217.69.93:25461/live/Maelo777/magie777/58886.m3u8
+
+
+
 
 
 
