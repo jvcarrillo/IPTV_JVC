@@ -4,9 +4,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:0 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png"  group-title="Infantil", Disney XD
 http://flow.nibbletv.info/CH/xJc42flVokZf/Disney-XD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png"  group-title="Infantil", BOOMERANG
-http://flow.nibbletv.info/CH/xJc42flVokZf/Boomerang.m3u8
-
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png"  group-title="Infantil", EBS KIDS 
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
@@ -67,9 +64,6 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="Deportes", Fox Sport 2
-http://tv.latintvweb.com:25461/u7e1GUxH1i/BicQqyZWYH/91080
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="Deportes", Real Madrid TV 2
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
@@ -143,9 +137,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" group-title="Musica", Cantinazo TV COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Musica", DJIng Ibiza  HD
-http://www.djing.com/tv/ibiza.m3u8
-
 
 
 
@@ -165,18 +156,11 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg group-title="El Salvador", TVO
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="El Salvador", Nex CANAL 21 HD 
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="El Salvador", TvES
-http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="WOW TV" tvg-logo="https://i.imgur.com/HsFPm0z.png" group-title="El Salvador", WOW TV HD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-11-sv.png", canal 11 TUTV HD
-http://198.24.135.42/canal11/canal11/chunklist_w1425572302.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png" group-title="El Salvador", Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
