@@ -10,6 +10,14 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Peliculas y Series", ATV
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="Peliculas y Series", AXN
+http://158.69.52.44:25461/live/CANALES_BUDTV/h23sxgibM0/29.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Peliculas y Series", BHTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
@@ -27,9 +35,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtEPqqRWYFUDaN8BF_L0NuAbhYJAO01NbdSm7dHDxIhWjRdslFLQ" group-title="Peliculas y Series", TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Peliculas y Series", ATV
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg" group-title="Peliculas y Series", CIUDAD MAGAZINE
 https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
@@ -54,28 +59,6 @@ http://134.209.75.14:9981/stream/channelid/1886498934?profile=h265
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Peliculas y Series", ISAT LATINO
 http://disfruta.net:8000/live/HIXrjrLwMk/Ni2CS1GFT7/83.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png" group-title="Peliculas y Series", Film&Arts
-http://iptv.wtf:8080/live/faubpkxp/Q72Xy5toa0/11262.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="Peliculas y Series", AXN HD MEX 
-http://158.69.52.44:25461/live/CANALES_BUDTV/h23sxgibM0/29.m3u8
-
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/peliculas/12.png" group-title="Peliculas y Series", GOLDEN MEX
-http://144.217.69.93:25461/live/Maelo777/magie777/58918.m3u8
-
-#EXTINF:-1 tvg-logo="https://farm5.static.flickr.com/4683/39199446922_0b81e3e488_b.jpg" group-title="Peliculas y Series", GOLDEN PLUS MEX 
-http://iptv.wtf:25461/live/sdgffghgs/dgf9w40ds/13997.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Peliculas y Series", GOLDEN PREMIER HD MEX
-http://144.217.69.93:25461/live/Maelo777/magie777/58918.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/alacarta/10.png" group-title="Peliculas y Series", PREMIER 2 FULHD LATINO
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="Peliculas y Series", MULTIPREMIER MEX HD LATINO
-http://kimbogrupol.com:25461/filiberto/filiberto/17351
 
 
 
