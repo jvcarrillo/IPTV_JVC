@@ -49,8 +49,6 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 tvg-logo="http://i59.tinypic.com/121snyq.jpg" group-title="Peliculas y Series", Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG" group-title="Peliculas y Series", CINEMAX HD
-http://134.209.75.14:9981/stream/channelid/1886498934?profile=h265
 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Peliculas y Series", ISAT LATINO
 http://disfruta.net:8000/live/HIXrjrLwMk/Ni2CS1GFT7/83.m3u8
