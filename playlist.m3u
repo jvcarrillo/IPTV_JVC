@@ -58,22 +58,6 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD 
 http://134.209.75.14:9981/stream/channelid/1095588360?profile=h265
 
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="Peliculas y Series",FOX LIFE FULHD LATINO
-http://tvmicine.tk/entretenimiento/fox_life.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD LATINO
-http://144.217.69.93:25461/live/Maelo777/magie777/58922.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX LATINO HD
-http://144.217.69.93:25461/live/Maelo777/magie777/58923.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL HD LATINO
-http://144.217.69.93:25461/live/Maelo777/magie777/58969.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series",CiNEMA+ PLUS HD LATINO
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
 http://144.217.69.93:25461/live/Maelo777/magie777/58986.m3u8
 
