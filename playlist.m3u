@@ -58,8 +58,6 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD 
 http://134.209.75.14:9981/stream/channelid/1095588360?profile=h265
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png" group-title="Peliculas y Series" ,Mundo Fox 
-http://live.nibbletv.info/CH/ZAtXJJVWec/FOX.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="Peliculas y Series",FOX LIFE FULHD LATINO
 http://tvmicine.tk/entretenimiento/fox_life.php
