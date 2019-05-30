@@ -64,16 +64,13 @@ http://tvmicine.tk/entretenimiento/space.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="Peliculas y Series",TCM HD LATINO
 http://tvmicine.tk/entretenimiento/tcm.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CPeliculas y Series",TNT SERIES HD LATINO
-http://flow.nibbletv.info/CH/DUWc7I7D2gwV/TNT-Series.m3u8
-
 #EXTINF:-1 tvg-logo="http://i65.tinypic.com/2zrg8le.png" group-title="Peliculas y Series",UNIVERSAL CHANNEL HD
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Peliculas y Series", Warner Channel FULLHD LATINO 
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Peliculas y Series", Warner Channel FULLHD LATINO 
 http://144.217.69.93:25461/live/Maelo777/magie777/58857.m3u8
 
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas y Series", StTUDIO UNIVERSAL HD LATINO
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas y Series", StTUDIO UNIVERSAL HD LATINO
 http://144.217.69.93:25461/live/Maelo777/magie777/58886.m3u8
 
 
