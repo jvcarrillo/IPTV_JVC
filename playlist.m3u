@@ -395,7 +395,7 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://guateradios.com/wp-content/uploads/2018/06/canal7-televisiete.png" group-title= "REGIONALES", TELEVISIETE 7
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8 
-#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="REGIONALES" tvg-name="Ready HD TV" , READY TV CANAL 6 HD REPUBLICA DOMINICANA
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="REGIONALES", CANAL 6 Rep.Dom
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 
 
