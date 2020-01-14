@@ -44,38 +44,20 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxPmZpqJWJM88LH5dJ9gov0AtkSRDZj-gl-Lizqm3ajAS64Wy" group-title="Musica", m2o tv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/small.17264306_1618446504835714_3401698618822389384_n.jpg.ea1671076d354ad1979400d92e72960f.jpg" group-title="Musica", Teleritmo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jkPslQI.png" group-title="Musica", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", Top LatinoTV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Virgin_17_logo.png" group-title="Musica", Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/sv_canal-10-nacional_m.png" group-title="El Salvador",Canal 10
-http://198.24.135.42:80/canal10/canal10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png" group-title="El Salvador", Canal 11 TuTV
-http://198.24.135.42:80/canal11/canal11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="dcyue0z.png" group-title="El Salvador", Canal 12 
-http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/sv_canal-23-tvx_m.png" group-title="El Salvador", Canal 23 TVX
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1484468436.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -84,11 +66,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Canal_5_Telesol_San_Juan.png" group-title="Argentina",Canal 5 Telesol
-http://149.56.98.124:9090/hls/telesol.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-1/c33.0.200.200/p200x200/424028_364415380248328_708893702_n.jpg?_nc_cat=0&oh=563ae284e64a7565d767cb23c6199bbb&oe=5C05FBC2" group-title="Argentina",Canal 9 Comodoro Rivadavia
 http://live.canalnueve.tv:8082/hls/canal.m3u8
@@ -764,6 +745,9 @@ http://www.lengua.com/anthems/Colombia.mp3
 
 #EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/SENAL_COLOMBIA_COLOR-01_web.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
+ 
+ 
+ 
  
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
 http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
