@@ -3,38 +3,13 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4xHBsvIfU8o/WihlBbRQxWI/AAAAAAAAPLQ/9UZ3-PizH101o0QBUkIhbcXrE-gbSjjqACLcBGAs/h200/locomotion.gif" group-title="Infantiles",Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="Infantiles", Nick2
-http://ligatv.net:25461/live/clarotv/20012019/277.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="Peliculas y Series", DHE HD LATINO
-http://hls.giize.com/kr/a1CIs1EVtS.m3u8?ch=dhe
-
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MqCnUJrEXzw/Uf8Ijci2_xI/AAAAAAAAbHk/gCoWv1YHZ4c/s1600/Cin%C3%A9+FX+logo+2013.jpg" group-title="Peliculas y Series", FX
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVD1UkLNtG6Os1j30I7H1I1b4EBxgFeC3rkbJjdP6qKM4gB2x3" group-title="Peliculas y Series", HBO
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1594.m3u8
-
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2jg546c.png" group-title="Peliculas y Series", SPACE HD LATINO
-http://hls.giize.com/kr/a1CIs1EVtS.m3u8?ch=space
-
-
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2zrg8le.png" group-title="Peliculas y Series",UNIVERSAL CHANNEL HD
-http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11315.m3u8
-
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Peliculas y Series", Warner Channel FULLHD LATINO
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Peliculas y Series", Warner Channel FULLHD LATINO
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11321.m3u8
 
-#EXTINF:0,#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas y Series", StTUDIO UNIVERSAL HD LATINO
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas y Series", StTUDIO UNIVERSAL HD LATINO
 http://iptv.wtf:25461/live/hyykbkgv/qI46mvqW50/11338.m3u8
 
 
