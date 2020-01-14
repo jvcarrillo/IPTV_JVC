@@ -71,36 +71,27 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-1/c33.0.200.200/p200x200/424028_364415380248328_708893702_n.jpg?_nc_cat=0&oh=563ae284e64a7565d767cb23c6199bbb&oe=5C05FBC2" group-title="Argentina",Canal 9 Comodoro Rivadavia
-http://live.canalnueve.tv:8082/hls/canal.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="Argentina",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="Espana", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Espana", 24H
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/.m3u8
-
-#EXTINF:-1 tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.tv3.cat/icon/icon.png" group-title="Espana", TV3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oj2QAm-Yt6o/VwZF43nP9cI/AAAAAAAABYk/8da6XwxzznsYWqODeui0zm2GCXZhJWQpw/h120/es%2Bantena%2B3.png" group-title="Espana", Antena 3
-https://vergol.com/canales/live1/antena3.php
 
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg" group-title="Mexico", Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+
 
 
 
