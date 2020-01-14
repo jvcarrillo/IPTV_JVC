@@ -7,8 +7,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1, tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEmctjzVFPglBpMQ6HzPWE8osvvIBKEukTgYAghw4X_o2TZDV&s" group-title="Deportes", CDO 
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?laope.m3u8
@@ -16,23 +16,11 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?laope.m3u8
 #EXTINF:-1, tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-
-
-
-#EXTINF:-1, tvg-logo="x5jNF2N.png" group-title="Deportes", MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1, tvg-logo="IJh5DjE.png" group-title="Deportes", Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:-1, tvg-logo="IJh5DjE.png" group-title="Deportes", Abu Dhabi Sports 2 
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
-#EXTINF:-1, tvg-logo="O4eaaVw.png" group-title="Deportes", Real Madrid TV 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1, tvg-logo="B9hF2TH.png" group-title="Deportes", Fight Time 
+#EXTINF:-1, tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="Deportes", Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+
+
 
 #EXTINF:-1, tvg-logo="Hoo00j4.jpg" group-title="Deportes", Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
