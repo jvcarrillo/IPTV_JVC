@@ -67,6 +67,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 
 
 
@@ -504,9 +507,6 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg, TVO
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png" group-title="EL SALVADOR",TVES Canal 10
-http://198.24.135.42/canal10/canal10/playlist.m3u8 
-
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
@@ -563,18 +563,13 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP Los Mochis
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RcHaKDY.png" group-title="MEXICO",Canal 10 Cancun HD
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvmexiquense.png?fit=500%2C300.png",MEXIQUENSES TV 34
 http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/175x175bb.jpg", 15TV Sabinas
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="MEXICO", Az Corazon HD
-http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
-
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azmundo.jpg" group-title="CULTURAL",AZ MUNDO HD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
 
@@ -620,15 +615,6 @@ http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/108
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/tlnovelas_logo.png?itok=p_-2GS_P.png",TL NOVELAS
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/A%2BMexico.jpg/220px-A%2BMexico.jpg" group-title="MEXICO",A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MEXICO", Canal 5 MX 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/191
-
 #EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.png" group-title="ENTRETENIMIENTO",CINELATINO HD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
 
@@ -653,8 +639,6 @@ http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://startvmexico.com.mx/images/unicable.png?crc=4149749936",UNICABLE FHD MX
 http://tecnolive.club/live/unicable
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo HD MUSICA
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
@@ -687,20 +671,12 @@ http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23494.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/alacarta/10.png",GOLDEN PREMIER 2 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="MEXICO",MULTIPREMIER MEX HD 
-http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/515 
-
 #EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="CINE", DHE HD MEX    
 http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/592 
 
 #EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",CANAL SONY MEX  
 http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/97
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",MC 
-https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC MEX
-http://189.86.89.116/hls-live/livecm/definst/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD LATINO
 http://www.supertelevisionhd.com/htv-en-vivo/
