@@ -3,30 +3,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
-http://cdnh4.iblups.com/hls/irtp.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", TiiN HD 
-http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/110
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles", Disney XD
-http://flow.nibbletv.info/CH/iNNVxz1hGtrK/Disney-XD.m3u8
-
-#EXTINF:-1 tvg-logo="http://i66.tinypic.com/256cs61.m3u8?TECNOTV" group-title="Infantiles",DISCOVERY KIDS
-http://192.99.80.6:8000/live/123456789/123456789/32644.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png" group-title="Infantiles",NATGEO KIDS 
-http://flow.nibbletv.info/CH/iNNVxz1hGtrK/Discovery-Kids.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png" group-title="Infantiles",BOOMERANG
-http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/17
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="Infantiles",CARTOON NETWORK HD
-http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/20
-
-#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="Infantiles",EBS KIDS 
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
 
 
 
