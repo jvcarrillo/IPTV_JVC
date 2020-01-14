@@ -29,34 +29,20 @@ http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/
 
 
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Entretenimiento",15 TV Sabinas
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="6RmbSTU.jpg" group-title="Entretenimiento", Azteca A+
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-
-#EXTINF:-1 tvg-logo="zcWVO21.jpg" group-title="Entretenimiento", Unicanal
+#EXTINF:-1 tvg-logo="http://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" group-title="Entretenimiento", Unicanal
 http://45.55.127.106/live/unicanal_src.m3u8
-
-#EXTINF:-1 tvg-logo="123" group-title="Entretenimiento", Efekto Tv HD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEegsUoYixgl2NdHSy26dTAOqpEZRZWUIxG2g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Entretenimiento", RT
-https://secure-streams.akamaized.net/rt-esp/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="Entretenimiento",TELEMUNDO HD
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Entretenimiento", TSI
+#EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/UTB8BhHawqrFXKJk43Ovq6ybnpXaO/OEM-Chrome-Emblem-Red-Badge-Sticker-TSI-Logo-for-VW-Jetta-Golf-Passat-Beetle.jpg" group-title="Entretenimiento", TSI
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.martinoticias.com/Content/responsive/OCB/es-CU/img/logo.png" group-title="Entretenimiento", TV Marti
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="Entretenimiento", TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+
+
 
 
 
