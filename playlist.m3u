@@ -19,29 +19,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1, tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="Deportes", Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
-
-
-
-#EXTINF:-1, tvg-logo="Hoo00j4.jpg" group-title="Deportes", Stadium Sports Network
+#EXTINF:-1, tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg" group-title="Deportes", Stadium Sports Network
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
-#EXTINF:-1, tvg-logo="BskLVm4.jpg" group-title="Deportes", Telecaribe Deportes 
+#EXTINF:-1, tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-telecaribe-deportes.jpg" group-title="Deportes", Telecaribe Deportes 
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?laope.m3u8
-
-#EXTINF:-1, tvg-logo="SlGP0BA.png" group-title="Deportes", ESPN 2 USA
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, tvg-logo="egIliuT.png" group-title="Deportes", Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1, tvg-logo="AsV1OSU.png" group-title="Deportes", All Sports 
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="0idlXyN.png" group-title="Deportes", Dubai Sports 
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-
-#EXTINF:-1, tvg-logo="LsFa4Ix.jpg" group-title="Deportes", OnSport TV 
-http://185.27.116.54:1935/livestream/sno/playlist.m3u8
 
 
 
