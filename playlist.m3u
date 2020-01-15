@@ -1181,16 +1181,15 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://i.imgur.com/8GQq82x.png" group-title="TV ESPAÑA",NOVA HD ESPAÑA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on 
+
 
 #EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png",Telecafe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="España",Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
  
-#EXTINF:-1 tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg", Aprende tv
+#EXTINF:-1 tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg" group-title="España", Aprende tv
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/chunklist_b450000.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.gorkanajobs.co.uk/getasset/c9e7fc99-177d-4665-b55b-c9c5a0993678/", RT UK
@@ -1206,8 +1205,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra
 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GxqTE25.png" group-title="TV ESPAÑA",TELECINCO
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 
 
