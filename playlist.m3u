@@ -651,9 +651,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://guateradios.com/wp-content/uploads/2018/06/canal7-televisiete.png" group-title= "PAISES", TELEVISIETE 7
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8 
-
 #EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/Teledoce_2013_blanco.jpg",TELE DOCE 12 HD 
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 
@@ -799,9 +796,11 @@ http://www.lengua.com/anthems/Venezuela.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eAsaarX.jpg" group-title="TV VENEZUELA",TLT HD
 http://enc-fwt.lorini.net/telearagua/telearagua/tracks-v1a1/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua 
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
  
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Vina - Valparaiso HD 
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Aconcaga-
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
@@ -826,8 +825,6 @@ rtmp://tengomusica.ddns.net/telever//telever.sdp
 #EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1eWEygDVeaZKA/c85ab13c3c480bf68bc0c055225592fd-128.jpg",Canal 41 HD
 https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_w882613411.m3u8
 
-#EXTINF:-1 tvg-name="La voz de Maria" tvg-logo="https://i.imgur.com/PwHVXGU.png" group-title="TV RELIGION",La voz de Maria
-http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
  
 #EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg",CANAL AME 47
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
@@ -866,8 +863,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YFxjfwm.png" group-title="CHILE",CHIGUAYANTE TV HD CHILE
 http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title= "PAISES", TV POP
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 
 
