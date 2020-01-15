@@ -180,6 +180,36 @@ http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/135
 
 
 
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png"group-title="Cultura",NatGeo Wild HD
+http://flow.nibbletv.info/CH/xJc42flVokZf/NatGeo-Wild.m3u8
+
+#EXTINF:-1 tvg-ID="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3puthGEm6AjNI05L5xw4OHSzFnFmqFsWPXfwBbt7R7oDsewsf.png" group-title="Cultura",Discovery Channel
+http://flow.nibbletv.info/CH/ECV6GRHvMxVZ/Discovery-Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA tv HD
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="Cultura",DISCOVERY H&H HD
+http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23440.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", NatGeo 
+http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23474.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png"group-title="Cultura",HISTORY HD 
+http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23469.m3u8
+
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/zme9h5.m3u8?TECNOTV" group-title="Cultura",H2 HD
+http://iptv.wtf:25461/live/pykkzcye/B59dl5kzC9/16198.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_discovery-tlc_m.png" group-title="Cultura", Discovery TLC
+http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/6707
+
+
+
+
 
 
 
@@ -529,7 +559,6 @@ http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w12493622
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 
-#EXTINF:-1 tvg-logo="https://www.superheromoviesnews.com/wp-content/uploads/2018/03/cropped-SuperHeroMovieBannerBW-smaller.png",SUPERHERO MOVIES 24/7
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUwpSJsMwHotj3TWMKx-AiiIo4XjvlwrzzdvZfdpjehNGFRgBBg",TV WESTERNS 1947
@@ -720,16 +749,11 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg" group-title="ENTRETENIMIENTO",Canal Uno
 http://s1.multicanal.tel:25461/live/jortuz/jortuz/3917.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png",RCN NUESTRA TELE
-
-
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/6a/39/23/6a3923c3-8a9e-f94a-6f3f-30842e12daee/mzl.bvyodykw.jpg/246x0w.jpg" group-title="SudAmerica", INTERNACIONAL Caracol HD
 
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m5734a/20170710_130553.jpg" group-title="SudAmerica", CARACOL HD
 https://ssl3.cdn4.us/ingest011/27143.m3u8?sf=Vnd1d0ducEdDZw==&token=h_4SvH_36ig3dspSgYQvoQ&expires=1536042307&rnd=27143
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Caracol_HD2_2017.png",CARACOL HD 2
 
 
 #EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" group-title="Musica", Cantinazo TV COLOMBIA
@@ -742,7 +766,6 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",RCN Novelas 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1US5eCanIa_pqfoFBA1FI-Z3xWnij3E4e10X_2nRDskw7YuJ" group-title="LATINO",RCN Novelas C0L
@@ -763,16 +786,10 @@ http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529931.png" group-title="internacional",LA RRD HD
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b829163.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.tigomusic.co/themes/tigomusic-co/images/header/logo_tigo-music_m.png", Tigo Music
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOoMLMT.png" group-title="MUSICA", Tigo Une (Colombiano)
 
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000154922454-0gi119-t500x500.jpg"",CABLE NOTICIAS
 http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mgeG696CMu4iwCiLUx9_2A_ec9yD-5yfGgvTAKGFN0PEnxzTjRRa7dJdsKldmiZkbzUmMQ=s170",TELEVIDA HD
 
 
 
@@ -992,8 +1009,6 @@ http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGAT
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music HD
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MTV_Classic_2011.png/245px-MTV_Classic_2011.png",USA MTV CLASSICS HD
-
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
 http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
@@ -1037,8 +1052,6 @@ https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunk
 #EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="MUSICA", NRJ HITS TV
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_06/large.Telehit
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICA", Xite  HD
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
@@ -1132,28 +1145,6 @@ http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2016/02/0.png",#0 SERIES ESPAÑA
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hfFSmm6UtR0/WmNZ_zuOtQI/AAAAAAAAEC0/mY9gxQ6eqo4L-nuTbKd8CqI-xUOqyZ2MACLcBGAs/s320/movistar%2Bestrenos.jpg",MOVISTAR CANAL DE ESTRENOS HD
-
-
-#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2016/10/movistarestrenos.jpg",MOVISTAR CANAL DE ESTRENOS 
-
-
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/m-series.png" group-title="España", Movistar Series
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FOgezsz.png" group-title="TV ESPAÑA",MOVISTAR DCINE HD
-
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="España",MOVISTAR COMEDIA HD
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/72sGTeY.png" group-title="TV ESPAÑA",MOVISTAR ACCION HD
-
-
-#EXTINF:-1 tvg-logo="http://puu.sh/v4x2f/dafe7d630e.png" group-title="España", Movistar Comedia
 
  
 #EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="http://www.area787magazine.com/wp-content/uploads/2017/08/sgaXRdpZ.jpg" group-title="ESPAÑA",ES: CALLE 13 ESPAÑA HD
@@ -1208,52 +1199,9 @@ http://flow.nibbletv.info/CH/xJc42flVokZf/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png" group-title="ENTRETENIMIENTO",Investigation Discovery ID HD LATINO
 http://flow.nibbletv.info/CH/xJc42flVokZf/Investigation-Discovery.m3u8
 
-#EXTINF:-1 tvg-logo=”http://puu.sh/mVSvJ/4c351beb2a.png” group-title=”Cultura”, Discovery World HD
 
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png",DISCOVIRY CIVILIZATION HD
-
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png",NatGeo Wild HD
-http://flow.nibbletv.info/CH/xJc42flVokZf/NatGeo-Wild.m3u8
-
-#EXTINF:-1 tvg-ID="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3puthGEm6AjNI05L5xw4OHSzFnFmqFsWPXfwBbt7R7oDsewsf.png" group-title="PREMIUM",Discovery Channel
-http://flow.nibbletv.info/CH/ECV6GRHvMxVZ/Discovery-Channel.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA tv HD
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Tv EN VIVO HD
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",DISCOVERY H&H HD
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23440.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", NatGeo 
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23474.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png",HISTORY HD 
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23469.m3u8
-
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/zme9h5.m3u8?TECNOTV" group-title="ENTRETENIMIENTO",H2 HD
-http://iptv.wtf:25461/live/pykkzcye/B59dl5kzC9/16198.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_discovery-tlc_m.png" group-title="Cultura", Discovery TLC
-http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/6707
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVDugW1.png" group-title="ENTRETENIMIENTO",DISCOVERY TURBO
 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5CXRhw.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
-
- 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png", CGTN
-
-
-#EXTINF:-1 tvg-logo="http://www.playtvhd.com/cliente/wp-content/uploads/2018/01/discoverytheater.jpg",DISCOVERY THEATER
 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
@@ -1482,16 +1430,11 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
 #EXTINF:-1 tvg-logo="http://strategicsociety.org.uk/wp-content/uploads/2015/10/Sky-News.png", Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
  
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/20g1ct0.jpg" group-title="DEPORTES",DirecTV Sports HD
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HN8t4AqICTY/WyXsANIos-I/AAAAAAAAAyg/q3q6qyLrMZAhBtF1e6z36WVCztbmxUaQQCLcBGAs/s1600/directvsports2.jpg",DIRECTV SPORTS 2
 
 
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/directv-sports.png" group-title="DEPORTES",DirecTV 
 http://flow.nibbletv.info/CH/x1JzEU9hI6QF/DirecTV-Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png" group-title="DEPORTES",TyC Sports HD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV HD
@@ -1524,7 +1467,6 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPORT
 http://flow.nibbletv.info/CH/xJc42flVokZf/TNT-Sports.m3u8
 
-#EXTINF:-1 tvg-iogo="https://i.ytimg.com/vi/kZ1VcAFXG9Y/maxresdefault.jpg",CLARO SPORTS
 
 
 #EXTINF:0 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" , Univision TDN HD
