@@ -46,6 +46,44 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="Entretenimiento", TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="Entretenimiento",AXN HD MEX 
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/7
+
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/peliculas/12.png" group-title="Entretenimiento", GOLDEN MEX
+http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/23495.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBd4S7T.png" group-title="Entretenimiento", GOLDEN HD
+http://bit.ly/2CjtK3E
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="Entretenimiento", GOLDEN EDGE HD MEX 
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/64
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Entretenimiento", GOLDEN PREMIER HD MEX
+http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23494.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="Entretenimiento", DHE HD MEX    
+http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/592 
+
+#EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg" group-title="Entretenimiento", CANAL SONY MEX  
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/97
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="Entretenimiento", HTV HD LATINO
+http://www.supertelevisionhd.com/htv-en-vivo/
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pqk6r8-Wu_5e9LJpmAh-pvRT4IzpPHlaURkIdpOqq-Gd65F3-DxPbqySQjcze2MSfcg=s180" group-title="Entretenimiento", Colombia mp3
+http://www.lengua.com/anthems/Colombia.mp3
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,12 +107,13 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oWya6SB.png" group-title="Perú", Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+
 
 
 
@@ -103,8 +142,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
@@ -112,9 +149,11 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once MMEXICO
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once Mexico
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
 
 
@@ -639,46 +678,8 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp2xXU0.png" group-title="VENEZUELA", Ve Plus HD
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Cinema" tvg-logo="http://167.114.172.82/imagens/7.png" group-title="• Interés general",Azteca Cinema
-http://144.217.255.70:8000/live/multiusuarioArgenTV/multiusuario/7394.ts
 
 
-
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="ENTRETENIMIENTO",AXN HD MEX 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/7
-
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/peliculas/12.png",GOLDEN MEX
-http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/23495.m3u8
-
-#EXTINF:-1 tvg-logo="https://farm5.static.flickr.com/4683/39199446922_0b81e3e488_b.jpg",GOLDEN PLUS MEX 
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBd4S7T.png",GOLDEN HD
-http://bit.ly/2CjtK3E
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg",GOLDEN EDGE HD MEX 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/64
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINE", GOLDEN PREMIER HD MEX
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23494.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/alacarta/10.png",GOLDEN PREMIER 2 
-
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="CINE", DHE HD MEX    
-http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/592 
-
-#EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",CANAL SONY MEX  
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/97
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD LATINO
-http://www.supertelevisionhd.com/htv-en-vivo/
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pqk6r8-Wu_5e9LJpmAh-pvRT4IzpPHlaURkIdpOqq-Gd65F3-DxPbqySQjcze2MSfcg=s180",Colombia
-http://www.lengua.com/anthems/Colombia.mp3
 
 
  
@@ -788,8 +789,6 @@ http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
 http://stream.grupotelemicro.com/13.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WRq-z1cSU50/hqdefault.jpg" group-title="NATIONAL" group-title="DOMINICANA", CANAL 5 HD
-http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png",GH TELEVISION CANAL 10
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
@@ -824,8 +823,6 @@ http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oWya6SB.png" group-title="Canales Peruanos", Central TV HD
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png",COOSMOS
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1046929006.m3u8
@@ -1165,8 +1162,6 @@ http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w201083943
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AL3AGGx.png",CANAL CARNAVAL
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpRgjdj.png",Canal Provincia 
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
