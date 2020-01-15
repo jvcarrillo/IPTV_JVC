@@ -74,33 +74,17 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="Peliculas y Series",FOX CHANNEL HD  
-http://51.77.246.215:25461/live/114/114/57255.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" ggroup-title="Peliculas y Series", FOX LIFE HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="Peliculas y Series", FOX LIFE HD 
 http://51.77.246.215:25461/live/114/114/167802.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ" group-title="Peliculas y Series", FXMOVIES HD 
-http://51.77.246.215:25461/live/114/114/39002.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://leedor.com/wp-content/uploads/2017/12/screenshot-2017-12-10.jpg" group-title="Peliculas y Series", CINE AR HD
-http://tv.cine.ar/wp-content/uploads/2019/01/promoweb.mp4
 
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BGcqPmZ5tmg/W1Cxhx5eXII/AAAAAAAAw-A/aXHbP4RzcsA5ZhQ8760_4GYPdXjTdsxjQCLcBGAs/s1600/CLASSIQUE+TV.fw.png " group-title="Peliculas y Series", CLASSIQUE TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx" group-title="Peliculas y Series", BLACK CINEMA TV 
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Peliculas y Series" ,ACTION MOVIES
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Peliculas y Series", ACTION MOVIES (Ingles) 
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true 
 
-#EXTINF:-1 tvg-logo="https://elchapuzasinformatico.com/wp-content/uploads/2017/09/Showtime-criptomoneda.jpg" group-title="Peliculas y Series", usa showtime
-http://80.80.160.168/live/7/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br_hd.jpg" group-title="Peliculas y Series", CINE SKY HD 
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
