@@ -4,9 +4,11 @@
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", facebook test
+https://www.facebook.com/2074678735931306/posts/2515647691834406/?sfnsn=mo&d=n&vh=e
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", youtube test
+https://youtu.be/Yf1W_lTV6CQ
 
 
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
