@@ -250,6 +250,16 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="Honduras",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Honduras" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Honduras",Canal 9
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
+http://www.lengua.com/anthems/Honduras.mp3
+ 
+#EXTINF:-1 tvg-logo="http://puu.sh/reLDZ/c5afb0e414.png" group-title="Honduras", Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+ 
+
 
 
 
@@ -638,8 +648,13 @@ http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/ch
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD 
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
-http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imfdu7EIPEKO8em81Z7axvgCCORz7DREbFrprfPAU9j2EnMdtyRWcu2-CeT3pKf2u04=s180" group-title="Venazuela", Venezuela TV
+http://www.lengua.com/anthems/Venezuela.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAsaarX.jpg" group-title="Venazuela",TLT HD
+http://enc-fwt.lorini.net/telearagua/telearagua/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-name="WOW TV" tvg-logo="https://i.imgur.com/HsFPm0z.png" group-title="ENTRETENIMIENTO",WOW TV HD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -655,15 +670,6 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
  
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
-~ http://www.lengua.com/anthems/Honduras.mp3
- 
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDZ/c5afb0e414.png" group-title="Honduras", Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Honduras" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Internationals",Canal 9 Honduras
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
@@ -742,8 +748,6 @@ http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/108
 
 
 
-#EXTINF:-1 tvg-id="glitz.mx" tvg-name="Glitz" tvg-logo="http://167.114.172.82/imagens/104.png" group-title="• Entretenimiento",Glitz MEX    
-http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/34.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3TKq7w.png" group-title="PARAGUAY", Telefuturo HD MEXICO
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
@@ -755,7 +759,6 @@ http://tecnolive.club/live/unicable
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp2xXU0.png" group-title="VENEZUELA", Ve Plus HD
 
 
 
@@ -812,11 +815,6 @@ http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunkli
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imfdu7EIPEKO8em81Z7axvgCCORz7DREbFrprfPAU9j2EnMdtyRWcu2-CeT3pKf2u04=s180",~ Venezuela TV
-http://www.lengua.com/anthems/Venezuela.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eAsaarX.jpg" group-title="TV VENEZUELA",TLT HD
-http://enc-fwt.lorini.net/telearagua/telearagua/tracks-v1a1/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Valle de Aconcagua 
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
@@ -833,9 +831,6 @@ http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Puerto Rico" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1113.png" group-title="Internationals",Canal 13 Puerto Rico
-http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
 
 
@@ -1095,8 +1090,6 @@ http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="http://www.area787magazine.com/wp-content/uploads/2017/08/sgaXRdpZ.jpg" group-title="ESPAÑA",ES: CALLE 13 ESPAÑA HD
 http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57996.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES HD" tvg-logo="https://k60.kn3.net/0/B/C/2/7/A/05E.png" group-title="• Entretenimiento",A3 SERIES HD
-https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
