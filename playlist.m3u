@@ -72,6 +72,154 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="Peliculas y Series",FOX CHANNEL HD  
+http://51.77.246.215:25461/live/114/114/57255.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" ggroup-title="Peliculas y Series", FOX LIFE HD 
+http://51.77.246.215:25461/live/114/114/167802.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ" group-title="Peliculas y Series", FXMOVIES HD 
+http://51.77.246.215:25461/live/114/114/39002.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://leedor.com/wp-content/uploads/2017/12/screenshot-2017-12-10.jpg" group-title="Peliculas y Series", CINE AR HD
+http://tv.cine.ar/wp-content/uploads/2019/01/promoweb.mp4
+
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="Peliculas y Series", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BGcqPmZ5tmg/W1Cxhx5eXII/AAAAAAAAw-A/aXHbP4RzcsA5ZhQ8760_4GYPdXjTdsxjQCLcBGAs/s1600/CLASSIQUE+TV.fw.png " group-title="Peliculas y Series", CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx" group-title="Peliculas y Series", BLACK CINEMA TV 
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Peliculas y Series" ,ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://elchapuzasinformatico.com/wp-content/uploads/2017/09/Showtime-criptomoneda.jpg" group-title="Peliculas y Series", usa showtime
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br_hd.jpg" group-title="Peliculas y Series", CINE SKY HD 
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/pop-cable-channel-network.jpg?w=1000&h=562&crop=1" group-title="Peliculas y Series", POP TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/fmhot3.png" group-title="Peliculas y Series", FMHOT+ MOVIES HD 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.png" group-title="Peliculas y Series", CINELATINO HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCDkSlL.png" group-title="Peliculas y Series", Canal Claro HD
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg" group-title="Peliculas y Series", CLARO CINEMA MEX 
+http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/34.m3u8
+
+#EXTINF:- 1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" group-title="Peliculas y Series", DE PELICULA MX
+http://iptv.wtf:25461/live/pykkzcye/B59dl5kzC9/11310.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png" group-title="Peliculas y Series", Mundo Fox 
+http://live.nibbletv.info/CH/ZAtXJJVWec/FOX.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg" group-title="Peliculas y Series", CINECANAL HD
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/21
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series", CiNEMA+ PLUS HD 
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png" group-title="Peliculas y Series", SYFY
+http://51.77.246.215:25461/live/114/114/8465.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="Peliculas y Series", SPACE HD  
+http://51.77.246.215:25461/live/114/114/133315.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="Peliculas y Series", TCM HD 
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/104
+
+
+#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/tnt.jpg" group-title="Peliculas y Series", TNT HD 
+http://51.77.246.215:25461/live/114/114/41122.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="Peliculas y Series", TNT SERIES HD 
+http://51.77.246.215:25461/live/114/114/41043.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOYAcqct0eaBIlnKWjWfhb_q1DwVPnvetR0x88tUfwD4TCuF3q" group-title="Peliculas y Series", UNIVERSAL CHANNEL HD 
+http://51.77.246.215:25461/live/114/114/1648.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEAKHrA3AHXeNzq3XY5WGeo0lUdeKc7XaZn4o97W2lnuJZL_re" group-title="Peliculas y Series", WARNER CHANNEL HD  
+http://51.77.246.215:25461/live/114/114/52611.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas y Series", StTUDIO UNIVERSAL HD
+http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/100
+
+#EXTINF:-1 tvg-logo="http://www.antina.com.ar/img/grilla/fox-series.png" group-title="Peliculas y Series", FOX PREMIUM SERIES FULHD LATINO
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/58
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Vb5kv2.jpg" group-title="Peliculas y Series", FOX PREMIUN ACTION HD LATINO
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/51
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A04zXqz.png" group-title="Peliculas y Series", FOX PREMIUN MOVIES HD LATINO
+http://144.217.69.93:25461/live/Maelo777/magie777/58928.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byu8ZMS.jpg" group-title="Peliculas y Series", FOX PREMIUM CINEMA HD LATINO 
+http://144.217.69.93:25461/live/Maelo777/magie777/58933.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uT3M7lL.jpg" group-title="Peliculas y Series", FOX PREMIUN FAMILY HD LATINO
+http://144.217.69.93:25461/live/Maelo777/magie777/58930.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFeZD7J.jpg" group-title="Peliculas y Series", FOX PREMIUM CLASSICS HD LATINO
+http://144.217.69.93:25461/live/Maelo777/magie777/58932.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhHWw7B.jpg" group-title="Peliculas y Series", FOX PREMIUM COMEDY HD LATINO
+http://161.0.157.9/PLT3V/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1496908666_logo-hbo-hd.png" group-title="Peliculas y Series", HBO HD
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/537
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="Peliculas y Series", HBO 2 HD 
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aHCTHz.jpg" group-title="Peliculas y Series", HBO PLUS HD
+http://tecnolive.club/live/Hboplus 
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/HBOFamilyHD.png" group-title="Peliculas y Series", HBO Family HD
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/538
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg" group-title="Peliculas y Series", HBO SIGNATURE HD 
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/534
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png?SrRegio" group-title="Peliculas y Series", USA: HBO COMEDY HD
+http://185.66.143.240:25461/live/franky/franky/235.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9C/c191111316.png" group-title="Peliculas y Series", USA: HBO ZONE HD
+http://185.66.143.240:25461/live/franky/franky/927.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017126187343245316/3KEsGf63_400x400.jpg"group-title="Peliculas y Series", MAX PRIME HD MEX 
+http://tecnolive.club/live/maxprime
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVX98sz.png" group-title="Peliculas y Series", MAX UP HD 
+http://tecnolive.club/live/maxup
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FAThROIRlhY/VmtpwTVVU8I/AAAAAAAAAWU/gSSUkjojeaA/s1600/max-hd.gif" group-title="Peliculas y Series", MAX HD
+http://144.217.69.93:25461/live/Maelo777/magie777/58906.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG" group-title="Peliculas y Series", CINEMAX HD
+http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/135
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
@@ -285,13 +433,9 @@ http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/17256.m3u8
 #EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="LATINO", Unimas 
 http://144.217.69.93:25461/live/Maelo777/magie777/61871.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE Y SERIES", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
  
-#EXTINF:-1 tvg-logo="http://susaneisenbergvoice.com/wp-content/uploads/2017/09/directv-cinema-wonder-woman-spot_01-1084x410.jpg",DIRECTV CINEMA
 
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA HD
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3b40f2856b1b2e61df66a1efafbc1ae449a5c266faed826fdc0561d79ac60fe5.png",LATINO UP TV HD
@@ -309,7 +453,8 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2018/08/Telecanal.png" group-title="CentroAmerica",TELECANAL 28 HD 
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/0/1/5/tcm-hd.jpg",CINE 24/7 DE CINE  ES
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z",ANTENA TV
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
@@ -345,8 +490,7 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9PfHZmFm9_WL4vcIbnJOjtInDXo2G9LE7boXzehTcgVbdDACH",ONE tracers
 http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
 
-#EXTINF:-1 tvg-logo="http://leedor.com/wp-content/uploads/2017/12/screenshot-2017-12-10.jpg",CINE AR HD
-http://tv.cine.ar/wp-content/uploads/2019/01/promoweb.mp4
+
 
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/l/latinoamericateve/lo_telecreativa.jpg",CANAL 5 ELECREATIVA 
 http://162.255.86.122:25461/live/EntraAhoraAwwwdazplayercom/IPTVGratisDaZPlayer/595.m3u8
@@ -408,8 +552,7 @@ http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png",ORBIT TV
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BGcqPmZ5tmg/W1Cxhx5eXII/AAAAAAAAw-A/aXHbP4RzcsA5ZhQ8760_4GYPdXjTdsxjQCLcBGAs/s1600/CLASSIQUE+TV.fw.png " group-title="CINE", CLASSIQUE TV
-http://45.43.208.2:1935/classique/classique/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87fKgc4.jpg",TELENORD CANAL 8
 http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w1657892726.m3u8
@@ -429,16 +572,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUwpSJsMwHotj3TWMKx-AiiIo4XjvlwrzzdvZfdpjehNGFRgBBg",TV WESTERNS 1947
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx",BLACK CINEMA TV 
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true 
-
-#EXTINF:-1 tvg-logo="https://elchapuzasinformatico.com/wp-content/uploads/2017/09/Showtime-criptomoneda.jpg",usa showtime
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a4/b6/b9/a4b6b930c51adbe15801c96494e48045.jpg" group-title="Cine",  TV PELICULAS
 
 #EXTINF:-1 tvg-logo="https://www.telered.com.ar/img/logo400x400.png",TELERED
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
@@ -459,41 +592,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2USkdkWJah7WABLIyUBp-VGfbwaQRB4v-DgKe2fXS1VZ3Yzw7w",MOVIEE 4U HD
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/programs/hn_cinema-premiere_l_m.jpg",CINEMA PREMIER HD
-
-
-#EXTINF:-1 tvg-logo="https://jasonvbarger.com/wp-content/uploads/2016/08/7kIZAWsB.jpeg",NOW HD 24/7
 
 
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",MICROVISION  CANAL 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1 tvg-logo="http://c.asstatic.com/images/721095_634278264803791058-1.jpg",CINE DE TERROR
-
-
-#EXTINF:-1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/34_181.png",SONY PIX HD
-
 
 #EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",SONY MOVIES NETWORK 
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Sonyleplex.jpg",SONY LE PLEX HD
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VmZX2A5.png",SKY FOLK
 http://us.live.skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-logo="hhttp://media.tvblog.it/c/cri/crimesubianco.jpg",PREMIUM CRIME
 
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_sky_br_hd.jpg",CINE SKY HD 
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/11/pop-cable-channel-network.jpg?w=1000&h=562&crop=1" group-title="CentroAmerica",POP TV
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.webme.com/pic/e/eric-cast/fmhot3.png",FMHOT+ MOVIES HD 
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 
 
 
@@ -615,20 +728,8 @@ http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/108
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/tlnovelas_logo.png?itok=p_-2GS_P.png",TL NOVELAS
 
 
-#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2v9rsyc.png" group-title="ENTRETENIMIENTO",CINELATINO HD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sCDkSlL.png" group-title="SudAmerica", Canal Claro HD
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png" group-title="CINE PREMIUM",CINEMA DINAMITA MEX
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg" group-title="CINE PREMIUM",CLARO CINEMA MEX 
-http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/34.m3u8
-
-#EXTINF:- 1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA MX
-http://iptv.wtf:25461/live/pykkzcye/B59dl5kzC9/11310.m3u8
 
 #EXTINF:-1 tvg-id="glitz.mx" tvg-name="Glitz" tvg-logo="http://167.114.172.82/imagens/104.png" group-title="• Entretenimiento",Glitz MEX    
 http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/34.m3u8
@@ -822,124 +923,17 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJPjWgA.png" group-title="TV VARIOS",INTERCABLE CANAL 10 HD PARAGUAY
 http://201.217.3.212/TV/intercable/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JwdH-2k6VBnll_uxxj0l5eD6VW4r-7GPNGca0czVPdxNim8oSHXxI1tpJb4pWY-wNeeB=s180",~ ESTADOS UNIDOS
-http://www.lengua.com/anthems/USA.mp3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD  
-http://51.77.246.215:25461/live/114/114/57255.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kD1cuQJ.jpg" group-title="ENTRETENIMIENTO",FOX LIFE HD 
-http://51.77.246.215:25461/live/114/114/167802.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD 
-http://51.77.246.215:25461/live/114/114/39002.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
-
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbLGC/27b0d43eab.png" group-title="Entretenimiento" tvg-name="Mundo Fox",Mundo Fox 
-http://live.nibbletv.info/CH/ZAtXJJVWec/FOX.m3u8
- 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/21
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",CiNEMA+ PLUS HD 
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
 http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/136
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E HD
 http://tecnolive.club/live/ae
 
-#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY
-Syfy 
-http://51.77.246.215:25461/live/114/114/8465.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE HD  
-http://51.77.246.215:25461/live/114/114/133315.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png" group-title="CINE PREMIUM",TCM HD 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/104
-
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/07/tbs-logo-2015.png" group-title="ENTRETENIMIENTO",TBS HD  
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JwdH-2k6VBnll_uxxj0l5eD6VW4r-7GPNGca0czVPdxNim8oSHXxI1tpJb4pWY-wNeeB=s180",~ ESTADOS UNIDOS
+http://www.lengua.com/anthems/USA.mp3
 
 
-#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/tnt.jpg",TNT HD 
-http://51.77.246.215:25461/live/114/114/41122.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES HD 
-http://51.77.246.215:25461/live/114/114/41043.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOYAcqct0eaBIlnKWjWfhb_q1DwVPnvetR0x88tUfwD4TCuF3q" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL HD 
-http://51.77.246.215:25461/live/114/114/1648.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEAKHrA3AHXeNzq3XY5WGeo0lUdeKc7XaZn4o97W2lnuJZL_re",WARNER CHANNEL HD  
-http://51.77.246.215:25461/live/114/114/52611.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas", StTUDIO UNIVERSAL HD
-http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/100
-
-
-
-#EXTINF:-1 tvg-logo="http://www.antina.com.ar/img/grilla/fox-series.png",FOX PREMIUM SERIES FULHD LATINO
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/58
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Vb5kv2.jpg" group-title="CINE PREMIUM",FOX PREMIUN ACTION HD LATINO
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/51
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A04zXqz.png" group-title="CINE PREMIUM",FOX PREMIUN MOVIES HD LATINO
-http://144.217.69.93:25461/live/Maelo777/magie777/58928.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byu8ZMS.jpg" group-title="CINE PREMIUM",FOX PREMIUM CINEMA HD LATINO 
-http://144.217.69.93:25461/live/Maelo777/magie777/58933.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uT3M7lL.jpg" group-title="CINE PREMIUM",FOX PREMIUN FAMILY HD LATINO
-http://144.217.69.93:25461/live/Maelo777/magie777/58930.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFeZD7J.jpg" group-title="CINE PREMIUM",FOX PREMIUM CLASSICS HD LATINO
-http://144.217.69.93:25461/live/Maelo777/magie777/58932.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhHWw7B.jpg" group-title="CINE PREMIUM",FOX PREMIUM COMEDY HD LATINO
-http://161.0.157.9/PLT3V/88888888/224/3221226800/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1496908666_logo-hbo-hd.png" group-title="Premiun",HBO HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/537
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2 HD 
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1aHCTHz.jpg" group-title="CINE PREMIUM",HBO PLUS HD
-http://tecnolive.club/live/Hboplus 
-
-#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/HBOFamilyHD.png",HBO Family HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/538
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg" group-title="CINE PREMIUM",HBO SIGNATURE HD 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/534
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png?SrRegio" group-title="USA",USA: HBO COMEDY HD
-http://185.66.143.240:25461/live/franky/franky/235.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xuM9C/c191111316.png" group-title="USA" tvg-name="USA: HBO Zone",USA: HBO ZONE HD
-http://185.66.143.240:25461/live/franky/franky/927.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017126187343245316/3KEsGf63_400x400.jpg",MAX PRIME HD MEX 
-http://tecnolive.club/live/maxprime
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVX98sz.png" group-title="CINE PREMIUM",MAX UP HD 
-http://tecnolive.club/live/maxup
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FAThROIRlhY/VmtpwTVVU8I/AAAAAAAAAWU/gSSUkjojeaA/s1600/max-hd.gif",MAX HD
-http://144.217.69.93:25461/live/Maelo777/magie777/58906.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/135
 
 
 
