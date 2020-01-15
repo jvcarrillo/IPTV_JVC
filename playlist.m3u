@@ -46,38 +46,6 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="Entretenimiento", TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/axn.png" group-title="Entretenimiento",AXN HD MEX 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/7
-
-#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/peliculas/12.png" group-title="Entretenimiento", GOLDEN MEX
-http://disfruta.net:8000/live/NapoleonNasser/BuAwQvE1GN/23495.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HBd4S7T.png" group-title="Entretenimiento", GOLDEN HD
-http://bit.ly/2CjtK3E
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="Entretenimiento", GOLDEN EDGE HD MEX 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/64
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Entretenimiento", GOLDEN PREMIER HD MEX
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23494.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/dhe_new_logo-big.jpg" group-title="Entretenimiento", DHE HD MEX    
-http://23.237.36.170:8000/6fb68FM686787NG/VSW54s4BE6Y7/592 
-
-#EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg" group-title="Entretenimiento", CANAL SONY MEX  
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/97
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="Entretenimiento", HTV HD LATINO
-http://www.supertelevisionhd.com/htv-en-vivo/
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pqk6r8-Wu_5e9LJpmAh-pvRT4IzpPHlaURkIdpOqq-Gd65F3-DxPbqySQjcze2MSfcg=s180" group-title="Entretenimiento", Colombia mp3
-http://www.lengua.com/anthems/Colombia.mp3
-
-
-
 
 
 
@@ -1261,11 +1229,6 @@ http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/chunklist_b450000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gorkanajobs.co.uk/getasset/c9e7fc99-177d-4665-b55b-c9c5a0993678/", RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", TV Noticias 7.3
-https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.connectas.org/especiales/selva-guaviare/img/logo_el_tiempo.png", El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
@@ -1508,11 +1471,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png" group-title="Entretenimiento", Telemundo Internacional HD
 https://api.locastnet.org/api/watch/stream/188/41/-74/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias" tvg-name="CNN en Español",CNN en Español
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CNN_ESPANOL)/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias" tvg-name="CNN en Español",CNN  Español HD 
-http://190.13.121.118/streams/cnnesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="NOTICIAS",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -1637,3 +1595,9 @@ http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8?xtreamiptv.m3
 
 #EXTINF:-1 tvg-logo="http://dazplayer.com/img_chh/ten_ecuador.png",TEN HD ECADOR
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", TV Noticias 7.3
+https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
