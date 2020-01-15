@@ -103,11 +103,8 @@ http://servicioamerica.net:1935/8344/8344/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Musica", DJIng Ibiza  HD
 http://www.djing.com/tv/ibiza.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f53932128c2e450edc5d0fe59469e071.jpg" group-title="Musica",MUSICA 97.5 FM CR
 http://198.178.123.2:7274/;stream/1
-
 
 #EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="Musica", Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
@@ -117,6 +114,42 @@ http://stream.1music.hu/stream/1music.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="Musica", MUSIC BOX 
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozXOprX.png" group-title="Musica",COLOSAL TV HD 
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIiJJvCaYvlKUMmSCQKNC5A5CJqsdIWrfUa9744Ji0lf7g9N1" group-title="Musica", Claro Musica
+http://192.99.80.6:8000/live/123456789/123456789/28557.m3u8
+
+#EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="Musica",PERU TOP LatiNO HD
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="Musica", Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nu14h/bc7f29dd9b.png" group-title="Musica", Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCQcrYJ.png" group-title="Musica",M2O TV HD
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROx0NNmK-zo5DIlSAzHCcNsOP9zuaZFkSg5w8cqbINqUKqOYId" group-title="Musica",HITTV HD
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="Musica", Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://satsis.net/uploads/posts/2016-05/1464688910_www.satsis.info__tnt-music.jpg" group-title="Musica",THT MUSICA
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Musica", HIT Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGAT
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Musica", HIT Music HD
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+
+
 
 
 
@@ -389,8 +422,14 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_con_sombra.png",Canal UCR 
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozXOprX.png" group-title="TV COSTA RICA" group-title="MUSICA",COLOSAL TV HD 
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Extra TV 42 
 http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
@@ -1040,41 +1079,12 @@ http://s1.multicanal.tel:25461/live/jortuz/jortuz/3844.m3u8
 http://185.66.143.240:25461/live/franky/franky/753.m3u8
  
 
-#EXTINF:-1 tvg-logo="http://puu.sh/nu14h/bc7f29dd9b.png" group-title="MUSICA", Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yCQcrYJ.png" group-title="MUSICA",M2O TV HD
-http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROx0NNmK-zo5DIlSAzHCcNsOP9zuaZFkSg5w8cqbINqUKqOYId",HITTV HD
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png", Power HD
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://satsis.net/uploads/posts/2016-05/1464688910_www.satsis.info__tnt-music.jpg",THT MUSICA
-http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGAT
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music HD
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/24mcacj.png" group-title="ENTRETENIMIENTO",VH1 HD
 http://192.99.80.6:8000/live/123456789/123456789/28554.m3u8
 
 
 
-#EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MUSICA",PERU TOP LatiNO HD
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png", Mi Musica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIiJJvCaYvlKUMmSCQKNC5A5CJqsdIWrfUa9744Ji0lf7g9N1" group-title="MUSICA", Claro Musica
-http://192.99.80.6:8000/live/123456789/123456789/28557.m3u8
 
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-migente.jpg", Mi GENTE TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
