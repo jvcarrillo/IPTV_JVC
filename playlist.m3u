@@ -60,86 +60,25 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="Musica", Mi Musica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
  
- 
-
- 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Peliculas y Series", ACTION MOVIES (Ingles) 
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series", CiNEMA+
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1aHCTHz.jpg" group-title="Peliculas y Series", HBO PLUS HD
-http://tecnolive.club/live/Hboplus 
-
-#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/HBOFamilyHD.png" group-title="Peliculas y Series", HBO Family HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/538
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg" group-title="Peliculas y Series", HBO SIGNATURE HD 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/534
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png?SrRegio" group-title="Peliculas y Series", USA: HBO COMEDY HD
-http://185.66.143.240:25461/live/franky/franky/235.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xuM9C/c191111316.png" group-title="Peliculas y Series", USA: HBO ZONE HD
-http://185.66.143.240:25461/live/franky/franky/927.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017126187343245316/3KEsGf63_400x400.jpg"group-title="Peliculas y Series", MAX PRIME HD MEX 
-http://tecnolive.club/live/maxprime
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVX98sz.png" group-title="Peliculas y Series", MAX UP HD 
-http://tecnolive.club/live/maxup
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FAThROIRlhY/VmtpwTVVU8I/AAAAAAAAAWU/gSSUkjojeaA/s1600/max-hd.gif" group-title="Peliculas y Series", MAX HD
-http://144.217.69.93:25461/live/Maelo777/magie777/58906.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG" group-title="Peliculas y Series", CINEMAX HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/135
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png"group-title="Cultura",NatGeo Wild HD
-http://flow.nibbletv.info/CH/xJc42flVokZf/NatGeo-Wild.m3u8
-
-#EXTINF:-1 tvg-ID="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3puthGEm6AjNI05L5xw4OHSzFnFmqFsWPXfwBbt7R7oDsewsf.png" group-title="Cultura",Discovery Channel
-http://flow.nibbletv.info/CH/ECV6GRHvMxVZ/Discovery-Channel.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA tv HD
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA Space Station 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i68.tinypic.com/14ty4jm.m3u8?TECNOTV" group-title="Cultura",DISCOVERY H&H HD
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23440.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", NatGeo 
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23474.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png"group-title="Cultura",HISTORY HD 
-http://disfruta.net:8000/live/ENRKVAR5/w5kh7m0Zj5/23469.m3u8
-
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/zme9h5.m3u8?TECNOTV" group-title="Cultura",H2 HD
-http://iptv.wtf:25461/live/pykkzcye/B59dl5kzC9/16198.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_discovery-tlc_m.png" group-title="Cultura", Discovery TLC
-http://tv.jomysonplus.com:8000/www.iptveiksprivado.net/listagratis/6707
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
@@ -1234,8 +1173,6 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/trutv-logo-grid.jpg?crop=258px%2C183px%2C452px%2C303px&resize=446%2C299.png",TRUTV
 http://www.iptvmexico.xyz/tv1.php?calidad=05&canal=TRU_TV_HD&token=494922/320.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/telesur.png" group-title="Cultura",TELE SUR Channel
-http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://media.canal10.com.uy/adjuntos/229/imagenes/001/999/0001999936.jpg",GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
