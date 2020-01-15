@@ -60,14 +60,28 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="Honduras", TEN 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="Honduras",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+
 
 
 
@@ -81,19 +95,23 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="Espana", 13tv
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="Mexico", Teleritmo HD MUSICA
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once MMEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+
 
 
 
@@ -107,9 +125,6 @@ https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", CANAL 4 HD 
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3NTYzNDkxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuNDIiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuNDIiXX0sInNpZ25hdHVyZSI6ImRmYTc1MzY4N2FlZGI1OTRiM2YzNDhmZWFhOWY1MmM5OGEwZTljMDcifQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica", CANAL 2 HD 
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3NTYzNDQ0LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuNDIiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuNDIiXX0sInNpZ25hdHVyZSI6ImVlMGQ4NDlmMTEzMDBiOGI5MWUwNTc0Yzc1MDkzMDJlMGNhNTM2YmEifQ%3D%3D
 
 #EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/55.png", TELETICA CANAL 7 HD
 https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_B1e3TuJ7cB91x83ZX32tw)/dm/3/x29e3wg/s/live-3.m3u8
@@ -171,9 +186,6 @@ http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Extra TV 42 
 http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reNsN/6560b47772.png" group-title="Costa Rica", Canal 19 
-http://stream01.cyberfuel.com/RadioCostaRica/livestream/chunklist_w1906756685.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CentroAmerica", TICAVISION CANAL 52 HD 
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
@@ -186,9 +198,6 @@ http://190.10.10.17:1935/Telefides/definst/livestream/chunklist_w2036607453.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/42/9d/ae/429daea6-935a-779b-7cc0-f012797a8bae/pr_source.png/1200x630wa.png",FIDES TV 
 http://radios.rarserver.net:1935/live/fides_360p/chunklist_w1087833765.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2c/EJTV.png/revision/latest?cb=20160715153643.png" group-title="RELIGION",EJTV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
- 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg",MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
@@ -511,37 +520,20 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
 ~ http://www.lengua.com/anthems/Honduras.mp3
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN 10 hD
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras HD
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
- 
+
 #EXTINF:-1 tvg-logo="http://puu.sh/reLDZ/c5afb0e414.png" group-title="Honduras", Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Honduras" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Internationals",Canal 9 Honduras
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
-http://190.11.224.14:8134/liveevent.m3u8
 
 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUuJm7u.png" group-title="GUATEMALA", Telecosta HD
-https://5a0b422785262.streamlock.net:1936/telecosta/telecosta/chunklist_w983806289.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUuJm7u.png" group-title="GUATEMALA", Telecosta 
-http://arcamediastream.net:1935/8374/8374/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA", Canal Plus Guatemala
-http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision  
-http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png" group-title="GUATEMALA",Canal 3
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://guateradios.com/wp-content/uploads/2018/06/canal7-televisiete.png" group-title= "PAISES", TELEVISIETE 7
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8 
@@ -556,8 +548,6 @@ http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/189
 
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once MMEXICO
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP Los Mochis
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
@@ -680,17 +670,13 @@ http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/97
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD LATINO
 http://www.supertelevisionhd.com/htv-en-vivo/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
-http://192.99.80.6:8000/live/123456789/123456789/16941.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pqk6r8-Wu_5e9LJpmAh-pvRT4IzpPHlaURkIdpOqq-Gd65F3-DxPbqySQjcze2MSfcg=s180",Colombia
 http://www.lengua.com/anthems/Colombia.mp3
 
-#EXTINF:-1 tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/SENAL_COLOMBIA_COLOR-01_web.png" group-title="COLOMBIA",Senal Colombia
-http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
- 
+
  
  
  
@@ -718,8 +704,6 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",COLOMBIA RCN HD  
 http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_canal-14-cali_m.png" group-title="COLOMBIA",Canal 14 HD
-http://181.143.238.252/live/livestream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",RCN Novelas 
 
@@ -794,11 +778,7 @@ http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659
 #EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg",CANAL AME 47
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png" group-title="DOMINICANA", XTREMO TV FULL HD
-http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w619691117.m3u8
 
-#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="NATIONAL" tvg-name="Ready HD TV" , READY TV CANAL 6 HD REPUBLICA DOMINICANA
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uPpVcbIm6EY/VQAzwvqhN4I/AAAAAAAAmpE/69XIyuEhDtY/s1600/problemas-en-telecentro-canal-13.gif.png",TELECENTRO CANAL 13 HD
 http://stream.grupotelemicro.com/13.m3u8
