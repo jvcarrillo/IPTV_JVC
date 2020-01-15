@@ -68,6 +68,63 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-1SwsirtQg_Q/U25qNoZtaOI/AAAAAAAABK4/H2MgOyHlA_w/s1600/Radio+105+tv.png" group-title="Musica",Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="Musica", Virgin  Music
+http://www.iptvmexico.xyz/pony2/2032.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.portalpolitico.tv/sites/portalpolitico.tv/files/photos/noticia/46_16.jpg" group-title="Musica", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9jnpUn.png" group-title="Musica", Cool 103.7 (Radio con Video) 
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="Musica",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://maxtvonline.com/wp-content/uploads/2017/10/cropped-iconmax-180x180.png" group-title="Musica",MAX TV ONLINE
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w2037168010_b2000000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="Musica", NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="Musica", Xite  HD
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTgpvCL.png" group-title="Musica",City Radio TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1379.png" group-title="Musica",Canela TV
+http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Musica", DJIng Ibiza  HD
+http://www.djing.com/tv/ibiza.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f53932128c2e450edc5d0fe59469e071.jpg" group-title="Musica",MUSICA 97.5 FM CR
+http://198.178.123.2:7274/;stream/1
+
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="Musica", Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX_400x400.jpg" group-title="Musica",MUSIC CHANNEL
+http://stream.1music.hu/stream/1music.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Musica", MUSIC BOX 
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -1025,41 +1082,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.transmediatelevision.com/wp-content/uploads/2017/05/logotransmedia-01-1.png", TMTV
 http://st2.worldkast.com/8022/smil:8022.smil/playlist.m3u8  
  
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-1SwsirtQg_Q/U25qNoZtaOI/AAAAAAAABK4/H2MgOyHlA_w/s1600/Radio+105+tv.png" group-title="MUSICA",Radio 105 Tv
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="MUSICA", Virgin  Music
-http://www.iptvmexico.xyz/pony2/2032.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.portalpolitico.tv/sites/portalpolitico.tv/files/photos/noticia/46_16.jpg" group-title="Musica", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9jnpUn.png" group-title="ARGENTINA", Cool 103.7 (Radio con Video) 
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="ARGENTINA",Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://maxtvonline.com/wp-content/uploads/2017/10/cropped-iconmax-180x180.png",MAX TV ONLINE
-https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w2037168010_b2000000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="MUSICA", NRJ HITS TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICA", Xite  HD
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTgpvCL.png" group-title="MUSICA",City Radio TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="Canela TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1379.png" group-title="Internationals",Canela TV
-http://servicioamerica.net:1935/8344/8344/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="Musica", DJIng Ibiza  HD
-http://www.djing.com/tv/ibiza.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.vatp.lv/sites/default/files/chaulatv.jpg",CHAUTV
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",CHAUTV
@@ -1079,15 +1101,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACu9QTH.png" group-title="PANAMA",OYE HD
 http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="MUSICA", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX_400x400.jpg,MUSIC CHANNEL
-http://stream.1music.hu/stream/1music.m3u8
- 
-#EXTINF:-1MUSIC BOX
-http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8w8QzbCcXSU/maxresdefault.jpg",CALIENTE DIGITAL FM
 http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w2010839434.m3u8
@@ -1290,8 +1304,6 @@ http://18493.live.streamtheworld.com/XEOYEFMAAC.aac
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/4/33224.v2.png",original-stereo-panama
 http://rosetta.shoutca.st:8931/stream/1/
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f53932128c2e450edc5d0fe59469e071.jpg",MUSICA 97.5 FM CR
-http://198.178.123.2:7274/;stream/1
 
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/4/33564.v4.png",Fabulosa Estéreo FM 100.5 PANAMA
 http://node-05.strongradiohost.com/6h44c4as8f5tv?rj-ttl=5&rj-token=AAABZYQTIDk4Sb0BuZ-KM0q5dnh_iOoi91IyhOSI3iZAu6h9nv0pFw
