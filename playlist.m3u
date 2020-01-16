@@ -66,6 +66,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series", CiNEMA+
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="Peliculas y Series", FMHOT
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/121snyq.jpg" group-title="Peliculas y Series", Paramount Channel HD
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA tv HD
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
  
@@ -74,6 +80,20 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once Mexico
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+
 
 
 
@@ -88,14 +108,11 @@ http://201.217.3.212/TV/intercable/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oWya6SB.png" group-title="Perú", Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-
 
 
 
@@ -135,17 +152,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once Mexico
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
 
 
@@ -288,9 +294,6 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 tvg-logo"=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW",TELEMAX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD LATINO
-http://disfruta.net:8000/live/1806veopag/hdeNvFDV7h/83.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts
 http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/47
 
@@ -306,11 +309,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="DEPORTES",EURO CHANNEL HD
 http://iptv.wtf:80/live/pykkzcye/B59dl5kzC9/14697.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="SudAmerica", FMHOT HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cablevida.com.mx/assets/img/canales/Panico.png" group-title="Cine", PANICO HD
-http://54.36.174.115:25461/live/JoseManuel/BDNvpPM1oT/17256.m3u8
 
 #EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="LATINO", Unimas 
 http://144.217.69.93:25461/live/Maelo777/magie777/61871.m3u8
@@ -413,14 +411,8 @@ http://162.255.86.122:25461/live/DAZPLAYER-IPTV-WEB/VER-TV-CON-DAZPLAYER-APP/610
 #EXTINF:-1 tvg-logo="http://www.tdn.do/ciber.jpg",,CIBERVISION CANAL 3 HD
 http://108.175.14.125:1935/tdn/tdn/chunklist_w1416269518.m3u8
 
-#EXTINF:-1 tvg-logo="https://marquetteartontherocks.com/wp-content/uploads/2016/01/TV6-logo.png" group-title="Canales MARQUETTE",TV6
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?nimblesessionid=34390781
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/6807462DEAC-0B9C-CAE5-9E84EE3698DB085D.jpg" group-title="Cine", Sundance TV  HD
-http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/101
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Cgtn_cn_espanol.png/revision/latest?cb=20170127161944",CGTN ESPAÑOL HD
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -643,8 +635,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANOTY",Tele VIDA (Colombia)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zgqVvJ5.png" group-title="TV COLOMBIA",CANAL CNC
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png",RED
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8 
@@ -906,23 +896,16 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",ESPAÑA
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/121snyq.jpg" group-title="Cine", Paramount Channel HD
-http://paramount.live.flumotion.com/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309", COSMO TV HD ESPAÑA
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309", COSMO TV HD 
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="SPAIN",La 1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="", La 2
+#EXTINF:-1 tvg-logo="" group-title="España", La 2
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s6HpNzd.png" group-title="SPAIN",LifeTV
-http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
@@ -1174,8 +1157,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="CentroAmerica",NEX 21 TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.info
  
-#EXTINF:-1  tvg-logo="https://i1.wp.com/blogs.canalsur.es/saladeprensa/files/11_16_16_flamencoradio5-e1479209627998.jpg" group-title="SPAIN",Canal Sur Flamenco
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://notinovelas.com/wp-content/uploads/2007/06/tlnovelas-logo-540x242.jpg",TENOVELAS
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
