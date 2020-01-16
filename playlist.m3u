@@ -165,8 +165,18 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="Costa Rica",EXTREMA TV HD 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica", TICAVISION CANAL52
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="SudAmerica", BHTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/05/TC28-WEB-300x205.png" group-title="CentroAmerica",TELECANAL 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Religion",Tele VIDA (Colombia)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
 
 
 
@@ -249,8 +259,6 @@ http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Extra TV 42 
 http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CentroAmerica", TICAVISION CANAL 52 HD 
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://doutico.com/wpimages/wp284c9e60_06.png",CANAL NICOYA TV 36 
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
@@ -337,11 +345,6 @@ https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3782801/logo_estv.png",TELEVISION DEL ESTE DIRECTO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8 
 
-#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/05/TC28-WEB-300x205.png" group-title="CentroAmerica",TELECANAL 28
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2018/08/Telecanal.png" group-title="CentroAmerica",TELECANAL 28 HD 
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 
 
@@ -610,8 +613,6 @@ http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANOTY",Tele VIDA (Colombia)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png",RED
@@ -674,8 +675,6 @@ http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWKR5gzzx19xo3yGdmatQ9ez6MhoogMemjlojqoBvvakAi2bw", El Pingüino | HD | Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/YFxjfwm.png" group-title="CHILE",CHIGUAYANTE TV HD CHILE
-http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 
 
 
@@ -700,8 +699,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.a12.com/source/files/originals/tv_aparecida.jpg",APARECIDA TV
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw" group-title="Peliculas",EUROPA EUROPA HD  
-http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/16185.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ggyiEM.png", Canal 26 Aguascalientes
@@ -1009,8 +1006,6 @@ http://www.iptvmexico.xyz/tv1.php?calidad=05&canal=TRU_TV_HD&token=494922/320.m3
 #EXTINF:-1 tvg-logo="https://media.canal10.com.uy/adjuntos/229/imagenes/001/999/0001999936.jpg",GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
  
-#EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="CentroAmerica",NEX 21 TV
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?www.tecnotv.info
  
  
 #EXTINF:-1 tvg-logo="https://notinovelas.com/wp-content/uploads/2007/06/tlnovelas-logo-540x242.jpg",TENOVELAS
