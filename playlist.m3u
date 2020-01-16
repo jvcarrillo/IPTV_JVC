@@ -117,15 +117,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="Colombia",Cali TV
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
@@ -135,22 +126,8 @@ http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="España", La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="España",Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
- 
-#EXTINF:-1 tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg" group-title="España", Aprende tv
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/chunklist_b450000.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="Honduras", TEN 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
@@ -163,14 +140,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3
- 
-#EXTINF:-1 tvg-logo="http://puu.sh/reLDZ/c5afb0e414.png" group-title="Honduras", Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
- 
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
@@ -183,6 +152,26 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", TV Sur 14 HD 
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="TV COSTA RICA",EXTREMA TV HD 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="PANAMA", Telemetro
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD 
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-logo="1.jpg" group-title="ESPAÑA", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="ENTRETENIMIENTO",FORO TV
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
 
 
 
@@ -210,8 +199,6 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300", CANAL 9 TV SUR 
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", TV Sur 14 HD 
-http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png",SUPER 5 HD TV 
 http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
@@ -249,8 +236,6 @@ http://mediacp.live:1935/8028/8028/chunklist_w1479204348.m3u8
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif",CANAL 88 STEREO 
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="TV COSTA RICA",EXTREMA TV HD 
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_con_sombra.png",Canal UCR 
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8 
@@ -511,17 +496,7 @@ http://us.live.skyfolk.mk/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G2lPKxNGKqXrlxHO3vGuRbuu4wN3zUcHLMB_rKg_7QjLYJmFzfsC3llCuUxqsxYrqVw=s180",~ Panama
-http://www.lengua.com/anthems/Panama.mp3
-
  
-#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="Panama", Telemetro
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD 
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 
 
@@ -601,8 +576,6 @@ http://ligatv.net:25461/live/tptv/23012019/305.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="Entretenimiento",FORO TV
-http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UoD8MSMQY70/AAAAAAAAAAI/AAAAAAAAAAA/u0DAtEgs0hA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",Televisa Monterrey HD
 http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/108
