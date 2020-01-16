@@ -129,6 +129,24 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309"group-title="España", COSMO TV HD 
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="España",Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg" group-title="España", Aprende tv
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/chunklist_b450000.m3u8
+
 
 
 
@@ -166,11 +184,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309" group-title="ESPAÑA", COSMO TV HD ESPAÑA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309"group-title="ESPAÑA", COSMO TV HD 
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
 
 
@@ -864,17 +877,10 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
 
  
-#EXTINF:-1 tvg-logo="" group-title="España", La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
  
  
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
-http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
-
 
  
-#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="http://www.area787magazine.com/wp-content/uploads/2017/08/sgaXRdpZ.jpg" group-title="ESPAÑA",ES: CALLE 13 ESPAÑA HD
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57996.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
@@ -888,30 +894,21 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgrat
  
 
 
-#EXTINF:-1 tvg-logo="http://puu.sh/reJwa/b94498a38e.png" group-title="España", Antena 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="España",Telecafe
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
  
-#EXTINF:-1 tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg" group-title="España", Aprende tv
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/2000px-The_Weather_Channel_logo_2005-present.svg.png", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
  
+
+ 
+
+
 #EXTINF:-1 tvg-logo="https://www.gorkanajobs.co.uk/getasset/c9e7fc99-177d-4665-b55b-c9c5a0993678/", RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://www.connectas.org/especiales/selva-guaviare/img/logo_el_tiempo.png", El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/2000px-The_Weather_Channel_logo_2005-present.svg.png", Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839442094783672320/PedOMK5x.jpg" group-title="España", Movistar Xtra
-
- 
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
