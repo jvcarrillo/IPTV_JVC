@@ -108,7 +108,7 @@ http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Regionales",VTV Aconcaga-
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONRegionalesALES",VTV Viña del Mar -
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Regionales",VTV Viña del Mar -
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Noticias", DW LATINOAMERICA
@@ -147,6 +147,19 @@ http://184.154.28.210:1935/canal4/canal4/live.m3u8
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="Argentina",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.JPG" group-title="Argentina",13 Max Digital
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="Argentina",America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="Argentina",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Panama", Nex CANAL 21 HD 
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+
 
 
 
@@ -161,19 +174,13 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="TV COSTA RICA",EXTREMA TV HD 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="PANAMA", Telemetro
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD 
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-
-#EXTINF:-1 tvg-logo="1.jpg" group-title="ESPAÑA", La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_200x200.jpg" group-title="ENTRETENIMIENTO",FORO TV
 http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/39b789_6585db34b47345e19d3c5453fefbb6af~mv2.jpg" group-title="ECUADOR",CENTRO ECUADOR HD 
+https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
 
 
 
@@ -405,8 +412,6 @@ http://144.217.69.93:25461/live/Maelo777/magie777/59763.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg",CIUDAD MAGAZINE
 https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EC: TVC TELEVICENTRO" tvg-logo="http://cdn.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="ECUADOR",EC: TVC TELEVICENTRO
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
  
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",TELECINCO CANAL 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
@@ -698,48 +703,20 @@ http://tv.portalfoxmix.club:1935/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png",COOSMOS
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1046929006.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EwOBtIO.png" group-title="Canales Ecuatorianos", RTS HD
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png" group-title="ECUADOR",ECUAVISA HD
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/39b789_6585db34b47345e19d3c5453fefbb6af~mv2.jpg",CENTRO ECUADOR HD 
-https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
 http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/136
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E HD
 http://tecnolive.club/live/ae
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JwdH-2k6VBnll_uxxj0l5eD6VW4r-7GPNGca0czVPdxNim8oSHXxI1tpJb4pWY-wNeeB=s180",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.a12.com/source/files/originals/tv_aparecida.jpg",APARECIDA TV
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="SudAmerica",CANAL 4
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1414225809_b3044100.m3u8
@@ -747,22 +724,10 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1414225809_b304410
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw" group-title="Peliculas",EUROPA EUROPA HD  
 http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/16185.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.JPG" group-title="ARGENTINA",13 Max Digital
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ggyiEM.png", Canal 26 Aguascalientes
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro HD
-http://162.255.86.122:25461/live/wwwdazplayercom/DescargaNuestraApp-IPTV-DaZPlayer/409.m3u8
- 
-
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/418740034850652160/1neZ05qw_400x400.jpeg" group-title="Entretenimiento",CANAL telpiin
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
@@ -817,9 +782,6 @@ http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w173977344
 #EXTINF:-1 tvg-logo="http://puu.sh/mM0Bx/46d1a41194.png" group-title="Entretenimiento", Trendy
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ACu9QTH.png" group-title="PANAMA",OYE HD
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
-
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8w8QzbCcXSU/maxresdefault.jpg",CALIENTE DIGITAL FM
 http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w2010839434.m3u8
@@ -1102,8 +1064,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV HD
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U17QowT7S64/Ubz4tXlMSDI/AAAAAAAAEi8/fQXVt-nOyS8/s1600/logo.png" ,CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
