@@ -803,10 +803,6 @@ https://secure-streams.akamaized.net/rt-uk/index.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
-http://flow.nibbletv.info/CH/xJc42flVokZf/Animal-Planet.m3u8
-
-
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
@@ -983,8 +979,6 @@ http://tecnotv.xyz/mediaplay/bb
 #EXTINF:-1Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
  
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/trutv-logo-grid.jpg?crop=258px%2C183px%2C452px%2C303px&resize=446%2C299.png",TRUTV
-http://www.iptvmexico.xyz/tv1.php?calidad=05&canal=TRU_TV_HD&token=494922/320.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.canal10.com.uy/adjuntos/229/imagenes/001/999/0001999936.jpg",GARAGE TV
@@ -1036,8 +1030,6 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Sevilla_FC_%28Puerto_Rico%29.svg/631px-Sevilla_FC_%28Puerto_Rico%29.svg.png", Sevilla FC TV HD
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png", Eurosport1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPORT
 http://flow.nibbletv.info/CH/xJc42flVokZf/TNT-Sports.m3u8
