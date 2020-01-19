@@ -5,7 +5,11 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantiles", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
- 
+
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320" group-title="Infantiles",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
