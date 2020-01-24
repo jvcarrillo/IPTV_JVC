@@ -194,17 +194,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
  
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", CANAL 11 HD 
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3NTYzMzQ4LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuNDIiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuNDIiXX0sInNpZ25hdHVyZSI6IjgxOGU2ZjBhNDljNDVjNWMwM2RkZmUzYTEyMTQ0ZjM2ZTdkYzBjYjkifQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", CANAL 4 HD 
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY3NTYzNDkxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuNDIiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuNDIiXX0sInNpZ25hdHVyZSI6ImRmYTc1MzY4N2FlZGI1OTRiM2YzNDhmZWFhOWY1MmM5OGEwZTljMDcifQ%3D%3D
-
-#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/55.png", TELETICA CANAL 7 HD
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_B1e3TuJ7cB91x83ZX32tw)/dm/3/x29e3wg/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/telered.png?fit=500%2C300", TELERED TELEVISION HD 
-http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1343586000.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300", CANAL 9 TV SUR 
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
