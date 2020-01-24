@@ -199,12 +199,14 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300", CANAL 9 TV SUR 
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.transdatelecom.com/images/logos/super5_pqno.png",SUPER 5 HD TV 
-http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMGTBsQ400Z5umh5mnA8tpCCR3JIOC9cSKhfXoM=s1600-w400", TELESUR 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940976728402472960/LRts_wHX_400x400.jpg",GUAPILES TV
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
