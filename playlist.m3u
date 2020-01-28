@@ -204,60 +204,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/940976728402472960/LRts_wHX_400x400.jpg",GUAPILES TV
-http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/009a63_60fcede9e7c0454899446564978f3902~mv2_d_1662_1536_s_2.png/v1/fill/w_784,h_725,al_c,usm_0.66_1.00_0.01/009a63_60fcede9e7c0454899446564978f3902~mv2_d_1662_1536_s_2.png", Tele UNO 1 HD 
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.redeco.com.ar/images/stories/redeco/Nacional/medios/cartago_tv.jpg",CARTAGO tv 
-https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/5092884.jpg", CANAL TRECES 13
-http://bit.ly/2DXnwr4
-
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/5092884.jpg", CANAL TRECES 13 HD
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/CB24.png", CB24 
-http://ipointstreamslat-lh.akamaihd.net/i/cb24tv_1@580052/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/styles/square_thumbnail/public/33-XPERTV.png",XPERTV
-http://megatv.live:80/pame/pame/320
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-36.png",CANAL 36 
-http://servicioamerica.com:1935/8356/8356/chunklist_w136680302.m3u8 
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/38fda73816f4d852003948f06e0bb46f.jpg",TSM SPORT 
-http://mediacp.live:1935/8028/8028/chunklist_w1479204348.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif",CANAL 88 STEREO 
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_con_sombra.png",Canal UCR 
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Extra TV 42 
-http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://doutico.com/wpimages/wp284c9e60_06.png",CANAL NICOYA TV 36 
-http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D62pR8kQym8/maxresdefault.jpg",SAN JOSE TV CANAL48 
-http://190.10.10.17:1935/Telefides/definst/livestream/chunklist_w2036607453.m3u8
 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/42/9d/ae/429daea6-935a-779b-7cc0-f012797a8bae/pr_source.png/1200x630wa.png",FIDES TV 
 http://radios.rarserver.net:1935/live/fides_360p/chunklist_w1087833765.m3u8
