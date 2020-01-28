@@ -64,7 +64,7 @@ http://198.178.123.2:7274/;stream/1
 #EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="Musica",PERU TOP LatiNO HD
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="Musica", Mi Musica HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PzZ3jeSQ4VY/hqdefault.jpg" group-title="Musica", Mi Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
  
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Peliculas y Series", ACTION MOVIES (Ingles) 
@@ -94,7 +94,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Mexico", Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal111.png" group-title="Mexico", Canal Once Mexico
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/3/d/csm_11517-1329_import_03cb47710a.png" group-title="Mexico", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
