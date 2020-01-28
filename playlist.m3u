@@ -224,51 +224,31 @@ https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3782801/logo_estv.png",TELEVISION DEL ESTE DIRECTO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8 
 
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z",ANTENA TV
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XRxX9IhpJdBoV0UZNy1vSZAI-YRkewjeA1Jbp7VUIUFgGRpM",TC TELECIBAO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XRxX9IhpJdBoV0UZNy1vSZAI-YRkewjeA1Jbp7VUIUFgGRpM", TELECIBAO
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XRxX9IhpJdBoV0UZNy1vSZAI-YRkewjeA1Jbp7VUIUFgGRpM",TC TELECIBAO
-http://cm.hostlagarto.com:8081/Telecibao/Telecibao/chunks.m3u8?nimblesessionid=59432194
-
-#EXTINF:-1 tvg-logo="https://www.onlinepokerreport.com/wp-content/uploads/2013/09/wms-industries-online-poker.jpg",WMS HD
+#EXTINF:-1 tvg-logo="https://www.onlinepokerreport.com/wp-content/uploads/2013/09/wms-industries-online-poker.jpg",WMS
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://telecanal12.net/wp-content/uploads/2017/10/tele-canal-12-logo-2k17.png",TELE CANAL 12 HD
+#EXTINF:-1 tvg-logo="http://telecanal12.net/wp-content/uploads/2017/10/tele-canal-12-logo-2k17.png",TELE CANAL 12
 https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/chunklist_w2144699809.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telecanal12.png",TELE CANAL 12 
-https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/Telever.jpg",TELEVER CANAL 12 
-rtmp://tengomusica.ddns.net/telever//telever.sdp
+ 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNjCsaAKgrpqs6gv_9Y8dPSFltytyrQpPokvKksssNODsiGPS",CANAL 22 HD
-http://190.2.153.8:25461/live/dazplayer//daz/133.m3u8
+
+
+ 
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaROtZXhpv02FehqQ_ee5tj5si5fntDx3B8GDEDkChjHYGGU1",PUÑAL TV HD
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
