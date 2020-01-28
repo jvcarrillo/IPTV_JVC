@@ -203,55 +203,19 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg" group-title="Nicaragua", TV NOTICIAS CANAL 2
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif",CANAL 88 STEREO 
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/42/9d/ae/429daea6-935a-779b-7cc0-f012797a8bae/pr_source.png/1200x630wa.png",FIDES TV 
-http://radios.rarserver.net:1935/live/fides_360p/chunklist_w1087833765.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg",MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="http://andabolivia.com/wp-content/uploads/2018/05/tigo-sports.png",TIGO SPORT
-http://premiumplustv.com
 
 
 
 
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg",TV NOTICIAS CANAL 2
-http://162.244.81.181:1935/live/Stream1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/vivacanal13-nicaragua-218x150.png",VIVA NICARAGUA CANAL 13
-http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://nicas.news/wp-content/uploads/2016/04/canal04.jpg",CANAL 4 
-http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TN8-Telenica.png",CANAL 8
-http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/09/Canal-9-NIcaragua-en-directo.png",CANAL 9 
-http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/Canal10-Nicaragua-Logo.jpg",CANAL 10 
-http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ",CANAL 11
-http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1djTtzK43gI/mqdefault.jpg",CANAL 49
-https://live.sundaystreams.net/SUNS7579mHZkvyUwJEvj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaVZ2sWhHPSltGL4RfQjl_3CubpnhFgvbVREDua-iiksSNKDgV",CANAL 8
-http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHHSa2lAaxTMRVl418wwH0AASncfMC7H4NcyKZVS8yZrB4PHp",CANAL 9
-http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg", ĹINEROS TV
