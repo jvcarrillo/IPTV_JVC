@@ -212,47 +212,34 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg",MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg", ĹINEROS TV
-http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4TjtF9O9OWgTI3SZT3Cmp3u9rGau7q2SBLYReMSAUi3vbiHQW5Gtg8cirXQ",tvcinec
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-
-#EXTINF:-1 tvg-logo"=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW",TELEMAX HD
+#EXTINF:-1 tvg-logo"=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW", TELEMAX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
-#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts
-http://23.237.36.170:8000/Put0Z4pintv/M3l4p3l4sprr0/47
-
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/mediatv.png",TU MEJOR TELEVISION FULHD
-http://178.132.6.97/A1MediaTV1/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/san-clemente.png",UTV SAN CLEMENTE HD
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/san-clemente.png",UTV SAN CLEMENTE
 http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
-
- 
-
-
-
- 
-
-
-
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3b40f2856b1b2e61df66a1efafbc1ae449a5c266faed826fdc0561d79ac60fe5.png",LATINO UP TV HD
 https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3b40f2856b1b2e61df66a1efafbc1ae449a5c266faed826fdc0561d79ac60fe5.png",LATINO UP TV
-https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3782801/logo_estv.png",TELEVISION DEL ESTE DIRECTO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
 
 
 
