@@ -118,7 +118,7 @@ http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Noticias", DW LATINOAMERICA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="Colombia",Cali TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.colombia.com/canales/cali-tv-3296.jpg" group-title="Colombia",Cali TV
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.infocatolica.com/files/canal13tv.jpg" group-title="España", 13tv
