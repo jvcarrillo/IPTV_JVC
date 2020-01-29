@@ -27,20 +27,7 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?laope.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ajkJKs9.png" group-title="Deportes",Bolivia Deportes TV
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1116.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX SPORTS 1 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1308.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX SPORTS 2 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1309.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX SPORTS 3 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1310.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX SPORTS 4 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1311.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX SPORTS 5 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1312.m3u8
-#EXTINF:-1,NL group-title="Deportes", FOX SPORTS 6 4K+
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1313.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://img.new.livestream.com/events/000000000044bafd/bc759555-3152-4d08-8374-a76226ffef77.png" group-title="Entretenimiento", Unicanal
