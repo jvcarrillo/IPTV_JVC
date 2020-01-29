@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantiles", Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320" group-title="Infantiles",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 
