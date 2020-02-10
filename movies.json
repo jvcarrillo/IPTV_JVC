@@ -2,7 +2,7 @@
          "peliculas": [
                  {
                          "title": "47 Meters Down: Uncaged (2019)",
-                         "genre": ["Suspenso"],
+                         "genre": "Suspenso",
                          "image": "https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg",
                          "rating": "5.0",
                          "releaseYear": "2019",
