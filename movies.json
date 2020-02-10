@@ -1,13 +1,10 @@
 {
-         {
-                         "title": "47 Meters Down: Uncaged (2019)",
-                         "genre": "Suspenso",
-                         "image": "https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg",
-                         "rating": "5.0",
-                         "releaseYear": "2019",
-                         "clasification": "PG-13",
-                         "link": "https://onedrive.live.com/download.aspx?authkey=%21ALSnlxeUNR61bOM&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218368&parId=D5072BBB4F142590%212380&action=locate",
-                         "trailer": "https://youtu.be/AvXjx8SZbv8"
-                         }
-         
+     "title": "47 Meters Down: Uncaged (2019)",
+     "genre": "Suspenso",
+     "image": "https://m.media-amazon.com/images/M/MV5BMDc1MmVjMDQtOGU3OS00OTJkLWJmOGQtNDMzMWRjNDAzY2Y2XkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SY1000_SX675_AL_.jpg",
+     "rating": 5,
+     "releaseYear": "2019",
+     "clasification": "PG-13",
+     "link": "https://onedrive.live.com/download.aspx?authkey=%21ALSnlxeUNR61bOM&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218368&parId=D5072BBB4F142590%212380&action=locate",
+     "trailer": "https://youtu.be/AvXjx8SZbv8"
 }
