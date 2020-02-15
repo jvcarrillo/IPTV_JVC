@@ -1,60 +1,60 @@
 [{
         "title": "Dawn of the Planet of the Apes",
-        "genre": ["Action", "Drama", "Sci-Fi"]
+        "genre": "Action"
     },
     {
         "title": "District 9",
-        "genre": ["Action", "Sci-Fi", "Thriller"]
+        "genre": "Action"
     },
     {
         "title": "Transformers: Age of Extinction",
-        "genre": ["Action", "Adventure", "Sci-Fi"]
+        "genre": "Action"
     },
     {
         "title": "X-Men: Days of Future Past",
-        "genre": ["Action", "Sci-Fi", "Thriller"]
+        "genre": "Action"
     },
     {
         "title": "The Machinist",
-        "genre": ["Drama", "Thriller"]
+        "genre": "Drama"
     },
     {
         "title": "The Last Samurai",
-        "genre": ["Action", "Drama", "History"]
+        "genre": "Action"
     },
     {
         "title": "The Amazing Spider-Man 2",
-        "genre": ["Action", "Adventure", "Fantasy"]
+        "genre": "Action"
     },
     {
         "title": "Tangled",
-        "genre": ["Action", "Drama", "Sci-Fi"]
+        "genre": "Action"
     },
     {
         "title": "Rush",
-        "genre": ["Animation", "Comedy", "Family"]
+        "genre": "Animation"
     },
     {
         "title": "Drag Me to Hell",
-        "genre": ["Horror", "Thriller"]
+        "genre": "Horror"
     },
     {
         "title": "Despicable Me 2",
-        "genre": ["Animation", "Comedy", "Family"]
+        "genre": "Animation"
     },
     {
         "title": "Kill Bill: Vol. 1",
-        "genre": ["Action", "Crime"]
+        "genre": "Action"
     },
     {
         "title": "A Bug's Life",
-        "genre": ["Animation", "Adventure", "Comedy"]
+        "genre": "Animation"
     },
     {
         "title": "Life of Brian",
-        "genre": ["Comedy"]
+        "genre": "Comedy"
     },
     {
         "title": "How to Train Your Dragon",
-        "genre": ["Animation", "Adventure", "Family"]
+        "genre": "Animation"
     }]
