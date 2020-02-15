@@ -1,6 +1,7 @@
 [{
         "title": "Dawn of the Planet of the Apes",
-        "genere": "Action"
+        "genere": "Action",
+        "img":  "https://images-na.ssl-images-amazon.com/images/I/71N4ye-4jUL._AC_SY679_.jpg"
     },
     {
         "title": "District 9",
