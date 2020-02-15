@@ -4,36 +4,14 @@
         "image":  "https://images-na.ssl-images-amazon.com/images/I/71N4ye-4jUL._AC_SY679_.jpg"
     },
     {
-        "title": "District 9",
-        "genere": "Action"
-    },
-    {
-        "title": "Transformers: Age of Extinction",
-        "genere": "Action"
-    },
-    {
-        "title": "X-Men: Days of Future Past",
-        "genere": "Action"
-    },
-    {
         "title": "The Machinist",
-        "genere": "Drama"
-    },
-    {
-        "title": "The Last Samurai",
-        "genere": "Action"
-    },
-    {
-        "title": "The Amazing Spider-Man 2",
-        "genere": "Action"
-    },
-    {
-        "title": "Tangled",
-        "genere": "Action"
+        "genere": "Drama",
+        "image":  "https://images-na.ssl-images-amazon.com/images/I/51djunFkAdL.jpg"
     },
     {
         "title": "Rush",
-        "genere": "Animation"
+        "genere": "Animation",
+        "image":  "https://i.ebayimg.com/images/g/ikkAAOSwivNbQfOb/s-l300.jpg"
     },
     {
         "title": "Drag Me to Hell",
