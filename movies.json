@@ -25,7 +25,7 @@
     {
         "title": "Undisputed",
         "genere": "Acción",
-        "image":  "https://m.media-amazon.com/images/M/MV5BMmE1NjQ0MDAtMTFhMC00OTgxLTg0ODktMGI2YmE2ZTU4YjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg,
+        "image":  "https://m.media-amazon.com/images/M/MV5BMmE1NjQ0MDAtMTFhMC00OTgxLTg0ODktMGI2YmE2ZTU4YjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
         "rating": "6.2",
         "releaseYear": 2002,
         "clasificacion": "R",
@@ -33,4 +33,16 @@
         "description": "El campeón mundial de boxeo en la categoría de pesos pesados George ICEMAN Chambers es enviado a prisión acusado de violación, cargo del que él se declara totalmente inocente. Lo que más le indigna es que en la cima de su carrera de boxeador profesional no va a poder disfrutar y defender su título de campeón invicto.",
         "trailer": "-pt2VKFjrdI",
         "fondo": "https://i.ytimg.com/vi/EBYI_yFjiaM/maxresdefault.jpg"
+    },
+    {
+        "title": "Undisputed 2",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMjE2MDA1MzgwMl5BMl5BanBnXkFtZTcwODg4NzAzMQ@@._V1_.jpg",
+        "rating": "7.1",
+        "releaseYear": 2006,
+        "clasificacion": "R",
+        "link": "http://bit.ly/2P0UY6K",
+        "description": "Todo comienza con el ataque de unos ladrones a George Chambers en su hotel. Aunque se enzarza en una pelea con ellos, logran dejarle inconsciente y, cuando la policia acude al lugar de los hechos, encuentran drogas entre sus pertenencias. Aunque él afirma que no es suya y que están intentando incriminarle, Chambers acaba en una cárcel de máxima seguridad de Rusia.\nEn la prisión Chambers conocerá a Boyka, el considerado campeón más completo de lucha del mundo, que teme perder su status ante el que fue campeón mundial de pesos pesados. Comenzará de esta manera una guerra de poder en la que solo puede quedar uno.",
+        "trailer": "HMkrzAHDKTM",
+        "fondo": "https://i.ytimg.com/vi/AvBw7OqOPLk/maxresdefault.jpg"
     }] 
