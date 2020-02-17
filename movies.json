@@ -23,11 +23,6 @@
         "fondo": "https://m.media-amazon.com/images/M/MV5BMGIzMGNlMzAtZTc1MC00MmQyLWIxODEtOTNkZGQ0NmJkMDczXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX1777_CR0,0,1777,744_AL_.jpg"
     },
     {
-        "title": "Rush",
-        "genere": "Animation",
-        "image":  "https://i.ebayimg.com/images/g/ikkAAOSwivNbQfOb/s-l300.jpg"
-    },
-    {
         "title": "How to Train Your Dragon",
         "genere": "Animation"
     }] 
