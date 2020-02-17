@@ -11,9 +11,16 @@
         "fondo": "https://pm1.narvii.com/6751/31a8d9f95eb17ac997f2b0a68536eeade1fa08f8v2_hq.jpg"
     },
     {
-        "title": "The Machinist",
-        "genere": "Drama",
-        "image":  "https://images-na.ssl-images-amazon.com/images/I/51djunFkAdL.jpg"
+        "title": "Frozen 2",
+        "genere": "Animacion",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg",
+        "rating": "7.1",
+        "releaseYear": 2019,
+        "clasificacion": "PG",
+        "link": "http://bit.ly/38KOkJu",
+        "description": "ELSA es el personaje mítico perfecto: mágico y con un atractivo irresistible. Está muy agradecida porque su reino la ha aceptado y se esfuerza al máximo para ser una buena reina. Pero eso no le impide que siga preguntándose por el origen de sus poderes. Ese misterio la empujará a descubrir una verdad oculta sobre su pasado.",
+        "trailer": "https://www.youtube.com/watch?v=0ghNj_5H_G0",
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMGIzMGNlMzAtZTc1MC00MmQyLWIxODEtOTNkZGQ0NmJkMDczXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX1777_CR0,0,1777,744_AL_.jpg"
     },
     {
         "title": "Rush",
