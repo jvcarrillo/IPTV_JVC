@@ -23,6 +23,15 @@
         "fondo": "https://m.media-amazon.com/images/M/MV5BMGIzMGNlMzAtZTc1MC00MmQyLWIxODEtOTNkZGQ0NmJkMDczXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX1777_CR0,0,1777,744_AL_.jpg"
     },
     {
-        "title": "How to Train Your Dragon",
-        "genere": "Animation"
+        "title": "Undisputed",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMmE1NjQ0MDAtMTFhMC00OTgxLTg0ODktMGI2YmE2ZTU4YjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg,
+        "rating": "6.2",
+        "releaseYear": 2002,
+        "clasificacion": "R",
+        "link": "http://bit.ly/3bNpHOj",
+        "description": "El campeón mundial de boxeo en la categoría de pesos pesados George \"Iceman\" Chambers es enviado a prisión acusado de violación, cargo del que él se declara totalmente inocente. Lo que más le indigna es que en la cima de su carrera de boxeador profesional no va a poder disfrutar y defender su título de campeón invicto.",
+        "trailer": "-pt2VKFjrdI",
+        "fondo": "https://i.ytimg.com/vi/EBYI_yFjiaM/maxresdefault.jpg"
+    
     }] 
