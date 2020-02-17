@@ -57,4 +57,17 @@
         "description": "En esta película Scott Adkins vuelve a encarnar a Boyka (el malo de Undisputed 2), que busca la libertad. Cuando se le ofrece la oportunidad de participar en un campeonato clandestino entre los 8 mejores luchadores reclusos del mundo, ni lo dudará",
         "trailer": "YIljr581he4",
         "fondo": "https://m.media-amazon.com/images/M/MV5BMzVhOTQyNWYtY2I0NC00MDMyLWJhMzktZjQ0YTQyZmNlZGMwXkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_.jpg"
-    }] 
+    },
+ {
+        "title": "Animales fantásticos y dónde encontrarlos",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "7.3",
+        "releaseYear": 2016,
+        "clasificacion": "PG-13",
+        "link": "http://bit.ly/38zaVc0",
+        "description": "Año 1926. Newt Scamander acaba de completar un viaje por todo el mundo para encontrar y documentar una extraordinaria selección de criaturas mágicas. Llegando a Nueva York para hacer una breve parada en su camino, donde podría haber llegado y salido sin incidentes…pero no para un Muggle llamado Jacob, un caso perdido de magia, y la fuga de algunas criaturas fantásticas de Newt, que podrían causar problemas el mundo mágico y en el mundo Muggle.",
+        "trailer": "j4UT4EFNEvo",
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZWZmODFmMzktN2FlNS00NjY1LTlhZWEtYTkwYjc1MDliNmI2XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+    }
+] 
