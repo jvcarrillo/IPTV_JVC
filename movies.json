@@ -1,4 +1,17 @@
-[{
+[
+ {
+        "title": "Witches in the Woods",
+        "genere": "Horror",
+        "image": "https://m.imdb.com/title/tt8354344/mediaviewer/rm3934231553",
+        "rating": "4.1",
+        "releaseYear": 2019,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21AH3t5jaT402MDak&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218427&parId=D5072BBB4F142590%212381&o=OneUp",
+        "description": " Un grupo de jóvenes se va a las montañas de Massachusetts en busca de un fin de semana para esquiar y relajarse. En el camino deciden tomar un atrecho, que los lleva a perderse en un bosque que se cree fue habitado por brujas en el pasado. Sin muchas posibilidades de salir de allí, las bajas temperaturas son solo uno de los peligros que enfrentarán.",
+        "trailer": "dYpEMDyQUJk",
+        "fondo": "https://m.imdb.com/title/tt8354344/mediaviewer/rm765564673"
+ },
+{
         "title": "Wendy Wu Homecoming Warrior",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BMTkzMjU3MjU4Nl5BMl5BanBnXkFtZTcwMDA2NTYzMQ@@._V1_.jpg",
@@ -176,7 +189,7 @@
         "clasificacion": "PG",
         "link": "https://onedrive.live.com/download.aspx?authkey=%21AH3t5jaT402MDak&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218427&parId=D5072BBB4F142590%212381&o=OneUp",
         "description": "Drácula se enamora de una mujer misteriosa durante un crucero en el que toda la familia de monstruos se ha embarcado para disfrutar de unas vacaciones. ¡Lo que no sabe es que es la descendiente de una saga de cazadores de vampiros!.",
-        "trailer": "https:Ku52zNnft8k",
+        "trailer": "Ku52zNnft8k",
         "fondo": "https://m.media-amazon.com/images/M/MV5BMjEzNTI5Nzk3MV5BMl5BanBnXkFtZTgwNzQwMjA3NTM@._V1_SX1777_CR0,0,1777,960_AL_.jpg"
- }
+ } 
 ]
