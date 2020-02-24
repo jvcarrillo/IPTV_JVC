@@ -108,6 +108,30 @@
         "fondo": "https://m.media-amazon.com/images/M/MV5BMzVhOTQyNWYtY2I0NC00MDMyLWJhMzktZjQ0YTQyZmNlZGMwXkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_.jpg"
     },
  {
+        "title": "Coco",
+        "genere": "Animación",
+        "image":  "https://kultura.errenteria.eus/app/uploads/sites/3/2018/12/20190102_Musical-Coco.png",
+        "rating": "8.4",
+        "releaseYear": 2017,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21AAw58Fm6yUUk3L8&cid=D5072BBB4F142590&resid=D5072BBB4F142590%212836&parId=D5072BBB4F142590%212381&o=OneUp",
+        "description": "El niño Miguel Rivera sueña con convertirse en un cantante famoso como su ídolo Ernesto de la Cruz, quien alcanzó la fama gracias a su tema \"Recuérdame\". Pero Miguel tiene un impedimento. Para los Rivera, la música está prohibida desde que su tatarabuelo abandonó a su tatarabuela Mamá Imelda y a su hija Coco, aún viva, para alcanzar la fama como músico profesional.",
+        "trailer": "rb0BN7CfCjU",
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMDAwMWU3NmMtN2U3Yy00YTMzLWIxNGEtMWU0MWNkNTE4NGUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU2MzA0MzA@._V1_SX1777_CR0,0,1777,736_AL_.jpg"
+    },
+  {
+        "title": "RaiceTime",
+        "genere": "Animación",
+        "image":  "https://m.media-amazon.com/images/M/MV5BNzk3MzZkZmItNjVkNC00ZDEwLTk4ZjEtYzAyMzJiNTY5OGE3XkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_.jpg",
+        "rating": "5.5",
+        "releaseYear": 2018,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21AKWYPWLaxQaMhhg&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218385&parId=D5072BBB4F142590%212381&action=locate",
+        "description": "La joven Marla (Anya Taylor-Joy) se embarca en una épica aventura para encontrar a su hermano pequeño Charlie (Gabriel Bateman). El único problema es que tanto ella como él han desaparecido de su realidad y se han adentrado en el asombroso mundo animado de Racetime. Ahora miden 7,5 centímetros y tienen que convivir con vikingos, agentes secretos, vaqueros, monstruos gigantescos, robots, hadas mágicas, piratas, motoristas, ardillas y dinosaurios.",
+        "trailer": "PwWpOIHLMWA",
+        "fondo": "https://racetimethemovie.com/wp-content/uploads/2018/11/facebook_racetime.jpg"
+    },
+ {
         "title": "Animales fantásticos y dónde encontrarlos",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
@@ -203,5 +227,17 @@
         "description": "Drácula se enamora de una mujer misteriosa durante un crucero en el que toda la familia de monstruos se ha embarcado para disfrutar de unas vacaciones. ¡Lo que no sabe es que es la descendiente de una saga de cazadores de vampiros!.",
         "trailer": "Ku52zNnft8k",
         "fondo": "https://m.media-amazon.com/images/M/MV5BMjEzNTI5Nzk3MV5BMl5BanBnXkFtZTgwNzQwMjA3NTM@._V1_SX1777_CR0,0,1777,960_AL_.jpg"
- } 
+ } ,
+ {
+        "title": "",
+        "genere": "",
+        "image":  "",
+        "rating": "7.3",
+        "releaseYear": 2016,
+        "clasificacion": "PG",
+        "link": "",
+        "description": "",
+        "trailer": "",
+        "fondo": ""
+    },
 ]
