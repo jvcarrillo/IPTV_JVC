@@ -133,8 +133,8 @@
     },
  {
         "title": "Ice Princess Lily",
-        "genere": "https://upload.wikimedia.org/wikipedia/en/1/15/Tabaluga2018poster.jpg",
-        "image": "Animación",
+        "genere": "Animación",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Tabaluga2018poster.jpg",
         "rating": "5.1",
         "releaseYear": 2018,
         "clasificacion": "PG",
