@@ -108,7 +108,7 @@
         "fondo": "https://m.media-amazon.com/images/M/MV5BMzVhOTQyNWYtY2I0NC00MDMyLWJhMzktZjQ0YTQyZmNlZGMwXkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_.jpg"
     },
  {
-        "title": "Coco",
+        "title":  "Coco",
         "genere": "Animación",
         "image":  "https://kultura.errenteria.eus/app/uploads/sites/3/2018/12/20190102_Musical-Coco.png",
         "rating": "8.4",
@@ -227,17 +227,5 @@
         "description": "Drácula se enamora de una mujer misteriosa durante un crucero en el que toda la familia de monstruos se ha embarcado para disfrutar de unas vacaciones. ¡Lo que no sabe es que es la descendiente de una saga de cazadores de vampiros!.",
         "trailer": "Ku52zNnft8k",
         "fondo": "https://m.media-amazon.com/images/M/MV5BMjEzNTI5Nzk3MV5BMl5BanBnXkFtZTgwNzQwMjA3NTM@._V1_SX1777_CR0,0,1777,960_AL_.jpg"
- } ,
- {
-        "title": "",
-        "genere": "",
-        "image":  "",
-        "rating": "7.3",
-        "releaseYear": 2016,
-        "clasificacion": "PG",
-        "link": "",
-        "description": "",
-        "trailer": "",
-        "fondo": ""
-    },
+ } 
 ]
