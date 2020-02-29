@@ -1,5 +1,17 @@
 [
  {
+        "title": "Dolittle",
+        "genere": "Aventura",
+        "image":  "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoar8y_ZLMjpU2DUCmYy4twmLqIGwLIUr7OHvV4oGYWYt3aB0-",
+        "rating": "5.5",
+        "releaseYear": 2020,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21ABP9kOywQlxZEkA&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218575&parId=D5072BBB4F142590%212380&o=OneUp",
+        "description": "El afamado y excéntrico Dr. Dolittle (Robert Downey Jr.) es un médico veterinario de la Inglaterra victoriana. Aislado en su mansión, Dolittle vive junto a sus animales exóticos, que son su única compañía. Pero cuando la joven reina Victoria (Jessie Buckley) cae gravemente enferma, este peculiar doctor tendrá que viajar hasta una mítica isla en busca de una cura. Muy a su pesar, Dolittle abandonará su vida de ermitaño para embarcarse en una épica aventura, en la que poco a poco recuperará su sentido del humor y su coraje, a medida que se encuentre con viejos adversarios y descubra maravillosas criaturas. En su viaje le acompañará su joven ayudante Tommy (Harry Collett), además de todo un séquito de variopintos animales. Esta comedia familiar está basada en el clásico de la literatura infantil creado por Hugh John Lofting",
+        "trailer": "aZjg3-fPU3k",
+        "fondo": "https://kinefilia.files.wordpress.com/2020/02/las-aventuras-del-doctor-dolittle-1.jpg?w=584"
+ },
+ {
         "title": "Charlies Angels",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BN2VkMjQwZWMtMzc1NC00ZjJiLWJlNTMtNmRjOTE2ZTJmYzUwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,731,1000_AL_.jpg",
