@@ -85,6 +85,10 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA Space Station 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="Ecuador", TEN Ecuador
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
@@ -873,11 +877,3 @@ http://flow.nibbletv.info/CH/x1JzEU9hI6QF/Fox-Sports-Premium.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
 http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="http://dazplayer.com/img_chh/ten_ecuador.png",TEN HD ECADOR
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png", TV Noticias 7.3
-https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
