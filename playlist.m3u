@@ -10,6 +10,9 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="24/7", Factoria de Ficcion
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID 1
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -44,6 +47,9 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://sugarfactory.com/wp-content/uploads/2017/01/Telemundo-51-Miami-Logo.jpg" group-title="Entretenimiento", TELEMUNDO (Miami)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
@@ -190,20 +196,14 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Religion",Tele VIDA (Colombia)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Enlace-TV-Logo-300x300.jpg" group-title="Religion", Enlace TV
+http://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
+#EXTINF:-1 tvg-logo="http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg" group-title="Religion", Enlace Juvenil
+http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg" group-title="Venezuela", PROMAR TV                                                                                  
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-
-
-
-
-
-
-
-
-
- 
 
 
 
@@ -602,64 +602,10 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png", Factoria de Ficcion
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
- 
-
-
- 
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/2000px-The_Weather_Channel_logo_2005-present.svg.png", Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
  
 
  
-
-
-#EXTINF:-1 tvg-logo="https://www.gorkanajobs.co.uk/getasset/c9e7fc99-177d-4665-b55b-c9c5a0993678/", RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="https://www.connectas.org/especiales/selva-guaviare/img/logo_el_tiempo.png", El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/547ced7fe4b082da1f2b98ab/54b418e5e4b0418eb56579a9/54b418e5e4b0418eb56579ac/1419366722251/WGNA_Logos_ForCaseStudy_01_00026.jpg",WGN AMERICA
-http://185.66.143.240:25461/live/franky/franky/908.m3u8
-
-
-
-
- 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/radio-television-vida.png?resize=218%2C150.png",RTV
-http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1 tvg-logo="http://video.lajornadanet.com/wp-content/uploads/2016/11/Telefides-Canal-40.png",Telefides
-http://stream02.cyberfuel.com/Telefides/livetelefides/chunklist_w409343164.m3u8
- 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Enlace-TV-Logo-300x300.jpg", Enlace TV
-http://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg", Enlace Juvenil
-http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://cielotvcristiana.com/images/LOGO.png", Cielo tv HD
-http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w2084476464.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-6V416O7h3hs/Wj3HJmGGeTI/AAAAAAADZjc/CzMzH6aE7YkoyUFcyUNpI9d51nDFCIt5gCLcBGAs/s1600/suyapa-medio-tv-telecatracha-honduras.png",suyapatv
-http://173.236.71.62:1935/canal48/c48.sdp/chunklist_w368150527.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81036VHX3HL.jpg",ES NE TV
-http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w476291631_b898000_sleng.m3u8
 
 
 
