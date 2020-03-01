@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320" group-title="Infantiles",Boing
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png" group-title="Infantiles",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -146,7 +146,7 @@ http://190.11.224.14:8134/liveevent.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Honduras" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Honduras",Canal 9
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180" group-title="Honduras", Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
@@ -362,38 +362,6 @@ http://us.live.skyfolk.mk/live.m3u8
 
 
 
-
- 
-
-
-
-
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-11-sv.png", canal 11 TUTV HD
-http://198.24.135.42/canal11/canal11/chunklist_w1425572302.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
-http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
- 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg, TVO
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
- 
-
-
-
-
-
- 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/Teledoce_2013_blanco.jpg",TELE DOCE 12 HD 
-http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LOGO_LAS_ESTRELLAS_2017.svg/revision/latest/scale-to-width-down/200?cb=20170108213622",Canal de las Estrellas HD 
 http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/189
 
@@ -463,21 +431,12 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
 
 
-
-
- 
- 
- 
-
-
-
 #EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" group-title="Musica", Cantinazo TV COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",COLOMBIA RCN HD  
 http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
-
 
 
 
@@ -492,14 +451,6 @@ http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000154922454-0gi119-t500x500.jpg"",CABLE NOTICIAS
 http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
-
-
-
- 
-
-
-
-
 
 
 
