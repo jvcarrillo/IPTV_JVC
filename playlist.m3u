@@ -120,7 +120,18 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="Paraguay", Unicanal
+#EXTINF:-1 tvg-logo="http://www.redespoder.com/wp-content/uploads/2018/01/milenio.png" group-title="Mexico", Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Mexico", RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Mexico", RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="Paraguay"  Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Regionales",VTV Valle de Aconcagua 
@@ -392,30 +403,6 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
 http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1AFRJh.png", RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
- 
-#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/adn40.png",ADN 40
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
- 
-#EXTINF:-1 tvg-logo="http://mexicali.ccp.org.mx/wp-content/uploads/sites/10/2016/11/efektotv-peque.jpg", Efekto TV
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.redespoder.com/wp-content/uploads/2018/01/milenio.png",Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
- 
-#EXTINF:-1 tvg-logo="https://rocodromo.ameyallicamp.com/wp-content/uploads/2016/04/C7.png",C7 Jalisco
-http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1598637643.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Canal_Nu9ve.jpg/220px-Canal_Nu9ve.jpg",NUENE 9 TODA TUYO
-http://ligatv.net:25461/live/tptv/23012019/305.m3u8
-
 
 
 
