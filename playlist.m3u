@@ -27,6 +27,8 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?laope.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ajkJKs9.png" group-title="Deportes",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW" group-title="Deportes", TELEMAX 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
 
 
@@ -59,6 +61,9 @@ http://198.178.123.2:7274/;stream/1
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PzZ3jeSQ4VY/hqdefault.jpg" group-title="Musica", Mi Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="Musica",Canal 88 Stereo 
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
+
 
 
 
@@ -204,13 +209,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg" group-title="Nicaragua", TV NOTICIAS CANAL 2
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif",CANAL 88 STEREO 
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
-
-
-#EXTINF:-1 tvg-logo"=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW", TELEMAX 
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/san-clemente.png",UTV SAN CLEMENTE
 http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
