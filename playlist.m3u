@@ -12,6 +12,8 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="24/7", Factoria de Ficcion
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="24/7", Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg" group-title="Deportes", REAL MADRID 1
@@ -70,6 +72,9 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="Musica",Canal 88 Stereo 
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" group-title="Musica", MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
 
 
 
@@ -170,7 +175,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="Argentina",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
- 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA.jpg" group-title="Argentina", Canal Provincia 
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Panama", Nex CANAL 21 HD 
@@ -410,71 +416,11 @@ http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w1598637643.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Canal_Nu9ve.jpg/220px-Canal_Nu9ve.jpg",NUENE 9 TODA TUYO
 http://ligatv.net:25461/live/tptv/23012019/305.m3u8
 
-#EXTINF:-1 tvg-logo="https://st-listas.20minutos.es/images/2009-07/123524/1420345_640px.jpg?1249083765",Bandamax MEX HD
-
-
-
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-UoD8MSMQY70/AAAAAAAAAAI/AAAAAAAAAAA/u0DAtEgs0hA/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",Televisa Monterrey HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/108
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/012011/tlnovelas_logo.png?itok=p_-2GS_P.png",TL NOVELAS
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="http://startvmexico.com.mx/images/unicable.png?crc=4149749936",UNICABLE FHD MX
-http://tecnolive.club/live/unicable
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://puu.sh/rePTT/3cd2455552.png" group-title="Musica", Cantinazo TV COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",COLOMBIA RCN HD  
-http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-
- 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png",RED
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8 
-
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000154922454-0gi119-t500x500.jpg"",CABLE NOTICIAS
-http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDIa9K7ychz70ITaKGaKO7JDrRjqUEExxzmOR0gJG7NfdAB5",TELEVER CANAL 12
-rtmp://tengomusica.ddns.net/telever//telever.sdp
-
-#EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1eWEygDVeaZKA/c85ab13c3c480bf68bc0c055225592fd-128.jpg",Canal 41 HD
-https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_w882613411.m3u8
-
- 
-#EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg",CANAL AME 47
-http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-uPpVcbIm6EY/VQAzwvqhN4I/AAAAAAAAmpE/69XIyuEhDtY/s1600/problemas-en-telecentro-canal-13.gif.png",TELECENTRO CANAL 13 HD
-http://stream.grupotelemicro.com/13.m3u8
 
 
  
@@ -484,135 +430,13 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 REPUBLICA DOMINICANA 
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w810346608.m3u8
 
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg",SUPERTV 55 
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w704544947.m3u8
-
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
-http://media.az-streamingserver.com:1935/7230/7230/chunklist_w1630606037.m3u8 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/5/4776/40765874662_153ee36567_b.jpg",UCVTV
-http://unlimited1-us.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/UCV_3.png/revision/latest?cb=20170820170650",UCV3 TV 
-http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8 
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWKR5gzzx19xo3yGdmatQ9ez6MhoogMemjlojqoBvvakAi2bw", El Pingüino | HD | Punta Arenas
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png",COOSMOS
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1046929006.m3u8
 
-#EXTINF:-1 tvg-logo="http://i1092.photobucket.com/albums/i414/Amigovio00/TV%20Open/PELICULAS/AMC%20HD_zpshanwstch.jpg",AMC HD
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/136
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E HD
-http://tecnolive.club/live/ae
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JwdH-2k6VBnll_uxxj0l5eD6VW4r-7GPNGca0czVPdxNim8oSHXxI1tpJb4pWY-wNeeB=s180",~ ESTADOS UNIDOS
-http://www.lengua.com/anthems/USA.mp3
-
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.a12.com/source/files/originals/tv_aparecida.jpg",APARECIDA TV
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ggyiEM.png", Canal 26 Aguascalientes
-http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/418740034850652160/1neZ05qw_400x400.jpeg" group-title="Entretenimiento",CANAL telpiin
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://television-internet.com.ar/america-tv.jpg",AMERICA TV 
-http://s1.multicanal.tel:25461/live/jortuz/jortuz/3844.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-migente.jpg", Mi GENTE TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.transmediatelevision.com/wp-content/uploads/2017/05/logotransmedia-01-1.png", TMTV
-http://st2.worldkast.com/8022/smil:8022.smil/playlist.m3u8  
- 
-#EXTINF:-1 tvg-logo="http://www.vatp.lv/sites/default/files/chaulatv.jpg",CHAUTV
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",CHAUTV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
-#EXTINF:-1M2
-http://live.m2.tv/hls/stream.m3u8
- 
-#EXTINF:-1 tvg-logo="http://radiodigital.fm/wp-content/themes/digitalfm/images/marca.png",CADENA DIGITAL FM
-http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w1739773445.m3u8
-
- 
-#EXTINF:-1 tvg-logo="http://puu.sh/mM0Bx/46d1a41194.png" group-title="Entretenimiento", Trendy
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8w8QzbCcXSU/maxresdefault.jpg",CALIENTE DIGITAL FM
-http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist_w2010839434.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AL3AGGx.png",CANAL CARNAVAL
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpRgjdj.png",Canal Provincia 
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDi9RSTDqibXagTjG-5wj0xr-C6ZX3Xn0jh0Es5_ccQgm3zX1",DESIERTO tv
-http://unlimited4-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHaYcwaeji_uan3UaGecxjzD6OvG97xEBfnNA=s900-mo-c-c0xffffffff-rj-k-no",CANAL ZACATECAS TELEVISION 15 
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8.
-
-#EXTINF:-1 tvg-logo="https://d701vexhkz032.cloudfront.net/bundles/front/media/images/submenu/family/McPlay_Br.png",MC PLAY MUSIC
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://emptylighthouse-production.s3-us-west-2.amazonaws.com/s3fs-public/styles/728x_hero/public/field/image/f9541020adf75b5b9a409345e9f6053c.jpeg?itok=YBae7YSI",MC PLAY 
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsxgroC.png",LA MEGA MUNDIAL 
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
-
-
-
- 
- 
- 
-
- 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
- 
- 
- 
-
- 
-
-
-
-
-
-
-
 
 
 #EXTINF:-1Bloomberg
