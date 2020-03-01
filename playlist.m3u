@@ -122,7 +122,7 @@ http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Noticias", DW LATINOAMERICA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.colombia.com/canales/cali-tv-3296.jpg" group-title="Colombia",Cali TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_CaliTV.png" group-title="Colombia",Cali TV
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/13_TV_logo_2010.png" group-title="España", 13tv
@@ -149,7 +149,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180" group-title="Honduras", Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/426781194466754560/0ofqndpM_400x400.jpeg" group-title="Argentina",Canal 4 Psadas
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225781501339590657/JJjmqXse_400x400.jpg" group-title="Argentina",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="Argentina",Canal 9 Salta
