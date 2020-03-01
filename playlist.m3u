@@ -193,6 +193,8 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg" group-title="Venezuela", PROMAR TV                                                                                  
+http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
 
 
 
@@ -815,65 +817,4 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/ind
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbyQkZMsuM4Sw9sHfBlotwQchGnLR6g4uMt79XhtEaLRAcS92rw",CNN INTERNACIONAL 
 http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg",PROMAR.TV                                                                                  
-http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://sercomunicacion.es/wp-content/uploads/2016/08/image.png",DEPORTES
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://cdn.priproductions.com/wp-content/uploads/2017/04/nfl-shield.jpg",NFL 
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
- 
-#EXTINF:-1 tvg-logo="http://strategicsociety.org.uk/wp-content/uploads/2015/10/Sky-News.png", Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
- 
-
-
-
-
- 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U17QowT7S64/Ubz4tXlMSDI/AAAAAAAAEi8/fQXVt-nOyS8/s1600/logo.png" ,CDO
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496415326540546048/WZqGHADX_400x400.jpeg",COS
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.vacantesmedcom.com/css/img/cos_2015.png", COS FC
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png", MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Sevilla_FC_%28Puerto_Rico%29.svg/631px-Sevilla_FC_%28Puerto_Rico%29.svg.png", Sevilla FC
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Sevilla_FC_%28Puerto_Rico%29.svg/631px-Sevilla_FC_%28Puerto_Rico%29.svg.png", Sevilla FC TV HD
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
- 
- 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPORT
-http://flow.nibbletv.info/CH/xJc42flVokZf/TNT-Sports.m3u8
-
-
-
-#EXTINF:0 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" , Univision TDN HD
-http://23.237.22.157:25461/live/skokolopo/2s3avt9koa45/45.m3u8?token=HxENBBFREl5GAQEJVFIHUQcABwJXV1NcVgYCA1wFDgUGAl1TAw1RB1YSGxJCRRMAAgs+WwJHWA0GSBRCSwRLbQ1XR19ADRJIRkReXVQTW1VPRBFbAkdYGwJcAgMaTRtXHEcAFwxYXDsAVUFZUlRDXw0TDV5KRw1XbABTWlkPXRBeEVVHThtZFxQSDRJlVA0ABQkPWwUEQnBdEFNFVgBNWwtdBAlCblgLCFVEUV1UQTYGFBdbBQARGXIWUVJWFVBcBRM2SyMXEkhGUl5EQ1AVAEFcQwNXVFcbH0ZVWE0PTUAdEV9HIWsSSEZVT0RUXxIMDAhDCEQIUUwLRhoVURJmQAFAERcHWF0BFhINEgETTUcOBxltBQoMV1YHQl5XD0oQXhFVR04bXQsKWUNfQ24RDAdEWxBVVFYOC0ZL
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_todo-deportes-tdtv_m.png",TDTV
-http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports MEX
-http://flow.nibbletv.info/CH/xJc42flVokZf/Fox-Sports-MX.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports PREMIUM 
-http://flow.nibbletv.info/CH/x1JzEU9hI6QF/Fox-Sports-Premium.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8?xtreamiptv.m3u8
 
