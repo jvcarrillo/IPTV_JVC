@@ -81,53 +81,49 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" group-title="Peliculas y Series", ACTION MOVIES(Ingles) 
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true 
-
+#EXTINF:-1  tvg-logo="https://pmcvariety.files.wordpress.com/2017/05/pluto-tv.jpg?w=1000&h=563&crop=1.png" group-title="Peliculas y Series", PLUTO TV (Ingles)
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UuL-XfE6trU/maxresdefault.jpg" group-title="Peliculas y Series", HORROR TV (Ingles)
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="Peliculas y Series", CiNEMA+
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="Peliculas y Series", FMHOT
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
-
 #EXTINF:-1 tvg-logo="http://i59.tinypic.com/121snyq.jpg" group-title="Peliculas y Series", Paramount Channel
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA tv
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA Space Station 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="Ecuador", TEN Ecuador
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" group-title="El Salvador", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" group-title="El Salvador",TVO Canal 23 (Opt-2)
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/3/d/csm_11517-1329_import_03cb47710a.png" group-title="Mexico", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Mexico", Ultra TV Puebla
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.redespoder.com/wp-content/uploads/2018/01/milenio.png" group-title="Mexico", Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Mexico", RCG 1 Saltillo
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Mexico", RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/175x175bb.jpg" group-title="Mexico", 15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
 
 
 
@@ -152,21 +148,19 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1200px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", RCN
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/13_TV_logo_2010.png" group-title="España", 13tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif?x=634&y=309"group-title="España", COSMO TV HD 
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ca/thumb/b/b5/Logo_tv3cat-2009.svg/520px-Logo_tv3cat-2009.svg.png" group-title="España",TV3
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png" group-title="España",Telecafe
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="Honduras", TEN 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
- 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="Honduras",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
 
@@ -193,17 +187,16 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Panama", Nex CANAL 21 HD 
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="Costa Rica", TV Sur 14 HD 
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Naw5Wnn.png" group-title="Costa Rica",EXTREMA TV HD 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tW2q2nlLRQDOmxys8vU4VQ-kiZz9jA0hNmGR6MiC65E-43Pj2_Y0ElP7tpIdgYH14A=w300" group-title="Costa Rica", CANAL 9 TV SUR 
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMGTBsQ400Z5umh5mnA8tpCCR3JIOC9cSKhfXoM=s1600-w400" group-title="Costa Rica", TELESUR 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="SudAmerica", BHTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -348,68 +341,19 @@ http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w12493622
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.telered.com.ar/img/logo400x400.png",TELERED
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP Cd. Obregon
-https://5a3911d64928b.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="https://i.blogs.es/7e7a33/play/450_1000.jpg",PLAY ANIMACION 
 
-#EXTINF:-1  tvg-logo="https://pmcvariety.files.wordpress.com/2017/05/pluto-tv.jpg?w=1000&h=563&crop=1.png",PLUTO TV
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg",Flicks  of fury 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UuL-XfE6trU/maxresdefault.jpg",HORROR TV 24/7
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2USkdkWJah7WABLIyUBp-VGfbwaQRB4v-DgKe2fXS1VZ3Yzw7w",MOVIEE 4U HD
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",MICROVISION  CANAL 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://newsletters.worldscreen.com/semanal/img/2012-08-31-Sony-Entertainment-Television-Logo.jpg",SONY MOVIES NETWORK 
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VmZX2A5.png",SKY FOLK
-http://us.live.skyfolk.mk/live.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LOGO_LAS_ESTRELLAS_2017.svg/revision/latest/scale-to-width-down/200?cb=20170108213622",Canal de las Estrellas HD 
-http://23.237.36.170:8000/v4s4v4l3rv3rg4/p3rr0z4p1nputomeculieatuvieja/189
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP Los Mochis
-https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvmexiquense.png?fit=500%2C300.png",MEXIQUENSES TV 34
-http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://is1.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/175x175bb.jpg", 15TV Sabinas
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
-http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
- 
-
-
-
-
-
-
-
  
 #EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png",GH TELEVISION CANAL 10
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
