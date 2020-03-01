@@ -51,6 +51,9 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Entretenimiento", ORBIT TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
 
 
 
@@ -96,6 +99,8 @@ http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2015.gif" group-title="Peliculas y Series", MOVIEE 4U HD
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png" group-title="Peliculas y Series", GH Television 10
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA tv
@@ -220,6 +225,8 @@ http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg" group-title="Venezuela", PROMAR TV                                                                                  
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/CTC-Cusco-Logo-300x300.jpg" group-title="Peru", CTC Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist_w2054490375.m3u8
 
 
 
@@ -288,66 +295,20 @@ http://149.56.98.124:9090/hls/telesol.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kKjIqVO-xYA/WothyRlJwgI/AAAAAAAAAZA/CpWb_MXEvskeqraylR25SAO5b9Tndx-WACLcBGAs/s1600/atv.png",ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/programacion/08sky-logo-GalaTvHD.jpg",GALAVISION HD 
-http://144.217.69.93:25461/live/Maelo777/magie777/59763.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1009169389541908481/7bmBQLWS_400x400.jpg",CIUDAD MAGAZINE
 https://prepublish.f.qaotic.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
 
- 
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",TELECINCO CANAL 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-VXDoeMHwMLw/WBpNaCXApNI/AAAAAAAAExI/bzBQm20dob02pUcB-wstiNKLNVjdrJ1iwCK4B/s1600/megatv.jpgMega",TV Araquipa HD
-http://media1.cdnlayer.biz:1935/8016/8016/chunklist_w1301981595.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Gulli_logo_2017.png",GULLI HD
-
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YXBwaW52ZW50b3IuYWlfZGpfb3NjNHIucXVpbGxhdHZfaWNvbl8xNTIzMDQ3MzA1XzA3Ng/icon.png?w=170&fakeurl=1&type=.png",Quilla TV
-http://stream.shockmedia.com.ar:1935/quillatv/quillatv/chunklist_w1419305422.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRuZJpRHO86aAf-umPjncaNOfzFS3xjOSqUJfRJjRID1A4wvCk",VITATO TV HD
-http://162.255.86.122:25461/live/DAZPLAYER-IPTV-WEB/VER-TV-CON-DAZPLAYER-APP/610.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tdn.do/ciber.jpg",,CIBERVISION CANAL 3 HD
-http://108.175.14.125:1935/tdn/tdn/chunklist_w1416269518.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Cgtn_cn_espanol.png/revision/latest?cb=20170127161944",CGTN ESPAÑOL HD
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/CTC-Cusco-Logo-300x300.jpg", CTC Cusco
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist_w2054490375.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQch2ug_NnEX1Se4BLCw44hThYkBPpoXRNu1S36LT55ht2Ucb05",CANAL 45 HD CORDILLERA TV PUENTE ALTO 
-http://stmv6.srvstm.com/tvcordillera/tvcordillera/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png",ORBIT TV
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",MICROVISION  CANAL 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png",GH TELEVISION CANAL 10
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 REPUBLICA DOMINICANA 
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w810346608.m3u8
