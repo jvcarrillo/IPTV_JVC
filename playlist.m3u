@@ -42,7 +42,8 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="Entretenimiento", TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://sugarfactory.com/wp-content/uploads/2017/01/Telemundo-51-Miami-Logo.jpg" group-title="Entretenimiento", TELEMUNDO (Miami)
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
 
 
 #EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/3098.gif" group-title="Musica", PortalFoxMix
@@ -742,19 +743,13 @@ http://20823.live.streamtheworld.com/LA_MEGA_BOG_SC
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1089974857096462338/VHo_uJIY.jpg", Radio Tiempo Medellin 
 http://i50.letio.com/9100.aac
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mujJ9DRlSaio6Bw_seFEH0FkjuRp7i1zuQ9T5IZYG8om2PrlZS6Jo4jSYEaBsxJ0MQ=s180",LA FM 92.9 COLOMBIA
-http://live3.rcnmundo.com/lafm.mp3
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/cGKvLA6ejGgfQXtLLfg6Amf_jIPy4KOB5NleC4Fc7LgrMZFB6kVBZN6XTPU19aMTFbI=s180",RMS ONLINE
-http://78.47.96.202:8111/live
+
+
+
 
 #EXTINF:-1 tvg-logo="http://floradio.co.uk/wp-content/uploads/2017/09/floradio-feeltheflo.jpg",FLOW RADIO.FM
 http://radiohd.streaminghd.co:7014/live
-
-#EXTINF:-1 tvg-logo="https://scontent-sea1-1.cdninstagram.com/vp/49258ab05590ace934b962527e1c70df/5BE2EF0E/t51.2885-15/e35/s480x480/31338773_1635676333152784_1389719793417846784_n.jpg",ON El Zol 106.7 (WXDJ-FM)
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-_HQi7LIvJwc/UkVnyFYDCcI/AAAAAAAAAmM/KNcYIA1_GGw/s1600/LogoCOKE+FM.jpg",RADIO COCACOLA CR
-https://ic.imusicaradios.com.br/colombia.stream.http?url=www_-_coca-cola_-_com_-_co&last_con=0&user_os=Windows&user_browser=Chrome&ip=190_-_98_-_187_-_2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVHDONlFthqkWKL_cPgquKCM8S39Ya3gTdDFfLIC7VPKbulUAN",XTREMO RADIO CR
 http://166.88.21.98:9948/;
@@ -768,40 +763,9 @@ https://14073.live.streamtheworld.com/QTEJA_CR_SC
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/radio-94-7-fm.png",Radio 94.7 FM
 http://19373.live.streamtheworld.com/FM947_SC?ua=RadioTime&t
 
-#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/08/Alfa-91.3.jpg",Alfa 91.3
-http:1//18493.live.streamtheworld.com/XHFAJ_FM_SC
-
-#EXTINF:-1 tvg-logo="https://media.domiplay.com/covers/radio-juvenil-28.gif",Juvenil Radio 
-http://192.227.107.159:5219/stream
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfEQlm56ykt8ZwRFmLIWpBtbz6pXOOBAbuVNuQ=s900-mo-c-c0xffffffff-rj-k-no",TN 23
-http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
-
-#EXTINF:-1RT
-https://secure-streams.akamaized.net/rt-esp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://sugarfactory.com/wp-content/uploads/2017/01/Telemundo-51-Miami-Logo.jpg",TELEMUNDO 51 
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
-
-
-#EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png" group-title="Entretenimiento", Telemundo Internacional HD
-https://api.locastnet.org/api/watch/stream/188/41/-74/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y6to82dLyxU/XB8E0CfQV7I/AAAAAAAABq8/JPD_jCI5NLwDJzad1ArlK-FZAVDKeAVgACLcBGAs/w1200-h630-p-k-no-nu/TELEMAR-campeche.jpg",TELEMAR
-http://wms.tecnoxia.com/8006/8006/chunklist_w422342003.m3u8
- 
-#EXTINF:-1BBC World
-http://tecnotv.xyz/mediaplay/bb
- 
 #EXTINF:-1Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
   
  
-
-
