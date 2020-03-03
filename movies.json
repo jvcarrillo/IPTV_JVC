@@ -1,5 +1,29 @@
 [
  {
+        "title": "The Sinister Surrogate",
+        "genere": "Suspenso",
+        "image":  "https://m.media-amazon.com/images/M/MV5BOTg5MzA2OWQtN2UwMS00NjM1LWFhMDEtZjE4NTllNzFiNGNhXkEyXkFqcGdeQXVyNzYxMjI1Mzg@._V1_.jpg",
+        "rating": "4.8",
+        "releaseYear": 2018,
+        "clasificacion": "TV-14",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21AC1BcO5FkqquPzU&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218438&parId=D5072BBB4F142590%212380&action=locate",
+        "description": "Cuando la asistente de una galería de arte conoce al heredero de una gran inmobiliaria, se encuentra con una obra desconocida e intenta conseguirla a cualquier precio. Sin embargo, en medio de la puja de esta obra de arte incalculable, empieza a dudar de su autenticidad.",
+        "trailer": "BzZvTW3oooI", 
+        "fondo": "https://imgur.com/hKOxK6F.png"
+ },
+ {
+        "title": "The Art of Murder",
+        "genere": "Suspenso",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMThiMzJhYjAtYzQyMC00ZGQ2LWFkYWUtZWNkMTFmZWE2ZGEzXkEyXkFqcGdeQXVyODY5MTYzNDA@._V1_.jpg",
+        "rating": "5",
+        "releaseYear": 2018,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21ADgOSFwN0TqrtCs&cid=D5072BBB4F142590&resid=D5072BBB4F142590%218436&parId=D5072BBB4F142590%212380&action=locate",
+        "description": "Cuando la asistente de una galería de arte conoce al heredero de una gran inmobiliaria, se encuentra con una obra desconocida e intenta conseguirla a cualquier precio. Sin embargo, en medio de la puja de esta obra de arte incalculable, empieza a dudar de su autenticidad.",
+        "trailer": "85errcxNJKI", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZTkwZTMyOGQtYWU2Yy00NDM5LTljYWItOWY0Yzg4MDc5MTRhXkEyXkFqcGdeQXVyODY5MTYzNDA@._V1_.jpg"
+ },
+ {
         "title": "Jumanji, Bienvenido a la Jungla",
         "genere": "Acción",
         "image":  "https://images.redbox.com/Images/EPC/boxartvertical/200276.jpg",
