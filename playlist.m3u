@@ -173,12 +173,13 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="Honduras",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
-
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="Honduras",Si TV
+http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Honduras" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Honduras",Canal 9
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180" group-title="Honduras", Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3
+
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/282-2821163_0-tvg-logo-https-el-garage-tv-hd.png" group-title="Argentina", Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
@@ -192,9 +193,13 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA.jpg" group-title="Argentina", Canal Provincia 
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://telesafor.com/wp-content/uploads/2016/08/telesafor_b.png" group-title="Argentina", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png" group-title="Argentina", TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Panama", Nex CANAL 21 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Panama" , Nex CANAL 21 HD 
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 
