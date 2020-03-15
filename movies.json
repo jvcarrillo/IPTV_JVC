@@ -1,5 +1,17 @@
 [
    {
+        "title": "Toys & Pets",
+        "genere": "Animación",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZDJhOWUzYWItNWMxOS00YTgwLWIwM2YtMzgxOTRhMTJjMzg5XkEyXkFqcGdeQXVyMjIzMjcxODU@._V1_SY1000_CR0,0,714,1000_AL_.jpg",
+        "rating": "5.6",
+        "releaseYear": 2017,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download.aspx?authkey=%21AEhTHF6rx0Fp0%2Do&cid=D5072BBB4F142590&resid=D5072BBB4F142590%219088&parId=D5072BBB4F142590%212381&o=OneUp",
+        "description": "Un grupo de figuritas de té con forma de mascotas, y que actúan como amuletos para los consumidores de esta bebida, se embarcan en una mágica aventura en busca de un artilugio legendario.",
+        "trailer": "sRSBw6PeQ7w", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BM2FkNjYyNjktM2RhMC00NTY5LWFkMWEtYjc2M2U4MmU3NWJmXkEyXkFqcGdeQXVyODQyNDU4OTk@._V1_.jpg"
+ },
+   {
         "title": "Mewtwo Strikes Back Evolution",
         "genere": "Animación",
         "image":  "https://www.gstatic.com/tv/thumb/v22vodart/17914079/p17914079_v_v8_ab.jpg",
