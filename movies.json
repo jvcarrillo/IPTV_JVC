@@ -1,5 +1,17 @@
-[
-      {
+[{
+        "title": "Apartamento",
+        "genere": "Horror",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZjA5MjkyZTYtMDE5OS00MGExLWJmNmEtNzAwODc4NWYwOWM2XkEyXkFqcGdeQXVyNjQxODIzNDA@._V1_.jpg",
+        "rating": "5.8",
+        "releaseYear": 2006,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%218578&authkey=ALTCpptUMosV0hc",
+        "description": "Se-jin es una mujer que vive sola y sin amigos, y que pasa la mayor parte de su tiempo trabajando para evitar cualquier sentimiento. Sin embargo, ha notado que algo extraño se oculta en el edificio de enfrente. Cada noche, alrededor de las 10, las luces comienzan a parpadear, y a la mañana siguiente alguien es encontrado muerto. Comienza a investigar la conexión entre los aparentes suicidios y las luces, pero lo que descubre va más allá de su imaginación.",
+        "trailer": "DCvxOPp0eVg", 
+        "fondo": "https://asianwiki.com/images/e/e8/Apt-0019.jpg"
+   },
+ 
+ {
         "title": "Feedback",
         "genere": "Horror",
         "image":  "https://m.media-amazon.com/images/M/MV5BYzgxOWRkMGEtMWI0My00M2JiLWI3NTgtNmEzZDI3MDUzMDFiXkEyXkFqcGdeQXVyMTM2ODk1OTQ@._V1_SY1000_CR0,0,699,1000_AL_.jpg",
