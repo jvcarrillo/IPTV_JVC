@@ -1,4 +1,17 @@
-[{
+[
+        {
+        "title": "The Last Thing He Wanted",
+        "genere": "Crimen",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMWI3ODZlNjgtNWM4OC00MDFhLTg2MmYtYjk3M2I0OWJmZmE2XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+        "rating": "4.3",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%218579&authkey=APk2t1NLhRcdJEY",
+        "description": "Elena McMahon (Anne Hathaway) es una periodista que ha estado cubriendo la campaña presidencial durante un periódico muy importante, pero que en un momento dado abandona para hacerle un último favor a su padre enfermo. Éste es traficante de armas para las fuerzas gubernamentales encubiertas y el último trato ha salido tan mal que ha provocado que Elena se encuentre en peligro, y en el punto de mira del espionaje político, en una isla en la que el turismo ha sido reemplazado por el tráfico de armas y el asesinato. ",
+        "trailer": "QwPKJi61SV4", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BY2UxNDc4ZTUtNDYwMy00NTM3LWFkNjctMDcyOGM4YjE0MTZlXkEyXkFqcGdeQXVyMjAwNjY1Njc@._V1_SX1777_CR0,0,1777,879_AL_.jpg"
+   },
+        {
         "title": "Apartamento",
         "genere": "Horror",
         "image":  "https://m.media-amazon.com/images/M/MV5BZjA5MjkyZTYtMDE5OS00MGExLWJmNmEtNzAwODc4NWYwOWM2XkEyXkFqcGdeQXVyNjQxODIzNDA@._V1_.jpg",
@@ -10,7 +23,6 @@
         "trailer": "DCvxOPp0eVg", 
         "fondo": "https://asianwiki.com/images/e/e8/Apt-0019.jpg"
    },
- 
  {
         "title": "Feedback",
         "genere": "Horror",
