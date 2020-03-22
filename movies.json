@@ -1,5 +1,17 @@
 [
-        {
+         {
+        "title": "Spenser Confidential",
+        "genere": "Acción",
+        "image":  "https://www.gstatic.com/tv/thumb/v22vodart/17965458/p17965458_v_v8_aa.jpg",
+        "rating": "6.2",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219345&authkey=ABzl3xIjOMnR6Wc",
+        "description": "El exagente de policía Spenser (Mark Wahlberg) regresa a los bajos fondos de Boston cuando destapa la conspiración causante de un asesinato muy mediático. A pesar de las constantes amenazas, Spenser decide tomarse la justicia por su mano para demostrar que nadie está por encima de la ley.",
+        "trailer": "hOfaKQ3INCU", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BOTEyZDQ5YzYtMGZhNS00MGUzLTg2NmItY2JmMzllNDgyM2QyXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_UX477_CR0,0,477,268_AL_.jpg"
+   },
+  {
         "title": "The Last Thing He Wanted",
         "genere": "Crimen",
         "image":  "https://m.media-amazon.com/images/M/MV5BMWI3ODZlNjgtNWM4OC00MDFhLTg2MmYtYjk3M2I0OWJmZmE2XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
