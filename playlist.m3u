@@ -330,4 +330,7 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1Bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
   
+  
+#EXTINF:-1  tvg-logo="" , Test sharepoint
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
  
