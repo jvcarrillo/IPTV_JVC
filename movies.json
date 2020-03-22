@@ -1,5 +1,17 @@
 [
-         {
+  {
+        "title": "Dark Water",
+        "genere": "Acción",
+        "image":  "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf9At6j67sGvCMVGzdYK_01c471yKys9X_ozi9t1GLZQvOAfLu",
+        "rating": "7.6",
+        "releaseYear": 2019,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%218580&authkey=AIpKWOJnxk43NsU",
+        "description": "Inspirada en una impactante historia real. Un tenaz abogado (Mark Ruffalo) descubre el oscuro secreto que conecta un número creciente de muertes y enfermedades con una de las corporaciones más grandes del mundo. En el proceso arriesga su futuro, su trabajo y hasta su propia familia para sacar a la luz la verdad.",
+        "trailer": "quZEHjkVjTA", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BODMwYzE2MzItM2I4YS00Mzk1LTgxNWYtNmU1ZTIwMDdlY2ViXkEyXkFqcGdeQXVyOTE1MTQ5MTU@._V1_.jpg"
+   },
+ {
         "title": "Spenser Confidential",
         "genere": "Acción",
         "image":  "https://www.gstatic.com/tv/thumb/v22vodart/17965458/p17965458_v_v8_aa.jpg",
