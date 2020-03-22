@@ -609,7 +609,7 @@
         "description": "Drácula se enamora de una mujer misteriosa durante un crucero en el que toda la familia de monstruos se ha embarcado para disfrutar de unas vacaciones. ¡Lo que no sabe es que es la descendiente de una saga de cazadores de vampiros!.",
         "trailer": "Ku52zNnft8k",
         "fondo": "https://m.media-amazon.com/images/M/MV5BMjEzNTI5Nzk3MV5BMl5BanBnXkFtZTgwNzQwMjA3NTM@._V1_SX1777_CR0,0,1777,960_AL_.jpg"
- } 
+ } ,
   {
         "title": "test",
         "genere": "sharepoit",
@@ -622,5 +622,4 @@
         "trailer": "Ku52zNnft8k",
         "fondo": "V1_SX1777_CR0,0,1777,960_AL_.jpg"
  } 
-
 ] 
