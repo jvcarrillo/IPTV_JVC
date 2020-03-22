@@ -575,6 +575,18 @@
         "fondo": "https://m.media-amazon.com/images/M/MV5BMWViZjE3YmEtYmU2Ny00NTdhLWFkZTMtM2Y0ZGYwOWZmMzBmXkEyXkFqcGdeQWpnYW1i._V1_CR0,1,1246,701_AL_UX477_CR0,0,477,268_AL_.jpg"
  },
   {
+        "title": "Terminator: Dark Fate",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+        "rating": "6.3",
+        "releaseYear": 2019,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%218342&authkey=AJBm0NauBAMEXXg",
+        "description": "Sarah Connor (Linda Hamilton) y Grace (Mackenzie Davis), una híbrido de cyborg y humano, deberán proteger a una joven del Rev-9, un nuevo Terminator que viene del futuro",
+        "trailer": "oxy8udgWRmo",
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZjZiYWQ2ZTAtNzNmMS00NTFhLTliNmItN2NjNTIzNzgxZmY3XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_.jpg"
+ },
+  {
         "title": "Star Wars El ascenso de Skywalker",
         "genere": "Calidad CAM",
         "image":  "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
