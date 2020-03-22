@@ -1,6 +1,30 @@
 [
+    {
+        "title": "Deadtectives",
+        "genere": "Comedia",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZmQ2NmZiYWYtYzBiYi00ODI5LTg3MjItZjU3ZDc3ZjI2YWYyXkEyXkFqcGdeQXVyMjIxMzg5NjE@._V1_SY1000_SX675_AL_.jpg",
+        "rating": "6.2",
+        "releaseYear": 2018,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219464&authkey=ACoLenY3oLFBPvk",
+        "description": "DeadTectives sigue a un equipo de desafortunados investigadores paranormales en una serie de televisión que se dirige en busca de la casa más embrujada de México. Sin embargo, cuando los verdaderos secretos oscuros de la mansión comienzan a revelarse, los desafortunados presentadores descubren rápidamente que esta casa no es un engaño.",
+        "trailer": "hGV7KXm3lgY", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BNWQxZGZjMjMtOTY3OC00ODU2LTk4N2ItZGYwNmE3MDY3YTE2XkEyXkFqcGdeQXVyMjM3NTY5NjY@._V1_.jpg"
+   },
+    {
+        "title": "Dos veces tu",
+        "genere": "Drama",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZmQ4MzQyM2EtOWIyMi00ZDY4LWJiYmEtOTFjMWQyM2YyNmE1XkEyXkFqcGdeQXVyMTUxMDA2MzY@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "6.4",
+        "releaseYear": 2018,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219462&authkey=ALjbxDkBmUDrY7M",
+        "description": "Tania y Daniela intercambian esposos durante una boda solo por diversión, pero un accidente fatal creará nuevas y extrañas relaciones.",
+        "trailer": "p9PuwZf5rwo", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMTVlZjhhZTctZTY1MC00NmM4LTk3NWItOGI4NGZiZjJiMjljXkEyXkFqcGdeQXVyMTUxMDA2MzY@._V1_SX1777_CR0,0,1777,740_AL_.jpg"
+   },
    {
-        "title": "Proyecto Ithaca",
+        "title": "Project Ithaca",
         "genere": "Acción",
         "image":  "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPG9aRun7ysW7-5FBA2zCn1d7h6_k0SFVK1tNuOLrSTY8wbibX",
         "rating": "3.9",
@@ -305,7 +329,7 @@
         "image":  "https://m.media-amazon.com/images/M/MV5BMTkzMjU3MjU4Nl5BMl5BanBnXkFtZTcwMDA2NTYzMQ@@._V1_.jpg",
         "rating": "5.4",
         "releaseYear": 2006,
-        "clasificacion": "TV-PG ",
+        "clasificacion": "TV-PG",
         "link": "https://onedrive.live.com/download.aspx?authkey=!AOYEUPiS9D9S3IE&cid=D5072BBB4F142590&resid=D5072BBB4F142590!4723&parId=D5072BBB4F142590!2380&o=OneUp",
         "description": "Wendy Wu es una adolescente que tiene una vida perfecta: Es bonita, popular, tiene un novio perfecto y es una de las dos candidatas para ser la Reina del Baile de Graduación. Pero después, toda su vida cambia cuando Shen, un monje de China, le cuenta que ella es la reencarnación de la guerrera Yin, y que su destino es luchar contra el malvado Yan Lo. Película también conocida con el nombre: \"Wendy Wu: La Chica Kung Fu\".",
         "trailer": "goWhy5TVFVU",
