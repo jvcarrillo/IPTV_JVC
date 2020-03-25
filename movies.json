@@ -1,4 +1,16 @@
 [ {
+        "title": "Bloodshot",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_SY1000_SX800_AL_.jpg",
+        "rating": "5.7",
+        "releaseYear": 2020,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219473&authkey=AF8v2pIMtRhdjHk",
+        "description": "Ray Garrison (Vin Diesel), también conocido como Bloodshot, es resucitado por la compañía Rising Spirit Technologies a través del uso de nanotecnología. Mientras lucha por recuperar la memoria, Ray trata de volver al ser el que era antes de sufrir el accidente que le dejó amnésico... Película basada en el cómic \"Valiant\".",
+        "trailer": "vOUVVDWdXbo", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMDk5MGFjMTAtN2E2OC00MDU1LWJlOGQtOGI1ZWFhMGYxMWI4XkEyXkFqcGdeQXVyODA2NTY2MQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+   },
+ {
         "title": "Snatchers",
         "genere": "Comedia",
         "image":  "https://m.media-amazon.com/images/M/MV5BMTYzOTgyYmItNjAwMS00MWRlLTlhMWItZGE2ZDllNGZlNjRkXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
