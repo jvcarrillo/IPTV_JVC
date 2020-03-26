@@ -1,4 +1,28 @@
 [ {
+        "title": "El Hoyo",
+        "genere": "Sci-Fi",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMzllNmRjYWItNjlhNS00MjcyLWIyODEtMTg0ZjBiNTNhNzQwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SY1000_CR0,0,699,1000_AL_.jpg",
+        "rating": "7.0",
+        "releaseYear": 2019,
+        "clasificacion": "TV-MA",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219472&authkey=AFkiS0BOuBSh1Eg",
+        "description": "El futuro, en una distopía. Dos personas por nivel. Un número desconocido de niveles. Una plataforma con comida para todos ellos. ¿Eres de los que piensan demasiado cuando están arriba? ¿O de los que no tienen agallas cuando están abajo? Si lo descubres demasiado tarde, no saldrás vivo del hoyo.",
+        "trailer": "Oyuomep8Ac4", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMjkzYTBmOWMtZGQ4YS00N2Y3LWJiMWMtMTA3MGZiNzg3MzA0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg"
+   },
+ {
+        "title": "Aves de Presa",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMTVmN2QwZDMtOTgwOS00ZmJhLTljODEtYWJmMGIzMGU4N2IyXkEyXkFqcGdeQXVyMjExMzI0OTg@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "6.3",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219474&authkey=ABfRvqYZ_A6-1Fk",
+        "description": "¿Alguna vez escuchaste sobre la policía, el pájaro cantor, el psicópata y la princesa de la mafia? Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn) es una historia retorcida contada por la misma Harley, ya que solo Harley puede contarla. Cuando el villano más nefastamente narcisista de Gotham, Roman Sionis, y su entusiasta mano derecha, Zsasz, apuntaron a una joven llamada Cass, la ciudad se volcó para buscarla. Los caminos de Harley, Huntress, Black Canary y Renee Montoya chocaron, y las cuatro improbables no tuvieron más remedio que unirse para derrotar a Roman",
+        "trailer": "Cvn-QxbXeXo", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BYzE1MTdkMGItYWVjMC00NGFlLTg4MzAtOGZiYjI4OTU0NTJmXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_.jpg"
+   },
+ {
         "title": "Bloodshot",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BYjA5YjA2YjUtMGRlNi00ZTU4LThhZmMtNDc0OTg4ZWExZjI3XkEyXkFqcGdeQXVyNjUyNjI3NzU@._V1_SY1000_SX800_AL_.jpg",
