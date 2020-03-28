@@ -1,4 +1,63 @@
-[ {
+[{
+        "title": "RocknRolla",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMTQ0NTk5Mzk2OV5BMl5BanBnXkFtZTcwMDE3NTE4MQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "7.3",
+        "releaseYear": 2008,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219468&authkey=ABMI_ey_T5pa0lY",
+        "description": "La noticia de que Uri Omovich (Karel Roden), un rico mafioso ruso, está montando un negocio multimillonario de compraventa ilegal de terrenos en Londres, hará que todos los delincuentes de la ciudad quieran participar en la operación. Uri le pide a Lenny Cole (Tom Wilkinson), un pez gordo de la mafia londinense, que se ocupe de todos los trámites burocráticos y compré a un concejal (Jimi Mistry). Lenny confía la operación a su lugarteniente Archy (Mark Strong). Por su parte, la contable de Uri, Stella (Thandie Newton), decide llevarse parte del botín; para ello, contrata a dos mafiosos, que tienen cuentas pendientes con Lenny.",
+        "trailer": "VVwqTv1nMTA", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMTM2ODIyODMwOF5BMl5BanBnXkFtZTcwODczNTUyNw@@._V1_SY1000_CR0,0,1506,1000_AL_.jpg"
+   },
+ {
+        "title": "Go Karts (Go!)",
+        "genere": "Familiar",
+        "image":  "https://pics.filmaffinity.com/go_karts_go-988709911-large.jpg",
+        "rating": "5.8",
+        "releaseYear": 2020,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219592&authkey=AMrVDBrGW3LqUHQ",
+        "description": "Cuando Jack (William Lodder) y su madre (Frances O'Connor) se mudan a un pueblo del oeste de Australia, el joven pronto se ve involucrado en el mundo del karting competitivo. Aunque Jack tiene un talento natural para la conducción, requiere de alguien que sea capaz de domar su impulsivo carácter. Para lograrlo necesitará la ayuda de un aspirante a mecánico, Mandy (Anastasia Bampos), de su mejor amigo Colin (Darius Amarfio-Jefferson) y de su misterioso nuevo mentor, Patrick (Richard Roxburgh). Juntos tratarán de superar todos los obstáculos que se interponen entre su camino y el Campeonato Nacional de Go-Karts.",
+        "trailer": "ZsTqJZDf7V0", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BNmRlZmM2MTYtNzAxNS00ZDg1LTgwNWItMjA2ZWEzOTQ1ZTFjXkEyXkFqcGdeQXVyOTc5MTkzMzE@._V1_SX1777_CR0,0,1777,735_AL_.jpg"
+   },{
+        "title": "Guilty",
+        "genere": "Drama",
+        "image":  "https://m.media-amazon.com/images/M/MV5BYWYxMjBlZjEtY2ZkYS00OWE1LWEzNTAtNDlkZWE5NzI1NDE1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_SY1000_CR0,0,692,1000_AL_.jpg",
+        "rating": "5.6",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219593&authkey=AAw9xUoYXW8OwVc",
+        "description": "Nanki, una joven de una pequeña población, acusa a su amor del instituto de haberla violado. Una noche que cambió las vidas de todos. Pero, ¿Qué fue verdad y qué no lo fue?",
+        "trailer": "6sQ85MrpOPI", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMjZjY2QzNjktNGZkZi00MTI0LTkxZDgtM2M2NjkwYTcyOWU3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
+   },
+ {
+        "title": "La última profecía",
+        "genere": "Acción",
+        "image":  "https://pics.filmaffinity.com/left_behind-390787424-large.jpg",
+        "rating": "3.1",
+        "releaseYear": 2014,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219590&authkey=ADhMKqwNxwGyToM",
+        "description": "En un abrir y cerrar de ojos, un rapto bíblico azota el mundo. Millones de personas desaparecen sin dejar rastro. Todo lo que queda es su ropa y sus pertenencias, y en un instante, el terror y el caos invade a la humanidad",
+        "trailer": "cNaCOOuPN2s", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZDAyNTAxNGEtMzYwYi00M2QxLWIwOTYtM2ViMGRjZjVjNjNmXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_.jpg"
+   },
+ {
+        "title": "El hombre Invisible",
+        "genere": "R",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMDEyZmEyM2UtMWFkMi00NTI0LTlmZDQtMGUzNGIyNWM0MWFmXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg",
+        "rating": "7.3",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219591&authkey=AG_RPFZ4U70rnlw",
+        "description": "Cecilia (Elisabeth Moss) rehace su vida tras recibir la noticia de que su exnovio, un maltratador empedernido, ha fallecido. Sin embargo, su cordura comienza a tambalearse cuando empieza tener la certeza de que en realidad sigue vivo.",
+        "trailer": "9-5lG4mNVWU", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMzA3MmQ2ZDctMGU4Ni00N2YzLWFiNjgtMTliMTJmYTgwNzhhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX1777_CR0,0,1777,745_AL_.jpg"
+   },
+ {
         "title": "El Hoyo",
         "genere": "Sci-Fi",
         "image":  "https://m.media-amazon.com/images/M/MV5BMzllNmRjYWItNjlhNS00MjcyLWIyODEtMTg0ZjBiNTNhNzQwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SY1000_CR0,0,699,1000_AL_.jpg",
