@@ -1,4 +1,72 @@
 [{
+        "title": "Anastasia Once Upon a Time",
+        "genere": "Aventura",
+        "image":  "https://m.media-amazon.com/images/M/MV5BODI1YjAwOGYtYzY1MS00ZmJkLTk4NzYtODQzMTJiMzA2MTVmXkEyXkFqcGdeQXVyMTM5NzM0Njc@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "4.4",
+        "releaseYear": 2019,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219594&authkey=AFXDLb2epNy611s",
+        "description": "Anastasia escapa a través de un portal temporal cuando su familia se ve amenazada por Vladimir Lenin. En cuestión de segundos viaja del año 1917 a 1988, donde encuentra a una fascinante joven con la que rápidamente entabla una peculiar relación de amistad. El director Blake Harris ofrece una nueva visión de la clásica historia de Anastasia Romanov.",
+        "trailer": "ok0y4YgVYWY", 
+        "fondo": "https://image.tmdb.org/t/p/w1280/nBfoWg2MxYeShwCnfmjTRk7djqg.jpg"
+   },{
+        "title": "The Room",
+        "genere": "Drama",
+        "image":  "https://m.media-amazon.com/images/M/MV5BNTExNTU3ZTMtMmMxNi00MjkyLTg1MWUtOGNmZGM2ZmU0YWFlXkEyXkFqcGdeQXVyMzA4MDA0Mjc@._V1_.jpg",
+        "rating": "6.0",
+        "releaseYear": 2019,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219598&authkey=AJ4kU7Al2DQhW48",
+        "description": "Matt y Kate compran una casa aislada. A medida que se mudan, descubren una habitación extraña que les da un número ilimitado de deseos materiales. Pero, como Kate ha tenido dos abortos involuntarios, lo que más extrañan es un niño.",
+        "trailer": "uOn2-ZxiJgI", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BODVjMTUyODYtYWE4NS00YTQ1LWI5MzAtNWNiMWM3MGM4ZGJiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg"
+   },{
+        "title": "JEXI",
+        "genere": "Comedia",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMjU2MmE2ZDAtMmM1YS00ODYyLWEwODAtZWMzYzAxNjA2YWU5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY1000_CR0,0,700,1000_AL_.jpg",
+        "rating": "6.1",
+        "releaseYear": 2019,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219597&authkey=AGrgm404i2gf8C8",
+        "description": "Phil (Adam DeVine) es un adicto a su teléfono móvil sin amigos ni vida amorosa. Tras comprar un nuevo móvil, descubre a Jexi (Rose Byrne), una interfaz artificial que hace las veces de asistente virtual. Con su ayuda, Phil comienza a vivir por primera vez. A medida que se vuelve menos dependiente de su móvil, Jexi empieza a desarrollar una actitud un tanto extraña con la que pretende acaparar por completo a Phil, incluso pese a que ello implique perjudicar sus opciones de tener éxito en la vida.",
+        "trailer": "Q1J6Nz2LC64", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BYjIwMDVlNTktYjFmNS00YWZlLWE0MjQtNzA5Mjk3ZjA0M2FlXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_.jpg"
+   },{
+        "title": "El Remanente",
+        "genere": "Horror",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMTc4Mzk1NDA3MF5BMl5BanBnXkFtZTgwNTk1MjU0MjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "4.3",
+        "releaseYear": 2014,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219596&authkey=AFNTSuF07kcUy8k",
+        "description": "Un grupo de amigos se reúne para una boda, pero el evento pasa a un segundo plano cuando tienen que enfrentarse a una serie de eventos catastrófistas y profecías bíblicas sobre el fin del mundo. Los jóvenes tendrán que luchar por sobrevivir mientras el caos y el terror se cierne sobre ellos.",
+        "trailer": "kH4psvndN7A", 
+        "fondo": "https://image.tmdb.org/t/p/w500_and_h282_face/j1wEyEwVc6GwnylWGjn4cSkEQue.jpg"
+   },{
+        "title": "The Grudge",
+        "genere": "Terror",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMjY3NWZmOTktMmVhZi00M2Q1LTg2MmQtOGE2NmE3MWNlZjY3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "4.2",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219595&authkey=AHyqLFRZG0MAM2Y",
+        "description": "Una casa encantada por un espíritu vengativo maldice a todos aquellos que entran en el lugar, llevándolos a tener una muerte violenta.",
+        "trailer": "O2NKzO-fxwQ", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BNDNhMmJmZTctNDk0Zi00NTQwLWFjMzgtMWYzM2FjZmM3Yzc1XkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_SX1777_CR0,0,1777,740_AL_.jpg"
+   },
+ {
+        "title": "Guilty",
+        "genere": "Drama",
+        "image":  "https://m.media-amazon.com/images/M/MV5BYWU2ZWZhNGQtMjFiNS00MTQzLTk3M2MtMjI1ZWIzMGQzZWI2XkEyXkFqcGdeQXVyMTAyNjU3NDM5._V1_SY1000_CR0,0,692,1000_AL_.jpg",
+        "rating": "5.6",
+        "releaseYear": 2020,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219593&authkey=AAw9xUoYXW8OwVc",
+        "description": "Nanki, una joven de una pequeña población, acusa a su amor del instituto de haberla violado. Una noche que cambió las vidas de todos. Pero, ¿Qué fue verdad y qué no lo fue?",
+        "trailer": "6sQ85MrpOPI", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMjZjY2QzNjktNGZkZi00MTI0LTkxZDgtM2M2NjkwYTcyOWU3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
+   },
+ {
         "title": "RocknRolla",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BMTQ0NTk5Mzk2OV5BMl5BanBnXkFtZTcwMDE3NTE4MQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
