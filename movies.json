@@ -1,4 +1,27 @@
-[
+[ {
+        "title": "Unidos",
+        "genere": "Animación",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "7.5",
+        "releaseYear": 2020,
+        "clasificacion": "PG",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219679&authkey=ACANCb1hX8MariA",
+        "description": "Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.",
+        "trailer": "jk26pDvHtNw", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BNzBjZjVlMmUtZDhkYS00NzQ2LTgxMDMtZGExYzlhNjgxYTZiXkEyXkFqcGdeQXVyMjI3ODIwMzE@._V1_.jpg"
+ },
+ {
+        "title": "Respira Transgenesis",
+        "genere": "Thriller",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZDE4Y2FiMDAtNWNmNi00OTA0LWE0MmMtNzAwODU4OWJmMzMzXkEyXkFqcGdeQXVyMDU4NjI0MA@@._V1_.jpg",
+        "rating": "5.9",
+        "releaseYear": 2019,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219599&authkey=AJO05jyzTwox9hA",
+        "description": "Leonardo consigue trabajo como piloto fumigador en las plantaciones de soja, por lo que se muda al campo junto a su familia. Cuando comience a trabajar, descubrirá un oscuro secreto en el pueblo, que pondrá a él y a sus seres queridos en peligro.",
+        "trailer": "51xpnG8fh8M", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZjA5MzczNTctYjI0Ni00NTYyLTkwNDEtMmQzNzcwYTY2ODE0XkEyXkFqcGdeQXVyNTI3OTY4OQ@@._V1_SX1777_CR0,0,1777,876_AL_.jpg"
+ },
  {
         "title": "The Driver",
         "genere": "Acción",
