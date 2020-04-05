@@ -1,4 +1,16 @@
 [{
+        "title": "La sabiduría",
+        "genere": " Thriller",
+        "image":  "https://m.media-amazon.com/images/M/MV5BYzFhM2IyMjctODBhNC00MmFhLWJlMzktYjFlYThkZGM2MTNhXkEyXkFqcGdeQXVyMjA3NzIxMzE@._V1_SY1000_CR0,0,699,1000_AL_.jpg",
+        "rating": "3.8",
+        "releaseYear": 2019,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219794&authkey=ANqIrcMYcZDQkno",
+        "description": "Después de una fiesta de música electrónica tres mujeres, Mara, Tini y Luz, deciden pasar un fin de semana en una vieja estancia en medio del campo. Pero lo que parece una estadía feliz se transforma en una oscura pesadilla cuando participan de una ritual nocturno con los indios y los peones. Así comienza un viaje a la dimensión inabarcable de la llanura pampeana, un retroceso en el tiempo al momento que la estancia fue construida, cuando la mujer era despreciada y los indios perseguidos. Tres mujeres solas, aunque empoderadas y armadas, peleando por sus vidas en el campo sangriento, enfrentando la violencia más primitiva de nuestra historia.",
+        "trailer": "tkzpCmnegPA", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BY2Q4MDA4MjAtYzllMi00OWZlLThmN2QtZjE0NmI4ZWE2MDczXkEyXkFqcGdeQXVyMzA2MjkzMjU@._V1_.jpg"
+ },
+ {
         "title": "Altitud",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BYjRlOWZmOWItN2ZlMi00MWMyLWI5ODUtOTc5YWNjNzViYTNlXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
