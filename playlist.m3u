@@ -8,8 +8,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="Infantiles",TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Infantiles", VTV
-http://tvpremiumhd.club/lista-gratuita/210004/on/live.php?id=cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="24/7", Factoria de Ficcion
@@ -105,16 +103,6 @@ https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Peliculas y Series", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO (W)" tvg-logo="https://i.imgur.com/BbdKuX9.jpg" group-title="Peliculas y Series",HBO HD
-http://84.17.40.8:25461/live/Diana2019!/mSkr6QahZm/1041.m3u8?token=GkMOV0pdG18SVlBZBVZWVwJQDAcBUlBUVlFWUwNQWgICBARUDgBdAFIXGUNHFxRXAllmXVYVDgdUBFdJExAQBBM+D1IbDxtRBAUNVwVBShAXXVRREA0EGkZADwETX0FSUVZUFBUXXB1EUEcPVQ85VgZCUFdXFQ5YEVwKSRMKDT4FBAtXV1EbXxIFF00WChVCQQ5XQV5bGBQGWRIXUBEGQ1tDVAcNBxtJElZaFFoXFEtBDhtnZBUYFAFIEgBfFgoOD0NcFFQGTF0SGRcIRzwUVxBAS1FTWlFERgpEVRNJQQwAGTlVVltXAFNBXA5aEEQIQQcbGBBaW1gNRAkXbhUKBUNbRA8KAwlHTQ==
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/w4kGRNL.png" group-title="Peliculas y Series",HBO PLUS HD
-http://195.181.162.166:25461/live/Diana2019!/mSkr6QahZm/1912.m3u8?token=GkMOV0pdG18SDAFXBlMHBlBVDwFXAwwGAQNQAwlVBVMHBAQEDQVfAAEXGUNHFxRXAllmXVYVDgddAVRJExAQBBM+D1IbDxtRBAUNVwVBShAXXVRREA0EGkZADwETX0FQU1NSDhsZGwBIQVATWgIKbQdRT11RUhYMCkUKCR1HDA8+BQNbWFtdRwoXBUMYQQ9BExYDWkdbWBpGUg8RQwQXBENbRAQLDAlHHBdWDkENEkAaFgMWYWEWGkZVHhFUCxAIDg9EDBtYChAIFxlDXRA5QAZHTUZXVllTFhJcRwFHT0MMAB5pWlpXC1VWQQhbDRUQWRYKFh4VWVkKWRIKQzoTCAVDXBQIBg9UEkg=
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png" group-title="Peliculas y Series",AMC HD
-http://195.181.162.166:25461/live/Diana2019!/mSkr6QahZm/1437.m3u8?token=GkMOV0pdG18SV1BYAVtWU1sEAVZQDgUGAFRWBgFTV1UAAgADCgQNXAQXGUNHFxRXAllmXVYVDgdQA1FJExAQBBM+D1IbDxtRBAUNVwVBShAXXVRREA0EGkZADwETX0FTWVdeBxsZGwBIQVATWgIKbQdRT11RUhYMCkUKCR1HDA8+BQNbWFtdRwoXBUMYQQ9BExYDWkdbWBpGUg8RQwQXBENbRAMJAQ9HHBdWDkENEkAaFgMWYWEWGkZVHhFUCxAIDg9EDBtYChAIFxlDXRA5QAZHTUZXVllTFhJcRwFHT0MMAB5pWlpXC1VWQQhbDRUQWRYKFh4VWVkKWRIKQzoTCAVDXBQLBg9QBhdI
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://puu.sh/reQmr/5de8d7417e.png" group-title="Peliculas y Series",CINECANAL HD
-http://84.17.40.39:25461/live/Diana2019!/mSkr6QahZm/1927.m3u8?token=GkMOV0pdG18SVldXBlBQCwcMCQ1QAQ0DVwVXAQEGAlIFWVEOCldbUAUXGUNHFxRXAllmXVYVDgddAlFJExAQBBM+D1IbDxtRBAUNVwVBShAXXVRREA0EGkZADwETX0FQVFNVBRsZGwBIQVATWgIKbQdRT11RUhYMCkUKCR1HDA8+BQNbWFtdRwoXBUMYQQ9BExYDWkdbWBpGUg8RQwQXBENbRAcPDQpHHBdWDkENEkAaFgMWYWEWGkZVHhFUCxAIDg9EDBtYChAIFxlDXRA5QAZHTUZXVllTFhJcRwFHT0MMAB5pWlpXC1VWQQhbDRUQWRYKFh4VWVkKWRIKQzoTCAVDXBQLDQxTAhdI
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME HD" tvg-logo="https://i.imgur.com/EO0x9Vv.jpg" group-title="Peliculas y Series",MAX PRIME HD
-http://84.17.40.7:25461/live/Diana2019!/mSkr6QahZm/1482.m3u8?token=GkMOV0pdG18SUAxQVVdeB1RWAVYGUVIBUARXAAcHV1kDUlcGWlRcUFQXGUNHFxRXAllmXVYVDgdQCFRJExAQBBM+D1IbDxtRBAUNVwVBShAXXVRREA0EGkZADwETX0FQWVhXAxsZGwBIQVATWgIKbQdRT11RUhYMCkUKCR1HDA8+BQNbWFtdRwoXBUMYQQ9BExYDWkdbWBpGUg8RQwQXBENbRAcBAAhHHBdWDkENEkAaFgMWYWEWGkZVHhFUCxAIDg9EDBtYChAIFxlDXRA5QAZHTUZXVllTFhJcRwFHT0MMAB5pWlpXC1VWQQhbDRUQWRYKFh4VWVkKWRIKQzoTCAVDXBQIAwFQARdI
 
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Cultura",NASA tv
