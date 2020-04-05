@@ -1,4 +1,16 @@
-[ {
+[{
+        "title": "The Kitchen",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZGEwMWJlNzMtMjQ4YS00YjI4LTkwZTYtMGFiZTY5YmE2ZTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "rating": "5.4",
+        "releaseYear": 2019,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219792&authkey=ABFnvAo9Nn-0RAA",
+        "description": "Años 70. Las esposas de un grupo de mafiosos de Nueva York continúan con los negocios de sus maridos después de que estos sean encarcelados.",
+        "trailer": "EC0nI774MMQ", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZDE0NTBhYTgtM2JjMy00ZmU2LWEwMTgtMzA3OGRkMWRlOTg4XkEyXkFqcGdeQXVyODk1MzE0Mzk@._V1_SY1000_SX1500_AL_.jpg"
+ },
+ {
         "title": "Unidos",
         "genere": "Animación",
         "image":  "https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
