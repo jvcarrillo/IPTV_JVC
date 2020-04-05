@@ -8,6 +8,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="Infantiles",TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Infantiles", VTV
+http://tvpremiumhd.club/lista-gratuita/210004/on/live.php?id=cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="24/7", Factoria de Ficcion
