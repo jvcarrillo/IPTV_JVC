@@ -1,15 +1,4 @@
-[ {
-        "title": "El Rey Burro",
-        "genere": "Animada",
-        "image":  "https://m.media-amazon.com/images/M/MV5BN2I4NTc2YzItNTExMy00NDAzLWFlZGYtNmM4MjVjMzM2YWZjXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg",
-        "rating": "6.6",
-        "releaseYear": 2018,
-        "clasificacion": "PG",
-        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219916&authkey=AJgSC6zZrnOh9cU",
-        "description": "Las urnas llegan a la jungla. El Rey León, el monarca de la jungla, ha decidido retirarse y para acabar con la sucesión de padres a hijos ha convocado elecciones. Su consejera Miss Fina se encargará de todos los preparativos, pero también de amañar los votos. Como resultado, Mangu, un feliz y humilde burro lavandero, termina siendo el futuro rey. Sin embargo, las intenciones de Miss Fina esconden un malévolo plan. Ocupar el trono y que Mangu siga todas sus órdenes. El alegre burro deberá demostrar que está preparado para ser el próximo rey de la jungla mucho antes de sentarse en el trono",
-        "trailer": "KnABxfvYKWI", 
-        "fondo": "https://m.media-amazon.com/images/M/MV5BYWY2NDUxZGQtMGU3OS00NzgyLTliODUtMWMyZmZiMWViOThkXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg"
- },
+[ 
  {
         "title": "Power Rangers",
         "genere": "Acción",
@@ -927,18 +916,6 @@
         "description": "Sarah Connor (Linda Hamilton) y Grace (Mackenzie Davis), una híbrido de cyborg y humano, deberán proteger a una joven del Rev-9, un nuevo Terminator que viene del futuro",
         "trailer": "oxy8udgWRmo",
         "fondo": "https://m.media-amazon.com/images/M/MV5BZjZiYWQ2ZTAtNzNmMS00NTFhLTliNmItN2NjNTIzNzgxZmY3XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_.jpg"
- },
-  {
-        "title": "Spirit Riding Free: Spirit of Christmas",
-        "genere": "Animación",
-        "image":  "https://m.media-amazon.com/images/M/MV5BM2E4YjQ1N2YtODRmOS00YTUwLWJjNDYtYWI2YjE4MDMxZTIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "rating": "5.9",
-        "releaseYear": 2019,
-        "clasificacion": "PG",
-        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%217918&authkey=AE6cfWJsdMGh3s4",
-        "description": "Cuando una roca y una gran tormenta de nieve se interponen en su camino, Fortu y sus amigas deben encontrar la forma de llegar a casa a tiempo para celebrar la Navidad.",
-        "trailer": "VQQ1iyf9DVc", 
-        "fondo": "https://images-na.ssl-images-amazon.com/images/I/71Ezqb99jsL._SL1500_.jpg"
  },
  {
         "title": "Hotel Transylvania 3",
