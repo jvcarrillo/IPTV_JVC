@@ -216,14 +216,9 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 group-title="Costa Rica",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 group-title="Costa Rica",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="Costa Rica",Guapiles TV
 http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
-#EXTINF:-1 group-title="Costa Rica",Multimedios CR
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Costa Rica",Telered
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="SudAmerica", BHTV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
