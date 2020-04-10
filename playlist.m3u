@@ -123,8 +123,6 @@ https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 group-title="Religión",Catolica TV
-http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
@@ -231,6 +229,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 http://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
 #EXTINF:-1 tvg-logo="http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg" group-title="Religion", Enlace Juvenil
 http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
+#EXTINF:-1 group-title="Religión",Catolica TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg" group-title="Venezuela", PROMAR TV                                                                                  
