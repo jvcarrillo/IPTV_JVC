@@ -1,4 +1,28 @@
 [  {
+        "title": "The Boy",
+        "genere": "Horror",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg",
+        "rating": "6.0",
+        "releaseYear": 2016,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219950&authkey=ADQUROjEEmw47WM",
+        "description": "Greta (Lauren Cohan) es una joven americana que acepta trabajar como niñera en Inglaterra huyendo de su pasado. Para su sorpresa, el niño al que tiene que cuidar es un muñeco a tamaño real. Además, en el cumplimiento de su trabajo tiene que seguir unas reglas muy estrictas. Cuando se queda sola, Greta desobedece las normas, lo que desencadena una serie de eventos perturbadores que la llevan a convencerse de que el muñeco podría estar vivo.",
+        "trailer": "juYvhcgleRI", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BNTlmNjA3YjItNjE3My00ZDc3LWE1NTUtNzU3ZDIxN2FkODAyXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_SX1777_CR0,0,1777,740_AL_.jpg"
+ },
+ {
+        "title": "The Boy 2",
+        "genere": "Horror",
+        "image":  "https://m.media-amazon.com/images/M/MV5BY2JjZDAxNjEtNjBhNS00YWZjLTg5ZTctZjFiZTM4NjMwZmM0XkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "4.5",
+        "releaseYear": 2020,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%219950&authkey=ADQUROjEEmw47WM",
+        "description": "Una joven familia se muda a una mansión sin ser conscientes de la aterradora historia que ha marcado su historial durante décadas. Allí, el miembro más joven de la familia hace un nuevo amigo: un muñeco con forma humana al que llama 'Brahms'.",
+        "trailer": "A6caADGf8mw", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMGExZDgwMmEtMmIzOS00Mjc1LWIyN2MtOWM3ODJiMzI1ZTY0XkEyXkFqcGdeQXVyNTY0NzUxNA@@._V1_SY1000_CR0,0,1499,1000_AL_.jpg"
+ },
+ {
         "title": "Socias en Guerra",
         "genere": "Comedia",
         "image":  "https://m.media-amazon.com/images/M/MV5BNjAyZDRjMjQtODE3MC00ODI2LTgxODktZThjYTgzZDE5NTc4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
