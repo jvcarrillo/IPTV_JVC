@@ -1,4 +1,16 @@
-[  {
+[ {
+        "title": "The Quarry",
+        "genere": "Crimen",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMGE4OTM3Y2YtMjkxOS00YmVkLTk2NGEtZjhlZmQ1M2Q3MjhhXkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_SY1000_CR0,0,712,1000_AL_.jpg",
+        "rating": "5.1",
+        "releaseYear": 2020,
+        "clasificacion": "R",
+        "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2110268&authkey=AONMEYCOryNBLM8",
+        "description": "Un misterioso nuevo sacerdote se muda a la iglesia de un desolado pueblo de Texas. Pese a las sospechas de los aldeanos, su congregación crece en muy poco tiempo. Pero, ¿por cuánto tiempo podrá esconder sus secretos, y quién podrá perdonarle cuando la verdad salga a la luz? Basada en la aclamada novela de Damon Galgut.",
+        "trailer": "bsYQBbuQzFc", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BN2IxOTMzOTctYzk2Zi00MmFmLWFlOGYtMDk2OTZhYTczMjY2XkEyXkFqcGdeQXVyNjE0NDYxNjc@._V1_.jpg"
+ },
+ {
         "title": "La pelea estelar",
         "genere": "Comedia",
         "image":  "https://m.media-amazon.com/images/M/MV5BZWVhNDQwNDItNDcwMy00MTVlLWE0YjAtMjQxYzVkODRjN2YyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
