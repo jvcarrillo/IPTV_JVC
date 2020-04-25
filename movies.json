@@ -1,5 +1,17 @@
 [ 
         {
+        "title": "My Spy",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BMzJmM2FkMTUtNzIyYy00NDdlLWI1ZjctNmI4OGU0YzFiNzg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "rating": "6.1",
+        "releaseYear": 2020,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2110266&authkey=AA8IG0Q1Dc_DFCA",
+        "description": "Un operativo de la CIA que cree no tener sentimientos (Dave Bautista) queda a merced de una niña de 9 años (Kristen Schaal) después de que se le asignase la misión de vigilar a su familia.",
+        "trailer": "PY7sT2AG42M", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BMjQzOTEzNDUyN15BMl5BanBnXkFtZTgwNTM2MjA4NzM@._V1_SY1000_CR0,0,1499,1000_AL_.jpg"
+ },
+        {
         "title": "Trolls World Tour",
         "genere": "Animación",
         "image":  "https://m.media-amazon.com/images/M/MV5BMjIwNjg1NmUtMGE5Yi00YmQxLTg0M2QtMGQyNDVlZWUwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,631,1000_AL_.jpg",
