@@ -1,10 +1,22 @@
-[ {
+[  {
+        "title": "La pelea estelar",
+        "genere": "Comedia",
+        "image":  "https://m.media-amazon.com/images/M/MV5BZWVhNDQwNDItNDcwMy00MTVlLWE0YjAtMjQxYzVkODRjN2YyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+        "rating": "4.7",
+        "releaseYear": 2020,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2110265&authkey=ANNHpUQEAA4V1JM",
+        "description": "Leo Thompson (Seth Carr) tiene 11 años y se ha encontrado una máscara de lucha libre que le da superfuerza. Con ella y con el apoyo de su abuela (Tichina Arnold), se presenta a un campeonato de la WWE. Leo hará todo lo posible para cumplir su sueño: ser una superestrella de la WWE. ¿Podrá un niño vencer a los contrincantes más demoledores en el ring y ser un gran campeón?.",
+        "trailer": "GJbFK3ZGRuM", 
+        "fondo": "https://pbs.twimg.com/media/EUxrzSdU8AA9GYM.jpg"
+ },
+ {
         "title": "Sergio",
         "genere": "Drama",
         "image":  "https://m.media-amazon.com/images/M/MV5BMzIwYzQ3MTMtNjBjZC00M2ZiLTkzMzctYjZhOWM1ZTAxMTdiXkEyXkFqcGdeQXVyODkwODgyNTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
         "rating": "6.2",
         "releaseYear": 2020,
-        "clasificacion": "PG-13",
+        "clasificacion": "R",
         "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2110263&authkey=ALBbnMzrHW7kwII",
         "description": "Un alto diplomático brasileño de las Naciones Unidas, el carismático Sergio Vieira de Mello, se ve obligado a superar la misión más importante de su carrera justo cuando finaliza la invasión estadounidense de Iraq.",
         "trailer": "5wYFQTy9lGo", 
