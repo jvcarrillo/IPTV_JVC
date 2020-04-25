@@ -1,4 +1,28 @@
 [ {
+        "title": "Milagro en la Celda 7",
+        "genere": "Drama",
+        "image":  "https://m.media-amazon.com/images/M/MV5BOGE3N2QxN2YtM2ZlNS00MWIyLWE1NDAtYWFlN2FiYjY1MjczXkEyXkFqcGdeQXVyOTUwNzc0ODc@._V1_.jpg",
+        "rating": "8.3",
+        "releaseYear": 2019,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2110397&authkey=ANnHlgsAbo4LAAY",
+        "description": "Un hombre con discapacidad intelectual es injustamente encarcelado por la muerte de una niña, y debe demostrar su inocencia para poder estar de nuevo con su hija.",
+        "trailer": "wj6peAO7bMU", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BNTc2OTdmYTEtNzA4NS00MGM5LWJiZmUtNzcxNzdiMDkwYWYwXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg"
+ },
+ {
+        "title": "La tierra y la Sangre",
+        "genere": "Acción",
+        "image":  "https://m.media-amazon.com/images/M/MV5BOGFiZjk5ZGQtMmY1Zi00NDczLTllNGEtOWEwNjdjOTQ3OGYxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "rating": "5.0",
+        "releaseYear": 2020,
+        "clasificacion": "TV-MA",
+        "link": "https://onedrive.live.com/download?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2110264&authkey=AHqyN-jY2lyl1ZA",
+        "description": "Tras años dirigiendo un próspero aserradero en medio de los bosques de las Ardenas, contratando a ex presidiarios y jóvenes delincuentes, Said recibe la visita inesperada de los miembros de un cártel de drogas que le exigen que guarde dentro de su fábrica una gran cantidad de cocaína.",
+        "trailer": "oP56Y7D_EGA", 
+        "fondo": "https://m.media-amazon.com/images/M/MV5BZjUxMDljYjktN2Y5NS00YzA4LWE0YzAtZDNhNGY5YjRkODZhXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SY1000_CR0,0,1499,1000_AL_.jpg"
+ },
+ {
         "title": "The Quarry",
         "genere": "Crimen",
         "image":  "https://m.media-amazon.com/images/M/MV5BMGE4OTM3Y2YtMjkxOS00YmVkLTk2NGEtZjhlZmQ1M2Q3MjhhXkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_SY1000_CR0,0,712,1000_AL_.jpg",
