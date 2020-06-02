@@ -46,8 +46,6 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Entretenimiento", ORBIT TV
-http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-
 
 
 
@@ -61,8 +59,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.portalpolitico.tv/sites/portalpolitico.tv/files/photos/noticia/46_16.jpg" group-title="Musica", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/f53932128c2e450edc5d0fe59469e071.jpg" group-title="Musica", Radio 97.5FM CR
-http://198.178.123.2:7274/;stream/1
 #EXTINF:-1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="Musica",PERU TOP Latino
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PzZ3jeSQ4VY/hqdefault.jpg" group-title="Musica", Mi Musica
