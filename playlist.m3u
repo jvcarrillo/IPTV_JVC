@@ -7,62 +7,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="Infantiles",TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, A3CINE 
-http://roedor.xyz/regiomx20x/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TBS SD  
-http://roedor.xyz/regiomx20x/tp.php?c=81&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DE PELICULA + 
-http://roedor.xyz/regiomx20x/tp.php?c=121&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN +
-http://roedor.xyz/regiomx20x/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN
-http://roedor.xyz/regiomx20x/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN EDGE
-http://roedor.xyz/regiomx20x/tp.php?c=124&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TNT 
-http://roedor.xyz/regiomx20x/tp.php?c=126&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TCM
-http://roedor.xyz/regiomx20x/tp.php?c=128&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, SPACE
-http://roedor.xyz/regiomx20x/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, AMC 
-http://roedor.xyz/regiomx20x/tp.php?c=131&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, STUDIO UNIVERSAL
-http://roedor.xyz/regiomx20x/tp.php?c=132&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, I SAT  
-http://roedor.xyz/regiomx20x/tp.php?c=135&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, EUROPA CHANNEL 
-http://roedor.xyz/regiomx20x/tp.php?c=136&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FILMS & ARTS
-http://roedor.xyz/regiomx20x/tp.php?c=137&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FXM
-http://roedor.xyz/regiomx20x/tp.php?c=138&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FXM SD 
-http://roedor.xyz/regiomx20x/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SERIES
-http://roedor.xyz/regiomx20x/tp.php?c=139&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MORBIDO
-http://roedor.xyz/regiomx20x/tp.php?c=140&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX MOVIES 
-http://roedor.xyz/regiomx20x/tp.php?c=146&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINECANAL
-http://roedor.xyz/regiomx20x/tp.php?c=149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINEMAX 
-http://roedor.xyz/regiomx20x/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AMC  
-http://roedor.xyz/regiomx20x/tp.php?c=328&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DE PELICULA SD
-http://roedor.xyz/regiomx20x/tp.php?c=335&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX ACTION
-http://roedor.xyz/regiomx20x/tp.php?c=336&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, PARAMOUNT CHANNEL 
-http://roedor.xyz/regiomx20x/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX CINEMA SD
-http://roedor.xyz/regiomx20x/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX CLASSICS SD
-http://roedor.xyz/regiomx20x/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CINEMA 
-http://roedor.xyz/regiomx20x/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="24/7", Factoria de Ficcion
