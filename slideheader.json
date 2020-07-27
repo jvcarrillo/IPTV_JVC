@@ -20,7 +20,7 @@
                 "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
             }
         ]
-    }
+    },
     "Peliculas": {
         "Accion": [
             {
@@ -43,5 +43,4 @@
             }
         ]
     }
-    
 }
