@@ -1,3 +1,21 @@
+{"slider1":[
+        {
+         "document":{
+            "name":"SNN001 CREDENCIAL ELECTORS",
+            "firstPage":false,
+            "lastPage":false
+         },
+         "totalDocuments":0
+      },
+      {
+         "document":{
+            "name":"SNS002 PASAPORTE",
+            "firstPage":false,
+            "lastPage":false
+         },
+         "totalDocuments":0
+      }
+]
 [ {
         "title": "Boyka Undisputed",
         "genere": "Acción",
@@ -1181,3 +1199,4 @@
         "fondo": "https://m.media-amazon.com/images/M/MV5BMjEzNTI5Nzk3MV5BMl5BanBnXkFtZTgwNzQwMjA3NTM@._V1_SX1777_CR0,0,1777,960_AL_.jpg"
  }
 ]
+}
