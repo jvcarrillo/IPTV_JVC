@@ -1,46 +1,26 @@
 {
-    "Slider": {
-        "encabezado": [
-            {
-                "id": "1",
-                "firstName": "Tom",
-                "lastName": "Cruise",
-                "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
-            },
-            {
-                "id": "2",
-                "firstName": "Maria",
-                "lastName": "Sharapova",
-                "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
-            },
-            {
-                "id": "3",
-                "firstName": "Robert",
-                "lastName": "Downey Jr.",
-                "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
-            }
-        ]
-    },
-    "Peliculas": {
-        "Accion": [
-            {
-                "id": "1",
-                "firstName": "Tom",
-                "lastName": "Cruise",
-                "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
-            },
-            {
-                "id": "2",
-                "firstName": "Maria",
-                "lastName": "Sharapova",
-                "photo": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
-            },
-            {
-                "id": "3",
-                "firstName": "Robert",
-                "lastName": "Downey Jr.",
-                "photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
-            }
-        ]
-    }
+    "users": [
+        {
+                "id": "1087",
+                "name": "Abhishek Saini",
+                "email": "info@abhiandroid.com",
+                "gender" : "male",
+                "contact": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "1088",
+                "name": "Gourav",
+                "email": "gourav9188@gmail.com",
+                "gender" : "male",
+                "contact": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        }
+]
 }
