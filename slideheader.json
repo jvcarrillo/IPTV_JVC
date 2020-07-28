@@ -1,26 +1,14 @@
 {
     "users": [
         {
-                "id": "1087",
-                "name": "Abhishek Saini",
-                "email": "info@abhiandroid.com",
-                "gender" : "male",
-                "contact": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "title": "Abhishek Saini",
+                "img": "http://127.0.0.1",
+                "link" : "http://127.0.0.1"
         },
         {
-                "id": "1088",
-                "name": "Gourav",
-                "email": "gourav9188@gmail.com",
-                "gender" : "male",
-                "contact": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "title": "Animales fantasticos",
+                "img": "http://127.0.0.1",
+                "link" : "http://127.0.0.1"
         }
-]
+    ]
 }
