@@ -2,17 +2,17 @@
     "slider": [
         {
                 "title": "Chicas Insta",
-                "img": "https://i.ytimg.com/vi/CcFAVAQ2d3k/maxresdefault.jpg",
+                "image": "https://i.ytimg.com/vi/CcFAVAQ2d3k/maxresdefault.jpg",
                 "link" : "https://i.ytimg.com/vi/CcFAVAQ2d3k/maxresdefault.jpg"
         },
         {
                 "title": "Green fantasticos",
-                "img": "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg",
+                "image": "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg",
                 "link" : "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg"
         },
         {
                 "title": "Barbie",
-                "img": "https://i.ytimg.com/vi/KzAAFWDQHPw/maxresdefault.jpg",
+                "image": "https://i.ytimg.com/vi/KzAAFWDQHPw/maxresdefault.jpg",
                 "link" : "https://i.ytimg.com/vi/KzAAFWDQHPw/maxresdefault.jpg"
         }
     ]
