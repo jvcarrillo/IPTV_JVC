@@ -1,14 +1,14 @@
 {
-    "users": [
+    "slider": [
         {
-                "title": "Abhishek Saini",
-                "img": "http://127.0.0.1",
-                "link" : "http://127.0.0.1"
+                "title": "Chicas Insta",
+                "img": "https://i.ytimg.com/vi/CcFAVAQ2d3k/maxresdefault.jpg",
+                "link" : "https://i.ytimg.com/vi/CcFAVAQ2d3k/maxresdefault.jpg"
         },
         {
                 "title": "Animales fantasticos",
-                "img": "http://127.0.0.1",
-                "link" : "http://127.0.0.1"
+                "img": "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg",
+                "link" : "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg"
         }
     ]
 }
