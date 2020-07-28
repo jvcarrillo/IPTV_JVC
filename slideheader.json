@@ -6,9 +6,14 @@
                 "link" : "https://i.ytimg.com/vi/CcFAVAQ2d3k/maxresdefault.jpg"
         },
         {
-                "title": "Animales fantasticos",
+                "title": "Green fantasticos",
                 "img": "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg",
                 "link" : "https://i.ytimg.com/vi/brGt6jEalP0/maxresdefault.jpg"
+        },
+        {
+                "title": "Barbie",
+                "img": "https://i.ytimg.com/vi/KzAAFWDQHPw/maxresdefault.jpg",
+                "link" : "https://i.ytimg.com/vi/KzAAFWDQHPw/maxresdefault.jpg"
         }
     ]
 }
