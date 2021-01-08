@@ -1,4 +1,17 @@
 [{
+        "title": "La Bestia",
+        "genere": "Acción",
+        "image":  "https://pics.filmaffinity.com/la_belva-204797703-mmed.jpg",
+        "rating": "5.2",
+        "releaseYear": 2020,
+        "clasificacion": "TV-MA",
+        "link": "https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214501&authkey=AGWYdX8goEOoKC8",
+        "description": "Un solitario veterano de las Fuerzas Especiales libera su bestia interior mientras persigue a los secuestradores de su hija... y acaba convertido en sospechoso.",
+        "trailer": "WsUi4jQGNgo", 
+        "fondo": "https://finde.latercera.com/wp-content/uploads/2020/11/La-bestia-2-ok-700x450.jpg",
+         "extension": "mp4"
+ },
+ {
         "title": "Wonder Woman",
         "genere": "Acción",
         "image":  "https://images-na.ssl-images-amazon.com/images/I/81ylGZp087L._AC_SL1500_.jpg",
