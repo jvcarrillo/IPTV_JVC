@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dragonball/images/0/0d/DBallv1.jpg" group-title="7-24", Dragon Ball 1984
-http://zufreelist.net:8080/qGQXxGpuyA/zfKElGAlab/876
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
