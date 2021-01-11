@@ -1,4 +1,30 @@
 [{
+        "title": "Frontera",
+        "genere": "Drama",
+        "image":  "http://www.wearemoviegeeks.com/wp-content/uploads/Frontera_OneSheet_Final.jpg",
+        "rating": "6.6",
+        "releaseYear": 2014,
+        "clasificacion": "PG-13",
+        "link": "https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214509&authkey=AKN0FzMZ7UdNSso",
+        "description": "La esposa de un ex-sheriff de Arizona es asesinada mientras cabalga en su rancho. Todo indica a que el culpable es un hombre mexicano que estaba cruzando la frontera a los Estados Unidos ilegalmente.",
+        "trailer": "SBifXEcxa6M", 
+        "fondo": "http://www.magpictures.com/frontera/images/poster-fb.jpg",
+         "extension": "mkv"
+ },
+ {
+        "title": "Ride",
+        "genere": "Acción",
+        "image":  "https://i.pinimg.com/originals/1a/67/be/1a67be2f66ef42dcdb2010a396809fd2.jpg",
+        "rating": "4.7",
+        "releaseYear": 2018,
+        "clasificacion": "Unrated",
+        "link": "https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214508&authkey=ABhpxvNqRRmtYmU",
+        "description": "Un conductor de Uber y su pasajera cogen a un nuevo pasajero que hará que una simple noche en Los Ángeles se convierta en una lucha por la supervivencia.",
+        "trailer": "WpJgj9Y5BYw", 
+        "fondo": "https://www.aceshowbiz.com/images/still/ride-2018-poster01.jpg",
+         "extension": "mp4"
+ },
+ {
         "title": "We can be Heroes",
         "genere": "Acción",
         "image":  "https://m.media-amazon.com/images/M/MV5BYmU3OGFhZDItMjhlZi00YjQwLWJlOTItYzlhOGEwNGU3NjIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
