@@ -1,0 +1,16 @@
+{
+  "title ": "Game of Trone",
+  "year": 2005,
+  "rate": "8 1",
+  "sinopsis": "Guerra y otras cosas",
+  "Temporada 1": [
+    {
+      "Episodio": "1",
+      "link": "http://127.0.0.1:8080"
+    },
+    {
+      "Episodio": "2",
+      "link": "http://127.0.0.1:8080"
+    }
+  ]
+}
