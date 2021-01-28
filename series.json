@@ -1,15 +1,16 @@
-[{
-  "title ": "Game of Trone",
-  "image": "https://blog.depositphotos.com/wp-content/uploads/2017/07/digital-art-stock-photography-game-of-thrones.jpg",
-  "rating": "8 1",
-  "releaseYear": 2005,
-  "description": "Guerra y otras cosas",    
-},
+[
+  {
+  "title": "Game of Trone",
+  "image":  "https://blog.depositphotos.com/wp-content/uploads/2017/07/digital-art-stock-photography-game-of-thrones.jpg",
+  "rating": "5.3",
+  "releaseYear": 2014,
+  "description": "Una adolescente lucha para proteger el último pozo de trabajo en un valle asolado por la sequía de un codicioso barón de agua."
+ },  
  {
   "title ": "VIS a VIS",
   "image": "https://media.fstatic.com/LyDPQTR9omrVELz5C0czox6Tucg=/fit-in/290x478/smart/media/movies/covers/2019/09/6b86f394b60a01ca7680fa9bb76635de.jpg",
   "rating": "8 1",
   "releaseYear": 2010,
-  "description": "Guerra y otras cosas",    
-},
+  "description": "Guerra y otras cosas"
+}
 ]
