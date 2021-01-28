@@ -2,18 +2,6 @@
   "title ": "Game of Trone",
   "year": 2005,
   "rate": "8 1",
-  "image": "",
-  "sinopsis": "Guerra y otras cosas",
-  "temporada 1": [
-    {
-      "temporada": "1",
-      "episodio": "1",
-      "link": "http://127.0.0.1:8080"
-    },
-    {
-      "temporada": "1",
-      "Episodio": "2",
-      "link": "http://127.0.0.1:8080"
-    }
-  ]
+  "image": "https://blog.depositphotos.com/wp-content/uploads/2017/07/digital-art-stock-photography-game-of-thrones.jpg",
+  "sinopsis": "Guerra y otras cosas",    
 }
