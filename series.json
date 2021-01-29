@@ -4,7 +4,14 @@
   "image":  "http://es.web.img3.acsta.net/pictures/20/01/15/11/15/5825197.jpg",
   "rating": "",
   "releaseYear": 2018,
-  "description": ""
+  "description": "",
+   "temporada": [
+    {
+      "temporada#": 1,
+      "Episodio": "01",
+      "link": "http://127.0.0.1:8080"
+    }
+      ]
  },
   {
   "title": "Cobra Kai",
