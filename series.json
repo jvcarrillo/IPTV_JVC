@@ -1,5 +1,40 @@
 [
   {
+  "title": "911",
+  "image":  "https://pics.filmaffinity.com/9_1_1_tv_series-605900101-large.jpg",
+  "rating": "",
+  "releaseYear": 2018,
+  "description": ""
+ },
+  {
+  "title": "Cobra Kai",
+  "image":  "https://pics.filmaffinity.com/9_1_1_tv_series-605900101-large.jpg",
+  "rating": "",
+  "releaseYear": 2018,
+  "description": ""
+ },
+  {
+  "title": "For Life",
+  "image":  "https://m.media-amazon.com/images/M/MV5BZDBmOTdiMGMtNGJiMy00MTE3LWIzMjMtNGVkMjdlN2E0NzEwXkEyXkFqcGdeQXVyNzQyNzkyNDA@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
+  "rating": "",
+  "releaseYear": 2020,
+  "description": ""
+ },
+  {
+  "title": "Future Man",
+  "image":  "https://m.media-amazon.com/images/M/MV5BMTY3NjUzNzQwNV5BMl5BanBnXkFtZTgwMDAwNDMwNDI@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+  "rating": "",
+  "releaseYear": 2017,
+  "description": ""
+ },
+ {
+  "title": "Hanna",
+  "image":  "https://image.tmdb.org/t/p/original/iYUtjx1EN4SVTgxd2TB4cZTGSQb.jpg",
+  "rating": "",
+  "releaseYear": 2019,
+  "description": ""
+ },
+  {
   "title": "Game of Trone",
   "image":  "https://blog.depositphotos.com/wp-content/uploads/2017/07/digital-art-stock-photography-game-of-thrones.jpg",
   "rating": "5.3",
