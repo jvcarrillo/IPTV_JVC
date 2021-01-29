@@ -7,7 +7,7 @@
   "description": "",
    "temporada": [
     {
-      "temporada#": 1,
+      "tempo": 1,
       "Episodio": "01",
       "link": "http://127.0.0.1:8080"
     }
