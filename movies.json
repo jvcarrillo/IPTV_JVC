@@ -1,4 +1,18 @@
-[{
+[
+{
+  "title": "2 minutos de fama",
+  "genere": "Comedia ",
+  "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3496/34966299_so.jpg",
+  "rating": "5.2",
+  "releaseYear": 2020,
+  "clasificacion": "R",
+  "link": "https://onedrive.live.com/download.aspx?cid\u003d9088F6766755C966\u0026resid\u003d9088F6766755C966%214151\u0026authkey\u003dAJ2cc8dNp72GGRQ",
+  "description": "Un prometedor comediante de stand-up se muda a Los Ángeles para seguir una carrera cinematográfica después de que los videoclips de su acto lo conviertan en una sensación en línea.",
+  "trailer": "KP_7Qup3kZw",
+  "fondo": "https://image.tmdb.org/t/p/original/aRsb7TjzGtNebL582BK6LC7Jo6K.jpg",
+  "extension": "mkv"
+},
+{
   "title": "Double Dad",
   "genere": "Comedia",
   "image":  "https://catimage.net/images/2021/01/28/Double-Dad-2021-Sub.jpg",
@@ -113,19 +127,6 @@
   "description": "Un atracador de bancos se entrega a la policía porque se ha enamorado y decide llevar una vida honrada. Cuando descubre que los federales son aún más corruptos que él, se verá obligado a utilizar todas sus artimañas de ex marine para limpiar su nombre.",
   "trailer": "aa74oId0RNc",
   "fondo": "https://www.polvora.com.mx/wp-content/uploads/2020/10/Venganza-Implacable-Resena-1.jpg",
-  "extension": "mkv"
-},
-{
-  "title": "2 minutos de fama",
-  "genere": "Comedia ",
-  "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3496/34966299_so.jpg",
-  "rating": "5.2",
-  "releaseYear": 2020,
-  "clasificacion": "R",
-  "link": "https://onedrive.live.com/download.aspx?cid\u003d9088F6766755C966\u0026resid\u003d9088F6766755C966%214151\u0026authkey\u003dAJ2cc8dNp72GGRQ",
-  "description": "Un prometedor comediante de stand-up se muda a Los Ángeles para seguir una carrera cinematográfica después de que los videoclips de su acto lo conviertan en una sensación en línea.",
-  "trailer": "KP_7Qup3kZw",
-  "fondo": "https://image.tmdb.org/t/p/original/aRsb7TjzGtNebL582BK6LC7Jo6K.jpg",
   "extension": "mkv"
 },
 {
