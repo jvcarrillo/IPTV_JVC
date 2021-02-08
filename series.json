@@ -5,7 +5,8 @@
   "rating": "",
   "releaseYear": 2018,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
   {
   "title": "Cobra Kai",
@@ -13,7 +14,8 @@
   "rating": "",
   "releaseYear": 2018,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
   {
   "title": "For Life",
@@ -21,7 +23,8 @@
   "rating": "",
   "releaseYear": 2020,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
   {
   "title": "Future Man",
@@ -29,7 +32,8 @@
   "rating": "",
   "releaseYear": 2017,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
  {
   "title": "Hanna",
@@ -37,7 +41,8 @@
   "rating": "",
   "releaseYear": 2019,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
    {
   "title": "High School Musical",
@@ -45,7 +50,8 @@
   "rating": "",
   "releaseYear": 2019,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
      {
   "title": "MacGyver",
@@ -53,7 +59,8 @@
   "rating": "",
   "releaseYear": 2016,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  },
   {
   "title": "Game of Trone",
@@ -61,7 +68,8 @@
   "rating": "5.3",
   "releaseYear": 2014,
   "description": "Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de 'los otros', seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.",
-  "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2115190&authkey=AG_4NHariAQrl04"
+  "link": "https://onedrive.live.com/embed?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2115190&authkey=AG_4NHariAQrl04",
+  "fondo" : "http://fanaru.com/game-of-thrones/image/293580-game-of-thrones-game-of-thrones.jpg"
  },
   {
   "title": "VIS a VIS",
@@ -69,7 +77,8 @@
   "rating": "5.3",
   "releaseYear": 2010,
   "description": "",
-  "link": ""
+  "link": "",
+  "fondo: ""
  }  
 ]
 
