@@ -4,7 +4,7 @@
   "image":  "http://es.web.img3.acsta.net/pictures/20/01/15/11/15/5825197.jpg",
   "rating": "7.7",
   "releaseYear": 2020,
-  "description":  "Serie de TV (2020-Actualidad). 2 temporadas. Un bombero de Nueva York se muda con su hijo a Austin, Texas, donde salva vidas al mismo tiempo que intenta solucionar sus problemas personales.",
+  "description": "Serie de TV (2020-Actualidad). 2 temporadas. Un bombero de Nueva York se muda con su hijo a Austin, Texas, donde salva vidas al mismo tiempo que intenta solucionar sus problemas personales.",
   "link": "http://es.web.img3.acsta.net/pictures/20/01/15/11/15/5825197.jpg",
   "fondo": "https://www.ecured.cu/images/4/4b/Serie-911.jpg"
  },
@@ -49,7 +49,7 @@
   "image":  "https://media.comicbook.com/2019/08/high-school-musical-series-poster-disney-plus-1184333.jpeg",
   "rating": "7.4",
   "releaseYear": 2019,
-  "description": "",
+  "description": "falto",
   "link": "http://127.0.0.1:8080",
   "fondo": "https://wallpapercave.com/wp/wp2122364.jpg"
  },
@@ -58,7 +58,7 @@
   "image":  "https://image.tmdb.org/t/p/original/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg",
   "rating": "5.3",
   "releaseYear": 2016,
-  "description": "",
+  "description": "falto",
   "link": "http://127.0.0.1:8080",
   "fondo": "El mítico MacGyver regresa a la pequeña pantalla tras tres décadas alejado de la televisión. El clásico personaje le hace frente a las misiones más complicadas gracias a su agudizado ingenio."
  },
