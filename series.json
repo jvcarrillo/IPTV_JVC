@@ -1,68 +1,5 @@
 [
   {
-  "title": "911",
-  "image":  "http://es.web.img3.acsta.net/pictures/20/01/15/11/15/5825197.jpg",
-  "rating": "7.7",
-  "releaseYear": 2020,
-  "description": "Serie de TV (2020-Actualidad). 2 temporadas. Un bombero de Nueva York se muda con su hijo a Austin, Texas, donde salva vidas al mismo tiempo que intenta solucionar sus problemas personales.",
-  "link": "http://es.web.img3.acsta.net/pictures/20/01/15/11/15/5825197.jpg",
-  "fondo": "https://www.ecured.cu/images/4/4b/Serie-911.jpg"
- },
-  {
-  "title": "Cobra Kai",
-  "image":  "https://cdn.flickeringmyth.com/wp-content/uploads/2019/04/yto_cobrakai_vertical_27x40_132_v1_rgb.jpg",
-  "rating": "8.6",
-  "releaseYear": 2018,
-  "description": "Serie de TV (2018-Actualidad). 3 temporadas. 30 episodios. Secuela de 'Karate Kid'. 30 años después de su enfrentamiento final en 1984 en el torneo de karate All Valley, Johnny Lawrence (William Zabka) está en un momento malo de su vida. Sin embargo, tras ayudar a Miguel (Xolo Maridueña), un niño que sufre bullying, Johnny decide volver a abrir el dojo Cobra Kai. El problema es que esto vuelve a desatar la rivalidad con Daniel LaRusso (Ralph Macchio), que ahora es un hombre de negocios felizmente casado, pero al que le falta algo tras la muerte de su mentor, el Sr. Miyagi. ",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/10/cobra-kai-2116977.jpeg"
- },
-  {
-  "title": "For Life",
-  "image":  "https://m.media-amazon.com/images/M/MV5BZDBmOTdiMGMtNGJiMy00MTE3LWIzMjMtNGVkMjdlN2E0NzEwXkEyXkFqcGdeQXVyNzQyNzkyNDA@._V1_UY1200_CR135,0,630,1200_AL_.jpg",
-  "rating": "7.6",
-  "releaseYear": 2020,
-  "description": "Serie de TV (2020-Actualidad). 2 temporadas. 19 episodios. Durante su estancia en la cárcel, un preso estudia para ser abogado y lucha por demostrar que no cometió el crimen por el que lo han condenado a cadena perpetua. En el camino, tratará de ayudar a otros que se encuentran en una situación similar.",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://img.dsmartgo.com.tr/content/h/5v/18535/Thumbnail.jpg"
- },
-  {
-  "title": "Future Man",
-  "image":  "https://m.media-amazon.com/images/M/MV5BMTY3NjUzNzQwNV5BMl5BanBnXkFtZTgwMDAwNDMwNDI@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
-  "rating": "7.7",
-  "releaseYear": 2017,
-  "description": "Serie de TV (2017-2020). 3 temporadas. 34 episodios. Josh Futterman (Josh Hutcherson) trabaja como empleado de la limpieza en un centro de investigación de enfermedades sexuales. Aún vive en casa de sus padres y es socialmente muy torpe ya que tiene problemas personales de autoestima y no se puede acercar a una mujer. En su vida, Josh destaca únicamente en una cosa: Cybergeddon, un videojuego que trasncurre en un futuro distópico donde su personaje, 'Future Man', tiene la mejor puntuación del mundo. Cuando acaba el último nivel, recibe la visita de personaje del juego que aparecen para explicarle que Cybergeddon era un entrenamiento y que ha sido escogido para viajar en el tiempo y salvar al mundo..",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://images.alphacoders.com/883/883745.jpg"
- },
- {
-  "title": "Hanna",
-  "image":  "https://image.tmdb.org/t/p/original/iYUtjx1EN4SVTgxd2TB4cZTGSQb.jpg",
-  "rating": "7.5",
-  "releaseYear": 2019,
-  "description": "Una joven es entrenada desde pequeña por su padre, un ex-agente de la CIA, para convertirse en una asesina perfecta. Adaptación televisiva de la película de 2011.",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://tvseriesfinale.com/wp-content/uploads/2019/03/HANNA_S1_00293_KeyArt_LargeShowBanner_1920x1080_RFINRY_FINAL_ComingOfAge_rgb.jpg"
- },
-   {
-  "title": "High School Musical",
-  "image":  "https://media.comicbook.com/2019/08/high-school-musical-series-poster-disney-plus-1184333.jpeg",
-  "rating": "7.4",
-  "releaseYear": 2019,
-  "description": "Serie de TV basada en las películas de Disney Channel 'High School Musical'",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://wallpapercave.com/wp/wp2122364.jpg"
- },
-     {
-  "title": "MacGyver",
-  "image":  "https://image.tmdb.org/t/p/original/uW0vuEcPqtoqkoRg97Ta9dXJfiv.jpg",
-  "rating": "5.3",
-  "releaseYear": 2016,
-  "description": "El mítico MacGyver regresa a la pequeña pantalla tras tres décadas alejado de la televisión. El clásico personaje le hace frente a las misiones más complicadas gracias a su agudizado ingenio.",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://artworks.thetvdb.com/banners/fanart/original/5d7552099c602.jpg"
- },
-  {
   "title": "Game of Trone",
   "image":  "https://blog.depositphotos.com/wp-content/uploads/2017/07/digital-art-stock-photography-game-of-thrones.jpg",
   "rating": "5.3",
@@ -70,15 +7,6 @@
   "description": "Serie de TV (2011-2019). 8 temporadas. 73 episodios. La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias nobles que aspiran al Trono de Hierro; la creciente amenaza de 'los otros', seres desconocidos que viven al otro lado de un inmenso muro de hielo que protege el Norte de Poniente; y el viaje de Daenerys Targaryen, la hija exiliada del rey que fue asesinado en una guerra civil anterior, y que pretende regresar a Poniente para reclamar sus derechos dinásticos. Tras un largo verano de varios años, el temible invierno se acerca a los Siete Reinos. Lord Eddard 'Ned' Stark, señor de Invernalia, deja sus dominios para ir a la corte de su amigo, el rey Robert Baratheon, en Desembarco del Rey, la capital de los Siete Reinos. Stark se convierte en la Mano del Rey e intenta desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. Mientras tanto, diversas facciones conspiran con un solo objetivo: apoderarse del trono.",
   "link": "https://onedrive.live.com/download.aspx?cid=D5072BBB4F142590&resid=D5072BBB4F142590%2115190&authkey=AG_4NHariAQrl04",
   "fondo" : "http://s1.bwallpapers.com/wallpapers/2014/01/16/game-of-thrones-television-series_092318.jpg"
- },
-  {
-  "title": "VIS a VIS",
-  "image":  "https://media.fstatic.com/LyDPQTR9omrVELz5C0czox6Tucg=/fit-in/290x478/smart/media/movies/covers/2019/09/6b86f394b60a01ca7680fa9bb76635de.jpg",
-  "rating": "8.2",
-  "releaseYear": 2015,
-  "description": "Serie de TV (2015-2019). 4 temporadas. 40 episodios. Narra las vivencias en prisión de Macarena, una joven frágil e inocente que nada más ingresar en la cárcel se ve inmersa en una difícil situación a la que tendrá que aprender a adaptarse. Además del shock que le supone acabar de golpe con su placentera vida acomodada, pronto descubrirá que demasiada gente en la cárcel está tras la pista de nueve millones de euros robados de un furgón. ",
-  "link": "http://127.0.0.1:8080",
-  "fondo": "https://mr.comingsoon.it/imgdb/serietv/serie/3157/3157_hd.jpg"
- }  
+ }
 ]
 
