@@ -1,4 +1,17 @@
 [{
+  "title": "Tom and Jerry",
+  "genere": "Animación",
+  "image":  "https://www.therakyatpost.com/wp-content/uploads/2021/01/tomjerry720.jpg",
+  "rating": "5.3",
+  "releaseYear": 2021,
+  "clasificacion": "PG",
+  "link": "https://onedrive.live.com/download.aspx?cid=9088F6766755C966&resid=9088F6766755C966%214662&authkey=ALjfy3gu0XeUIgI",
+  "description": "Adaptación del clásico propiedad de Hanna-Barbera, que revela cómo Tom y Jerry se conocieron y se desató su rivalidad.",
+  "trailer": "3akNG1joiBI", 
+  "fondo": "https://guardian.ng/wp-content/uploads/2020/11/Tom-and-Jerry.jpg",
+  "extension": "mkv"
+ },
+ {
   "title": "Akelarre",
   "genere": "Acción",
   "image":  "http://ineditofilms.com/wp-content/uploads/2020/10/AKELARRE_POSTER_LOW.jpg",
