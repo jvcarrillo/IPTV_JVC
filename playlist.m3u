@@ -13,6 +13,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?laope.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW" group-title="Deportes", TELEMAX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/800px-Tve_teledeporte.png" group-title="Deportes",Teledeporte
+https://rtvelivestream.akamaized.net/tdp_bkp_dvr.m3u8
+
 
 
 
