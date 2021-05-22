@@ -58,8 +58,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Peliculas y Series", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R26fd13111f16365bb7349a56ab953a0c?rik=pT%2bCqC1jJskrvQ&riu=http%3a%2f%2fwww.brandemia.org%2fsites%2fdefault%2ffiles%2fsites%2fdefault%2ffiles%2faxn_nuevo_logo_negativo.jpg&ehk=XjcXHEPpNLseB6pqu3p%2bx1fV9Y%2fPGg4nBJEFt2cXwGU%3d&risl=&pid=ImgRaw" group-title="Peliculas y Series", AXN (Ingles)
-http://136.243.177.164/AXN/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="Ecuador", TEN Ecuador
