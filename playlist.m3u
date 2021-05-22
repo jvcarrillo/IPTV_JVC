@@ -13,8 +13,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?laope.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW" group-title="Deportes", TELEMAX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/800px-Tve_teledeporte.png" group-title="Deportes",Teledeporte
-https://rtvelivestream.akamaized.net/tdp_bkp_dvr.m3u8
 
 
 
@@ -56,8 +54,11 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Peliculas y Series", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/11/logoquatro-150x27.png" group-title="Peliculas y Series",quatro tv
+#EXTINF:-1 tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/11/logoquatro-150x27.png" group-title="Peliculas y Series",CN 3
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Peliculas y Series", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Zg3GYnLlL74/Wj1RMoNNLuI/AAAAAAADZf8/676eM_H8UCQkbfMuNUtPA5nRM458pTaVQCLcBGAs/s1600/ten-canal-10-televsion-educativa-honduras.png" group-title="Ecuador", TEN Ecuador
@@ -74,10 +75,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/3/d/csm_11517-1329_import_03cb47710a.png" group-title="Mexico", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.redespoder.com/wp-content/uploads/2018/01/milenio.png" group-title="Mexico", Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Mexico", RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.jpg" group-title="Mexico", TVP Obregon
@@ -91,7 +88,6 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="Paraguay",  Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
-
 
 
  
@@ -159,8 +155,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="SudAmerica", BHTV HD
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_de_28'.png" group-title="CentroAmerica",TELECANAL 28
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
@@ -168,8 +163,7 @@ http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="http://devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil.jpg" group-title="Religion", Enlace Juvenil
 http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.catolicatelevision.com/wp-content/uploads/sites/9/2013/10/logo_ctv2.png" group-title="Religión",Catolica TV
-http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+
 
 
 
