@@ -95,6 +95,14 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?Playli
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/683_TRC_TV_Campeche.png" group-title="Mexico", TRC TV Campeche
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/636_Teleplay.png" group-title="Mexico", Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo.png" group-title="Mexico", Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="Paraguay",  Unicanal
@@ -309,12 +317,5 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?PlaylistM3UCL
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="677" tvg-name="Telemar Campeche" tvg-logo="https://www.m3u.cl/logo/677_Telemar_Campeche.png", Telemar Campeche  | MX
 https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="679" tvg-name="Telemax Hermosillo" tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo.png", Telemax Hermosillo  | MX
-http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="636" tvg-name="Teleplay" tvg-logo="https://www.m3u.cl/logo/636_Teleplay.png", Teleplay  | MX
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png", Teleritmo  | MX
-https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="647" tvg-name="Tlaxcala TV" tvg-logo="https://www.m3u.cl/logo/647_Tlaxcala_TV.png", Tlaxcala TV  | MX
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+
 
