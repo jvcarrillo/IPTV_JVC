@@ -148,21 +148,13 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="Paraguay",  Unicanal
-http://45.55.127.106/live/unicanal_mid.m3u8
-
-
  
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Regionales",VTV Vina - Valparaiso HD 
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Regionales",VTV Aconcaga-
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="Regionales",VTV Viña del Mar -
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-
-
 
 
 
@@ -483,10 +475,6 @@ http://198.24.135.42/canal10/canal10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13
-http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13*
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
 
 
