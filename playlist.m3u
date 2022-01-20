@@ -68,8 +68,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.jpg" group-title="Mexico", TVP Obregon
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/641_UMTV.png" group-title="Mexico", UMTV
-https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.jpg"  group-title="Mexico", Alcance TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/649_TVP_Mazatlan.jpg" group-title="Mexico", TVP Mazatlan
@@ -80,12 +79,6 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="Mexico", Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/683_TRC_TV_Campeche.png" group-title="Mexico", TRC TV Campeche
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo.png" group-title="Mexico", Telemax Hermosillo
-http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="772" tvg-name="Canal Once Mexico" tvg-logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="Mexico", Canal Once
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png" group-title="Mexico", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
@@ -101,12 +94,10 @@ https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?Play
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="639" tvg-name="Canal 7 SLP" tvg-logo="https://www.m3u.cl/logo/639_Canal_7_SLP.png" group-title="Mexico", Canal 7 SLP
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="665" tvg-name="Canal Once Nacional" tvg-logo="https://www.m3u.cl/logo/665_Canal_Once_Nacional.png" group-title="Mexico", Canal Once Nacional
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="634" tvg-name="Central FM" tvg-logo="https://www.m3u.cl/logo/634_Central_FM.png" group-title="Mexico", Central FM
 https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="653" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/653_Conecta_TV.png" group-title="Mexico", Conecta TV
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="645" tvg-name="Genesis TV" tvg-logo="https://www.m3u.cl/logo/645_Genesis_TV.png"group-title="Mexico", Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="637" tvg-name="Jalisco TV" tvg-logo="https://www.m3u.cl/logo/637_Jalisco_TV.png" group-title="Mexico", Jalisco TV
@@ -131,8 +122,7 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8?PlaylistM3UCL
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://www.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" group-title="Mexico", SIZART Canal 24 Zacatecas
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="677" tvg-name="Telemar Campeche" tvg-logo="https://www.m3u.cl/logo/677_Telemar_Campeche.png" group-title="Mexico", Telemar Campeche
-https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Mexico", Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="Mexico", Multimedios Laguna
@@ -299,8 +289,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/21993_468.png" group-title="Entretenimiento", Tv Pop
-http://v3.tustreaming.cl/tvpop/live1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", TVMax
 http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
@@ -325,8 +313,6 @@ http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wn.png" group-title="Internacional", Wather Nation (USA)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
 
-#EXTINF:-1, Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="Internacional", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
@@ -344,20 +330,6 @@ http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 
 
-
-
-#EXTINF:1,CANAL 8
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1,CRIMEN E INVESTIGACION
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AD1LgcZ.png" group-title="Entretenimiento",Efekto TV HD
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
 
 
 
