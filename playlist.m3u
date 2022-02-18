@@ -6,9 +6,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="Infantiles",TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:0,Youtube Live
-https://youtu.be/9Auq9mYxFEE,live
-
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d" group-title="Deportes", Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW" group-title="Deportes", TELEMAX 
