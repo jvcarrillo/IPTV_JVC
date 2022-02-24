@@ -34,6 +34,12 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png"  group-title="Musica", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="Musica",Maxima Radio y Videos
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 group-title="Musica",Musica 80
+https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="Musica",Antena Uno Ecuador
+https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 
 
 
@@ -276,7 +282,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWqq06v.png" group-title="REPUBLICA DOMINICANA", Xtremo Channel Zol | SD
 http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="REPUBLICA DOMINICANA",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 
 
@@ -290,8 +297,7 @@ http://37.187.7.106/hechostv/live.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
 
 
 
@@ -3440,8 +3446,6 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 #EXTINF:-1,MUSICA:Urban 106.1 (Argentina)
 http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
 
-#EXTINF:-1,DOMINICANA:CANAL 5
-http://www.radiosargentina.com.ar/php/tvm3u.php?
 
 id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 
@@ -3580,116 +3584,12 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"fiesta-de-bodas
-http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"sacrificio
-http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"robocop defensor del futuro
-http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"el gran robo
-http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"un perdedor sin suerte
-http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"zona de miedo
-http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"el dia del apocalipsis
-http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"impacto mortal
-http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"la pantera rosa
-http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="ESTRENOS", Chucky El MuÃ±eco Diabolico II (TERROR)
 http://bit.ly/MRAQCCHUK2
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"hallowen
-http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
 
-#EXTINF:-1Fiesta-de-bodas
-http://iptvperu@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?
-
-#EXTINF:-1Hermanos grimm
-http://iptvperu@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
-
-#EXTINF:-1Ilusionista
-http://iptvperu@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?
-
-#EXTINF:-1Espia Por accidente
-http://iptvperu@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
-
-#EXTINF:-1.:hallowen
-http://iptvperu@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
-
-#EXTINF:-1.:un vuelo de locura
-http://iptvperu@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
-
-#EXTINF:-1.:volver al futuro 3
-https://iptvperu@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-
-#EXTINF:-1.:el gran robo
-http://iptvperu@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4
-
-#EXTINF:-1.:el dia del apocalipsis
-http://iptvperu@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
-
-#EXTINF:-1.:impacto mortal
-http://iptvperu@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4
-
-#EXTINF-1espia Por accidente
-http://iptvperu@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
-
-#EXTINF:-1.:volver al futuro 3
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-
-#EXTINF:-1.:hermanos grimm
-http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:ilusionista
-http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:espia Por accidente
-http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:sacrificio
-http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:robocop defensor del futuro
-http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:la pantera rosa
-http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:alto impacto
-http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:el senor de la guerra
-http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:un perdedor sin suerte
-http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:zona de miedo
-http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:la marca de la bestia
-http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1.:impacto mortal
-http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1 channelId="-1" , GENEPELICULAS:un vuelo de locura
-http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="ESTRENOS", ANGRY BIRDS
-http://iptvperu@goo.gl/3KGMLf
 
 #EXTINF:-1 tvg-logo="http://tvpacifico.mx/portal/images/logos/tgp_logo_facebook.jpg" group-title="MEXICO", TVP MAZATLÃN
 https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w829019339_b1428000_sleng.m3u8
@@ -3985,16 +3885,8 @@ http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
 http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="RADIOTV",Musica 80
-https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="RADIOTV",Antena Uno Ecuador
-https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/apEd49LOyxs/maxresdefault.jpg" group-title="REGIONALES",UTA RTV
 https://593b04c4c5670.streamlock.net/uta/uta/playlist.m3u8
@@ -4101,8 +3993,7 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6CDOD3.jpg" group-title="UK",QVC Extra
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="AUSTRALIA",Bloomberg TV
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RURzxJj.png" group-title="ST KITTS",ZIZ
 http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
@@ -4278,11 +4169,6 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u
 #EXTINF:-1 tvg-logo="http://carivision.online/wp-content/uploads/2017/10/unnamed-17.png",Carivision
 http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LqKWLS.png" group-title="DOMINICAN REP",Telemicro 5 (Opt-1)
-http://stream.grupotelemicro.com/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LqKWLS.png" group-title="DOMINICAN REP",Telemicro 5 (Opt-2)
-http://stream.grupotelemicro.com/hd.m3u8
 
 #EXTINF:0 tvg-logo="http://www.redpalenque.com/img/pcm4.png" group-title="BOLIVIA",Palenque TV
 http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
@@ -4582,47 +4468,8 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 #EXTINF:-1,PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
-#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
-https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/b1/f9/55b1f928966e3936dc58d91f6a6662e5.jpg" group-title="MOVIES",Interstellar
-https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
 
-#EXTINF:-1 tvg-logo="http://www.tangodiscos.com.co/sites/default/files/7707334658640.jpg" group-title="MOVIES" group-title="MOVIES",Los Ilusionistas
-https://ia601907.us.archive.org/25/items/Los.Ilusionistas/Los.Ilusionistas.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Cars 2
-https://ia800801.us.archive.org/30/items/MilOchoMil005/MilOchoMil_005.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Alicia En El Pais de Las Maravillas
-https://ia800809.us.archive.org/16/items/MilOchoMil001/MilOchoMil_001.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",VALERIAN Y LA CIUDAD DE MIL PLANETAS
-https://ia800803.us.archive.org/21/items/ValeSRREGIO/ValeSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",ATOMICA
-https://ia800101.us.archive.org/27/items/AtoSRRegio/AtoSRRegio.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",La Momia
-https://ia600801.us.archive.org/23/items/CalaveraTieneHambre/calavera%20tiene%20hambre.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",HUYE GET OUT
-https://ia800803.us.archive.org/14/items/Cheverefans0012017/cheverefans%200012017.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",STRIPTEASE
-https://ia800803.us.archive.org/22/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
-
-#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Bambi
-https://ia800804.us.archive.org/12/items/MilOchoMil003/MilOchoMil_003.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pyikxp92lwce7jz/daniel.jpg" group-title="MOVIES", DANIEL EL TRAVIESO (CLASICA)
-https://ia800605.us.archive.org/3/items/31052017_201705678678687687/31052017.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="MOVIES",Deadpool
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/puuppo3e30bknzg/civilwar.jpg" group-title="MOVIES",Civil War
-https://ia800103.us.archive.org/23/items/CiWaSRREGIO/CiWaSRREGIO.mp4
 
 #EXTINF:-1 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound |
 http://srregio.xyz/mudbound
