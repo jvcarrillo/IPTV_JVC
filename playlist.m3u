@@ -58,6 +58,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-logo="http://www.crtvg.es/files/web/20170619205043_CanalInfantil.png" group-title="España",TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
@@ -3925,8 +3927,6 @@ http://tecnotv.xyz/id=multi20/peliculas/labellaylabestia.php
 #EXTINF:-1,a Super 3
 http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
 
-#EXTINF:-1 group-title="Estrenos",c Moana
-http://cecegeek@goo.gl/FQ2PRH
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ua/HDFL.png" group-title="MODA",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
@@ -4205,11 +4205,9 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="BRAZIL",TV INES
 http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
 
-#EXTINF:0 tvg-logo="https://www.diariodesevilla.es/resources/images/0001688255.jpg" group-title="SPAIN",La Banda
-https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.crtvg.es/files/web/20170619205043_CanalInfantil.png" group-title="SPAIN",TVG Xabarin
-http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO",TVP Los Mochis
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
