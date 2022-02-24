@@ -302,68 +302,6 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
 
 
-#EXTINF:-1, hbo2 dual (eng esp) www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.achoapps.com
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2 www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,CARTOON NETWORK www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1,MAXPRIME www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-
-#EXTINF:-1,UNIVERSALCH www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-
-#EXTINF:-1, fox premium comedy (eng) www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
-
-#EXTINF:-1, ESPN 2 www.achoapps.com
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, Animal Planet www.achoapps.com
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-
-#EXTINF:-1 tvg-id="I237.58625.schedulesdirect.org" tvg-logo="http://glamorouspaper.com/wp-content/uploads/2015/01/1280px-Bravo_TV.svg1_-e1421734684867.png" group-title="USA TV",BRAVO
-http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
-
-#EXTINF:-1 tvg-id="I210.10091.schedulesdirect.org" tvg-logo="https://pbs.twimg.com/profile_images/468743413148307456/pPQ4QTwi.jpeg" group-title="USA TV",CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.catchuk.org/wp-content/uploads/2016/07/Catch-Finals-FULL-COLOUR.png" group-title="USA TV",CATCH 2
-http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://stluciatimes.com/wp-content/uploads/2015/11/Flow_Sports_logo-770x470.jpg" group-title="USA TV",FLOW SPORTS
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="USA",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1,NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1,HBO 2 International
-http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,TELE RED
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
 #EXTINF:-1,PYC TELEVISIÃ“N
 http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
