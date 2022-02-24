@@ -3577,11 +3577,6 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,PERU:Radio San Borja 91.1 FM Lima
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2wTZUm6" group-title="PELICULAS", Alien Covenant (2017)
-http://bit.ly/2wZ6k10
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2wZc4t9" group-title="PELICULAS", Sandy Wexler (2017)
-http://bit.ly/2wVc9yV
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DKMkuk" group-title="MOVIES"fiesta-de-bodas
 http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4
@@ -3993,14 +3988,10 @@ http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:0 tvg-logo="https://i.imgur.com/5muDweJ.png" group-title="RADIOTV",Maxima Radio y Videos
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/3228.v3.png" group-title="RADIOTV",Radio Camila Tv
-http://190.107.176.55:1935/live/archi-camila/chunklist_w555256191.m3u8
 
 #EXTINF:-1 group-title="RADIOTV",Musica 80
 https://593b04c4c5670.streamlock.net/8026/8026/playlist.m3u8
 
-#EXTINF:-1 group-title="RADIOTV",RADIO STEFANIA FM
-https://593b04c4c5670.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logod.png" group-title="RADIOTV",Antena Uno Ecuador
 https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8
@@ -4014,11 +4005,6 @@ http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchileyelmundo.xyz/logos/Tec%20Tv.png" group-title="REGIONALES",TEC Television Temuco
 http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tio3Wpw.png" group-title="ESPAÃ‘A", 324 | SD
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8HIM2v.png" group-title="ESPAÃ‘A", Onda Cadiz | SD
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
 https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
@@ -4099,11 +4085,6 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://brannansappliance.com/images/cbc-tv.png" group-title="CANADA",CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK",France 24 English (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="UK",Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6CDOD3.jpg" group-title="UK",QVC
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
@@ -4144,14 +4125,7 @@ http://tv.artcom-venture.de:1322/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tidenet.de/img/navi_tv_logo.png" group-title="GERMANY",Tide TV
 http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png" group-title="AUSTRIA",Oe24
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (Opt-1)
-http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (Opt-2)
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="BELGIUM",Radio Contact 102.2 FM Brussels
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
@@ -4165,26 +4139,14 @@ https://www.djing.com/tv/classics.m3u8
 #EXTINF:0 tvg-logo="http://i67.tinypic.com/jfc9hk.jpg" group-title="FRANCE",DJing Dancefloor
 https://www.djing.com/tv/dancefloor.m3u8
 
-#EXTINF:0 tvg-logo="http://i66.tinypic.com/14loi6w.jpg" group-title="FRANCE",DJing Electro Rock
-https://www.djing.com/tv/session_electro-rock.m3u8
-
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/100_1447183258.png" group-title="FRANCE",DJing Hot Hot Hot
-http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
 
 #EXTINF:0 tvg-logo="http://i63.tinypic.com/av505u.jpg" group-title="FRANCE",DJing Live
 https://www.djing.com/tv/live.m3u8
 
-#EXTINF:0 tvg-logo="http://i64.tinypic.com/efo41x.jpg" group-title="FRANCE",DJing Summer Vibes
-https://www.djing.com/tv/session_summer-vibes.m3u8
-
 #EXTINF:0 tvg-logo="http://i68.tinypic.com/2ztc02c.jpg" group-title="FRANCE",DJing Underground
 https://www.djing.com/tv/underground.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="FRANCE",France 24 (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE",L'Equipe 21
-http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="HAITI",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
@@ -4363,17 +4325,6 @@ http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRmG5kE.jpg" group-title="PANAMA", ECO | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="ESPAÃ‘A", Lebrija TV | SD
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R0XrZJ1.png" group-title="ESPAÃ‘A", Navarra TV | SD
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXHdLeZ.png" group-title="ESPAÃ‘A", Canal 4 Tenerife | SD
-https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPMZ7mM.png" group-title="ESPAÃ‘A", Cancionero TV | SD
-http://89.140.99.41/hls/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", TV Sur | SD
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
