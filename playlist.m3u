@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="Infantiles",TVG Infantil
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cf525dcc-66fc-44fc-af32-5e65453be457/b20c3916-6516-40fe-855a-01d7fce2c6cb.png" group-title="Infantiles",TVG Infantil
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d" group-title="Deportes", Red Bull
@@ -37,7 +37,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UuL-XfE6trU/maxresdefault.jpg" group-title="Peliculas y Series", HORROR TV (Ingles)
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.w_pF4UpWrPTL6ql9uwKQfQHaFd?pid=ImgDet&rs=1" group-title="Peliculas y Series", HORROR TV (Ingles)
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Peliculas y Series", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -62,8 +62,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="Mexico",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/chunklist_w1211325251.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Mexico", RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.jpg" group-title="Mexico", TVP Obregon
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
 
