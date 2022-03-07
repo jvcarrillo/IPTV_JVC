@@ -252,7 +252,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="El Salvador", Canal WOWTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="EL SALVADOR", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SV | Canal 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 10 HD
 http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/739864.ts
