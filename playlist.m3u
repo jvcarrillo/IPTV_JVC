@@ -52,7 +52,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d4
 
 
 
-
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ZKS | M.LaLiga HD 2Mb" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="⚽ FUTB0L Y CANALES ESP4ÑA 2MB ⚽",ZKS | M.LaLiga HD 2Mb
+http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/808031.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ZKS | M.LaLiga FHD 2Mb" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="⚽ FUTB0L Y CANALES ESP4ÑA 2MB ⚽",ZKS | M.LaLiga FHD 2Mb
+http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/806855.ts
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d" group-title="Deportes", Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxOR_rSUfqrTris94x7O7kmFWXC6HWnjjIFH4C_ZNfDrGIU7tW" group-title="Deportes", TELEMAX 
