@@ -5,18 +5,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT-FHD | HBO (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica.png" group-title="LATINOS FHD",LAT-FHD | HBO (CO)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/3679.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT-FHD | HBO 2 (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica.png" group-title="LATINOS FHD",LAT-FHD | HBO 2 (CO)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/3681.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT-FHD | HBO Family (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family.png" group-title="LATINOS FHD",LAT-FHD | HBO Family (CO)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/3680.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT-FHD | HBO Plus (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_plus.png" group-title="LATINOS FHD",LAT-FHD | HBO Plus (CO)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/3678.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT-FHD | HBO pop (CO)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop.png" group-title="LATINOS FHD",LAT-FHD | HBO pop (CO)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/3671.ts
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Infantiles", IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
