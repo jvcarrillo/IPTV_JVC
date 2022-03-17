@@ -254,54 +254,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300" group-title="EL SALVADOR", Canal WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 10 HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/739864.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 10 SD•◘" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 10 SD•◘
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/740888.ts
-#EXTINF:-1 tvg-id="canal12.sv" tvg-name="SV | Canal 12" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/12_el_salvador.png" group-title="EL SALVADOR",SV | Canal 12
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4024.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 17 (Taber)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 17 (Taber)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/31279.ts
-#EXTINF:-1 tvg-id="canal19.sv" tvg-name="SV | Canal 19 (Megavision)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 19 (Megavision)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4025.ts
-#EXTINF:-1 tvg-id="canal2nacional.sv" tvg-name="SV | Canal 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/2_el_salvador.png" group-title="EL SALVADOR",SV | Canal 2 HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4021.ts
-#EXTINF:-1 tvg-id="canal21.sv" tvg-name="SV | Canal 21 (Megavision)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/21_el_salvador.png" group-title="EL SALVADOR",SV | Canal 21 (Megavision)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4026.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 23 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 23 HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/761564.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 27 (ELIM TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 27 (ELIM TV)
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/740423.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 33 FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 33 FHD 
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/35723.ts
-#EXTINF:-1 tvg-id="canal6nacional.sv" tvg-name="SV | Canal 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/6_el_salvador.png" group-title="EL SALVADOR",SV | Canal 6
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/714292.ts
-#EXTINF:-1 tvg-id="canal6nacional.sv" tvg-name="SV | Canal 6 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/6_el_salvador.png" group-title="EL SALVADOR",SV | Canal 6 HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4023.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Centroamerica TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Centroamerica TV FHD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/27359.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Megavision TRV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Megavision TRV
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4027.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Orbita TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Orbita TV
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/35722.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | TCS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | TCS HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/765890.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | TCS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | TCS PLUS
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4030.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Tele1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Tele1 HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/25992.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | TVS Sonsonate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | TVS Sonsonate
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/761571.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Wow TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Wow TV
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4031.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | TVM Television Miguelena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | TVM Television Miguelena
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/783750.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 9 HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/2560px-Flag_of_El_Salvador.svg.png" group-title="EL SALVADOR",SV | Canal 9 HD 
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/787379.ts
-#EXTINF:-1 tvg-id="" tvg-name="SV | Canal 4 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_el_salvador.png" group-title="EL SALVADOR",SV | Canal 4 HD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/793352.ts
-#EXTINF:-1 tvg-id="canal4nacional.sv" tvg-name="SV | Canal 4 SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/4_el_salvador.png" group-title="EL SALVADOR",SV | Canal 4 SD
-http://seecloud.ddns.net:8080/live/enriqueduenas/X8HTPNzrOl/4022.ts
+
 
 
 
