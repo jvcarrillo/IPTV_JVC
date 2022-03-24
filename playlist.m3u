@@ -233,7 +233,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Películas", Lancelot TV PELI
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="http://51.222.152.107:81/posters/1502753114512.jpg" group-title="Películas",De Pelicula
+http://gratuita.mrzutv.net:2082/22222222222222222222222mrzutvvvvv2222222222222222222222222mexiqueandositemexiqueandositemexiqu878wwww7eandfffffositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3045
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Clasico" tvg-logo="http://51.222.152.107:81/posters/1618974359150.png" group-title="Películas",De Pelicula Clasico
+http://gratuita.mrzutv.net:2082/22222222222222222222222mrzutvvvvv2222222222222222222222222mexiqueandositemexiqueandositemexiqu878wwww7eandfffffositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3046
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="http://51.222.152.107:81/posters/1596473814534.jpg" group-title="Películas",De Pelicula Plus
+http://gratuita.mrzutv.net:2082/22222222222222222222222mrzutvvvvv2222222222222222222222222mexiqueandositemexiqueandositemexiqu878wwww7eandfffffositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3047
 
 
 
