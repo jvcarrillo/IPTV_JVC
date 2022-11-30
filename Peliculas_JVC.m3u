@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Accion", Noelle (2019)
-https://onedrive.live.com/download.aspx?authkey=%21ADiWZXmdUyRccSE&cid=D5072BBB4F142590&resid=D5072BBB4F142590%217662&parId=D5072BBB4F142590%212380&o=OneUp
+
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIF.G0lPemwsdgcuw5hCLcKoqA?pid=ImgDet&rs=1" group-title="Deporte", Partidos Quatar 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIF.G0lPemwsdgcuw5hCLcKoqA?pid=ImgDet&rs=1" group-title="Deporte", Partidos Quatar 2
+https://yeszet1x1cdn22.streamingrdp.com/hlsbp1/ebp1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIF.G0lPemwsdgcuw5hCLcKoqA?pid=ImgDet&rs=1" group-title="Deporte", Partidos Quatar 3
+https://d3j1g55es9n34h.cloudfront.net/virginia/11e2c436-328f-405b-835e-20be11848c6e/live/2c56fab3-37fd-4975-a93c-b2c8a8974b75/master.m3u8
