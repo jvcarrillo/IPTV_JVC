@@ -1,4 +1,2563 @@
 #EXTM3U
+#EXTINF:0 group-title="General",13 C
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pm
+#EXTINF:0 group-title="Entretenimiento",A&E HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mt
+#EXTINF:0 group-title="Entretenimiento",AE Mundo
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t2
+#EXTINF:0 group-title="Peliculas",AMC HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n2
+#EXTINF:0 group-title="Latinoamerica",ATV
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sp
+#EXTINF:0 group-title="Peliculas",AXN HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q0
+#EXTINF:0 group-title="Entretenimiento",Adult Swim
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pk
+#EXTINF:0 group-title="Latinoamerica",America TV PY
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ss
+#EXTINF:0 group-title="Documentales",Animal Planet
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0po
+#EXTINF:0 group-title="General",Atres Series
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n0
+#EXTINF:0 group-title="Religion",BETHEL TV
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pn
+#EXTINF:0 group-title="Entretenimiento",Baby First
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sw
+#EXTINF:0 group-title="Colombia",CANAL 1
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s2
+#EXTINF:0 group-title="Colombia",CANAL INSTITUCIONAL
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l8
+#EXTINF:0 group-title="Colombia",CARACOL TV HD
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l0
+#EXTINF:0 group-title="Chile",CHV
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r0
+#EXTINF:0 group-title="Chile",CNN Chile
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qp
+#EXTINF:0 group-title="Noticias",CNN EspaÃ±ol
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:0 group-title="Chile",Canal 13
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n4
+#EXTINF:0 group-title="Chile",Canal 24 Horas
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qr
+#EXTINF:0 group-title="Colombia",Canal Caracol
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sb
+#EXTINF:0 group-title="Colombia",Canal RCN
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sc
+#EXTINF:0 group-title="General",Canal TUVES
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q8
+#EXTINF:0 group-title="General",Canal del Congreso
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0se
+#EXTINF:0 group-title="Chile",Capital
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sj
+#EXTINF:0 group-title="Entretenimiento",Cartoon Network HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0oz
+#EXTINF:0 group-title="Peliculas",Cinecanal
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:0 group-title="Colombia",City TV
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0si
+#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:0 group-title="Infantiles",DHE HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:0 group-title="Peliculas",De Pelicula
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qb
+#EXTINF:0 group-title="Infantiles",Discovery Kids HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p0
+#EXTINF:0 group-title="Documentales",Discovery Science
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p8
+#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n8
+#EXTINF:0 group-title="Entretenimiento",Disney Jr.
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p7
+#EXTINF:-1 group-title="-",Disney Channel
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="-",Disney HD
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="-",Disney Jr
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",Distrito Comedia
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="-",E Entertainment
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 (N1)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 (N3)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a09t/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a094/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0de/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7 (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD (N2)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD (N1)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a09d/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD (N)
+#EXTGRP:-
+http://190.60.52.28:5001/play/a0fz/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s7
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qj
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s6
+#EXTINF:0 group-title="Deportes",ESPN 4 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s9
+#EXTINF:0 group-title="Deportes",ESPN 5 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s5
+#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s3
+#EXTINF:0 group-title="Deportes",ESPN 7 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s8
+#EXTINF:0 group-title="Chile",ETC
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mn
+#EXTINF:0 group-title="Religion",EWTN
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ph
+#EXTINF:0 group-title="General",Ecuavisa
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ov
+#EXTINF:0 group-title="General",Ecuavisa
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sd
+#EXTINF:0 group-title="General",El Gourmet HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mv
+#EXTINF:0 group-title="Religion",Enlace
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pj
+#EXTINF:0 group-title="Deportes",Espn Premium
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r2
+#EXTINF:0 group-title="Peliculas",FX HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q5
+#EXTINF:0 group-title="General",Food Network
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qt
+#EXTINF:0 group-title="Noticias",France 24
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sm
+#EXTINF:0 group-title="Deportes",GOL TV
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t0
+#EXTINF:0 group-title="General",GamavisiÃ³n
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ox
+#EXTINF:0 group-title="Peliculas",HBO
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qd
+#EXTINF:0 group-title="Peliculas",HBO Xtreme HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:0 group-title="General",HEI HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mx
+#EXTINF:0 group-title="Documentales",HGTV
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pf
+#EXTINF:0 group-title="General",HOLA TV HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pw
+#EXTINF:0 group-title="Documentales",History Channel
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0st
+#EXTINF:0 group-title="Documentales",Home & Health HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p2
+#EXTINF:0 group-title="Documentales",Home and Health
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sn
+#EXTINF:0 group-title="General",ID
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sl
+#EXTINF:0 group-title="Deportes",L1 MAX
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ql
+#EXTINF:0 group-title="Musica",LA KALLE
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l3
+#EXTINF:0 group-title="Chile",La Red
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qq
+#EXTINF:0 group-title="General",Las Estrellas HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qu
+#EXTINF:0 group-title="Entretenimiento",Lifetime
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pi
+#EXTINF:0 group-title="Chile",MEGA HD
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qn
+#EXTINF:0 group-title="Entretenimiento",MTV HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0nc
+#EXTINF:0 group-title="Chile",Mega
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r1
+#EXTINF:0 group-title="Documentales",Nat Geo HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pt
+#EXTINF:0 group-title="Entretenimiento",Nick Jr.
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p9
+#EXTINF:0 group-title="Entretenimiento",Nickelodeon HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:0 group-title="EspaÃ±a",PARAVISION
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sf
+#EXTINF:0 group-title="Latinoamerica",Panamericana TV
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0so
+#EXTINF:0 group-title="Peliculas",Pasiones HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qh
+#EXTINF:0 group-title="General",Playboy HD
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mm
+#EXTINF:0 group-title="EspaÃ±a",RAI Italia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mp
+#EXTINF:0 group-title="Colombia",RCN HD
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l4
+#EXTINF:0 group-title="Colombia",RCN Novelas
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sk
+#EXTINF:0 group-title="General",REC TV
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qc
+#EXTINF:0 group-title="Colombia",SEÃAL COLOMBIA
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l7
+#EXTINF:0 group-title="Religion",Sin Limites
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sr
+#EXTINF:0 group-title="Peliculas",Sony HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0py
+#EXTINF:0 group-title="Peliculas",Sony Movies
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p5
+#EXTINF:0 group-title="Peliculas",Space HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q2
+#EXTINF:0 group-title="Deportes",Sun Channel HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qz
+#EXTINF:0 group-title="Colombia",TELECARIBE
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0lb
+#EXTINF:0 group-title="Documentales",TLC
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pa
+#EXTINF:0 group-title="Documentales",TLC
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t3
+#EXTINF:0 group-title="Peliculas",TNT Novelas HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0na
+#EXTINF:0 group-title="Deportes",TNT SPORTS
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:0 group-title="Deportes",TNT Sports Premium SD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q9
+#EXTINF:0 group-title="Colombia",TRO
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sh
+#EXTINF:0 group-title="Chile",TV+
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qo
+#EXTINF:0 group-title="EspaÃ±a",TVE
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pl
+#EXTINF:0 group-title="Latinoamerica",Teleamazonas
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ow
+#EXTINF:0 group-title="Latinoamerica",Telefuturo
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sv
+#EXTINF:0 group-title="General",TelefÃ©
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pg
+#EXTINF:0 group-title="Colombia",Televicentro
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0oy
+#EXTINF:0 group-title="Peliculas",Tlnovelas
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t6
+#EXTINF:0 group-title="Entretenimiento",Tooncast
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pe
+#EXTINF:0 group-title="EspaÃ±a",Trece
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sq
+#EXTINF:0 group-title="Deportes",TyC
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t1
+#EXTINF:0 group-title="Peliculas",UNIVERSAL CHANNEL HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mw
+#EXTINF:0 group-title="Chile",ViaX
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0t4
+#EXTINF:0 group-title="Peliculas",Warner
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:0 group-title="Peliculas",Warner TV HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:0 group-title="Deportes",Win Sports+ HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:0 group-title="Latinoamerica",Zona Latina
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0su
+#EXTINF:0 group-title="Chile",Zoom
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/BBC_News_2022.svg" group-title="Noticias",BBC News
+#EXTGRP:Noticias
+https://news.files.bbci.co.uk/include/articles/public/tv-news-app/hls/bbc_world_news.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Al_Jazeera_English_logo.svg" group-title="Noticias",Al Jazeera English
+#EXTGRP:Noticias
+https://live-hls-web-aje.akamaized.net/m3u8/out/v1/f247f6eb2bda49dbbb03910b80459892/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/France_24_logo.svg" group-title="Noticias",France 24 English
+#EXTGRP:Noticias
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Documentales",NASA TV
+#EXTGRP:Documentales
+https://ntv1.akamaized.net/hls/live/2014049/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_de_la_Televisi%C3%B3n_P%C3%BAblica.svg" group-title="EspaÃ±a",TVE La 1
+#EXTGRP:EspaÃ±a
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TVE_2_2008.svg" group-title="EspaÃ±a",TVE La 2
+#EXTGRP:EspaÃ±a
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/24_horas_tve_logo.svg" group-title="EspaÃ±a",TVE 24h
+#EXTGRP:EspaÃ±a
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Tubi_logo_%282024%29.svg" group-title="Deportes",Tubi Sports
+#EXTGRP:Deportes
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Chilevisi%C3%B3n_2018.svg" group-title="Chile",Chilevision
+#EXTGRP:Chile
+https://vmf.edge-online.chv.cl/chv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVN_logo_2020.svg" group-title="Chile",TVN
+#EXTGRP:Chile
+https://rudo.video/live/tvn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Canal_13_logo_2018.svg" group-title="Chile",Canal 13
+#EXTGRP:Chile
+https://rudo.video/live/c13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Mega_2015.png" group-title="Chile",Mega
+#EXTGRP:Chile
+https://rudo.video/live/mega
+#EXTINF:11 group-title="Entretenimiento",AE
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0al/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",AE
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ct/index.m3u8
+#EXTINF:0 group-title="Documentales",ANIMAL PLANET
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0by/index.m3u8
+#EXTINF:0 group-title="General",ANTV
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:0 group-title="Peliculas",AXN
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0am/index.m3u8
+#EXTINF:0 group-title="Peliculas",AXN
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:0 group-title="Documentales",Animal Planet HD AMAZONAS
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a06w/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",BABYTV ENVIADO
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a08d/index.m3u8
+#EXTINF:0 group-title="Musica",BANDAMAX
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:0 group-title="General",BITME
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+#EXTINF:0 group-title="Colombia",CABLE NOTICIAS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0g3/index.m3u8
+#EXTINF:0 group-title="Colombia",CABLE NOTICIAS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+#EXTINF:0 group-title="Colombia",CANAL 1 NACIONAL SIN TRANS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cz/index.m3u8
+#EXTINF:0 group-title="Colombia",CANAL 1 TRANS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0da/index.m3u8
+#EXTINF:0 group-title="General",CANAL 12 VALLEDUPAR
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0e4/index.m3u8
+#EXTINF:0 group-title="Chile",CANAL 13 NACIONAL SIN TRANS
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d4/index.m3u8
+#EXTINF:0 group-title="Chile",CANAL 13 TRANS
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0dj/index.m3u8
+#EXTINF:0 group-title="Chile",CANAL CAPITAL NACIONAL SIN TRANS
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d3/index.m3u8
+#EXTINF:0 group-title="Chile",CANAL CAPITAL TRANS
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0dk/index.m3u8
+#EXTINF:0 group-title="General",CANAL CONGRE NACIONAL SIN TRANS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d2/index.m3u8
+#EXTINF:0 group-title="Colombia",CANAL CONGRESO TRANS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0di/index.m3u8
+#EXTINF:0 group-title="General",CANAL DE LAS ESTRELLAS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0as/index.m3u8
+#EXTINF:0 group-title="Colombia",CANAL TRO TRANS
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0dh/index.m3u8
+#EXTINF:0 group-title="General",CANAL VENEVICION LOCAL
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:0 group-title="General",CANALES NACIONALES
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cy/index.m3u8
+#EXTINF:0 group-title="General",CANALESTRELLAS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+#EXTINF:0 group-title="General",CANALINSTITUCIONAL NACIONAL SIN TRANS
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0d0/index.m3u8
+#EXTINF:0 group-title="Colombia",CARACOL
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:0 group-title="Deportes",Disney 2 (EnvivosLatam)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://yce5o.envivoslatam.org/disney2/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=7e611ad84c777f1a659943e1ff6031115a51cd5f-f8-1773306886-1773252886
+#EXTINF:0 group-title="Deportes",Disney 3 (EnvivosLatam)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://wf6kt.envivoslatam.org/disney3/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=0f75bc004e896b18a3fbf21cfb576f48be430410-3d-1773307511-1773253511
+#EXTINF:0 group-title="Deportes",Disney 4 (EnvivosLatam)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://qbk4f.envivoslatam.org/disney4/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=fa5d584815d7279798e3c7ae64501225b477ae5e-d4-1773307613-1773253613
+#EXTINF:0 group-title="Deportes",TyC Sports (Opcion 2)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://tk0hz.envivoslatam.org/tycsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=17a7c31f5eaa26fb0a78543a6692e6917b39dde4-c2-1773308253-1773254253
+#EXTINF:0 group-title="Deportes",TNT Sports (Opcion 1)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://smjt9q.envivoslatam.org/tntsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=14c985e51f0f63e2b946ba729a7f21571604aee6-38-1773308261-1773254261
+#EXTINF:0 group-title="Deportes",TUDN USA (Opcion 1)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://yce5o.envivoslatam.org/tudn_usa/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=54d68f4f078ac86e5aeb675965cb0e520950292e-80-1773308286-1773254286
+#EXTINF:0 group-title="Deportes",Fox Sports (Opcion 1)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://yce5o.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=f9a7fbc84528d2ff1bbc1af9378a01ccf7502439-6e-1773308295-1773254295
+#EXTINF:0 group-title="Deportes",DSports (Opcion 1)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://iaw5b.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=e3881f524d77731ed02f75541a402153e85aecce-cd-1773308312-1773254312
+#EXTINF:0 group-title="Deportes",ESPN Premium (Opcion 1)
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://mze7u.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=181.163.94.50&token=9a52c9ceae428495d3af1aaa4c348b612ba47d13-8c-1773308337-1773254337
+#EXTINF:0 group-title="Deportes",Televida AR
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:0 group-title="Deportes",Tubi Sports
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
+# === ESPAÃA (nuevos) ===
+#EXTINF:0 group-title="EspaÃ±a",TRECE
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:0 group-title="EspaÃ±a",El Toro TV
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Telemadrid
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",La Otra
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://laotra-1-23.secure2.footprint.net/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",TV3
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",324
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",ETB 1
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",ETB 2
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",TVG Galicia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="EspaÃ±a",TVG 2
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="EspaÃ±a",A Punt Valencia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Aragon TV
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Canal Sur Andalucia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Negocios TV
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:0 group-title="EspaÃ±a",El Confidencial
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Kidz (Atresplayer)
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Flooxer
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Atresplayer Clasicos
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Atresplayer Comedia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:0 group-title="EspaÃ±a",El Hormiguero
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:0 group-title="EspaÃ±a",El Club de la Comedia
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Equipo de Investigacion
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Fisica o Quimica
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+#EXTINF:0 group-title="EspaÃ±a",RTVE Crimen
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:0 group-title="EspaÃ±a",RTVE Epoca
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+#EXTINF:0 group-title="EspaÃ±a",RTVE Cuentame
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:0 group-title="EspaÃ±a",RTVE Somos Cine
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:0 group-title="EspaÃ±a",RTVE Docs
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/6987938.m3u8
+#EXTINF:0 group-title="EspaÃ±a",HOLA! Play
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+#EXTINF:0 group-title="EspaÃ±a",Canal Parlamento
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:0 group-title="EspaÃ±a",TVE Internacional Europa
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:0 group-title="EspaÃ±a",El Pais TV
+#EXTGRP:EspaÃ±a
+#EXTVLCOPT:network-caching=1000
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+# === EUROPA & INTERNACIONAL ===
+#EXTINF:0 group-title="Europa",DW EspaÃ±ol
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 group-title="Europa",Das Erste (ARD)
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:0 group-title="Europa",Sky News
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+#EXTINF:0 group-title="Europa",RTP 1 Portugal
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0 group-title="Europa",RTP 2 Portugal
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:0 group-title="Europa",RTP Internacional
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpint.smil/playlist.m3u8
+#EXTINF:0 group-title="Europa",TV5Monde Europe
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0 group-title="Europa",Bloomberg Europe
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:0 group-title="Europa",BFM TV
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:0 group-title="Europa",La7 Italia
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:0 group-title="Europa",Sport Italia
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:0 group-title="Europa",Tagesschau24 (Alemania)
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:0 group-title="Europa",CNN Internacional
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:0 group-title="Europa",Euronews EspaÃ±ol
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:0 group-title="Europa",France 24 EspaÃ±ol
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="Europa",France 24 Frances
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="Europa",France 24 Ingles
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="Europa",EITB Basque
+#EXTGRP:Europa
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+# === PELICULAS & SERIES (Xtrema / cnarlatam) ===
+#EXTINF:0 group-title="Peliculas",Xtrema Accion
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Asia
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Drama
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Europa
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Hindi
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Latina
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Suspenso
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Terror
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Comedia
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Familia
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Anime
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Serie Xtrema
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Retro Series
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Xtrema Retro Infantil
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Cine.Ar
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0 group-title="Peliculas",Zonda TV
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+# === INFANTILES ===
+#EXTINF:0 group-title="Infantiles",Cartoon Network Latino
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:0 group-title="Infantiles",Pequeradio TV
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+# === DEPORTES (168.232.168.242) ===
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05e/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05q/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05g/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN 4 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05j/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN 5 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05o/index.m3u8
+#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05h/index.m3u8
+#EXTINF:0 group-title="Deportes",FOX Sports 3 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01v/index.m3u8
+#EXTINF:0 group-title="Deportes",SKY Sport
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04g/index.m3u8
+#EXTINF:0 group-title="Deportes",Golf Channel HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01z/index.m3u8
+#EXTINF:0 group-title="Deportes",Tigo Sports HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04w/index.m3u8
+#EXTINF:0 group-title="Deportes",Claro Sports 2 HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a03h/index.m3u8
+#EXTINF:0 group-title="Deportes",Deportes Latinoamerica
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a03w/index.m3u8
+
+# === ENTRETENIMIENTO (168.232.168.242) ===
+#EXTINF:0 group-title="Entretenimiento",A&E HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00b/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",AMC HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00c/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",AXN HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00h/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",FOX HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01p/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",FOX Action HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01l/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",FOX Comedy HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01n/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",FOX Life
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01q/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",FX HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01w/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",FX Peliculas HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01x/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",TNT HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a033/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",TNT Series HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a034/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Warner HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a03a/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Sony HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02t/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00x/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Space HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02u/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Universal
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a037/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Paramount HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02m/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",TLC
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a032/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",E! Entretenimiento HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01b/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Lifetime
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a029/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Studio Universal HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02w/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",Sundance HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04l/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",El Gourmet
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a053/index.m3u8
+#EXTINF:0 group-title="Entretenimiento",HTV
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a03z/index.m3u8
+
+# === PELICULAS (168.232.168.242) ===
+#EXTINF:0 group-title="Peliculas",HBO HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a022/index.m3u8
+#EXTINF:0 group-title="Peliculas",HBO 2 HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a025/index.m3u8
+#EXTINF:0 group-title="Peliculas",HBO Plus HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a023/index.m3u8
+#EXTINF:0 group-title="Peliculas",HBO Family HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a021/index.m3u8
+#EXTINF:0 group-title="Peliculas",HBO Xtreme
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a024/index.m3u8
+#EXTINF:0 group-title="Peliculas",Cinecanal HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00t/index.m3u8
+#EXTINF:0 group-title="Peliculas",Cinemax
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00u/index.m3u8
+#EXTINF:0 group-title="Peliculas",Cine Latino
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00s/index.m3u8
+#EXTINF:0 group-title="Peliculas",TCM
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02y/index.m3u8
+#EXTINF:0 group-title="Peliculas",FOX Movies HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01s/index.m3u8
+#EXTINF:0 group-title="Peliculas",Fox Classic HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01m/index.m3u8
+#EXTINF:0 group-title="Peliculas",Golden
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01y/index.m3u8
+#EXTINF:0 group-title="Peliculas",Golden Premiere HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a051/index.m3u8
+#EXTINF:0 group-title="Peliculas",Multipremier
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02f/index.m3u8
+#EXTINF:0 group-title="Peliculas",Discovery Theater HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a015/index.m3u8
+#EXTINF:0 group-title="Peliculas",Cine Arte HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a057/index.m3u8
+#EXTINF:0 group-title="Peliculas",Multicinema
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a040/index.m3u8
+
+# === DOCUMENTALES (168.232.168.242) ===
+#EXTINF:0 group-title="Documentales",National Geographic HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02i/index.m3u8
+#EXTINF:0 group-title="Documentales",Nat Geo Wild HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02g/index.m3u8
+#EXTINF:0 group-title="Documentales",Historia HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a026/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery Channel HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a010/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery Science
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a014/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery ID HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a013/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a017/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a016/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery Civilization
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a011/index.m3u8
+#EXTINF:0 group-title="Documentales",Discovery Hogar y Salud
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a012/index.m3u8
+#EXTINF:0 group-title="Documentales",H2
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a020/index.m3u8
+#EXTINF:0 group-title="Documentales",Animal Planet HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00d/index.m3u8
+
+# === NOTICIAS (168.232.168.242) ===
+#EXTINF:0 group-title="Noticias",CNN Internacional
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00v/index.m3u8
+#EXTINF:0 group-title="Noticias",CNN en Espanol
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00w/index.m3u8
+#EXTINF:0 group-title="Noticias",BBC Mundo
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00m/index.m3u8
+#EXTINF:0 group-title="Noticias",RT Noticias
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a05b/index.m3u8
+
+# === MUSICA (168.232.168.242) ===
+#EXTINF:0 group-title="Musica",MTV HD
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02c/index.m3u8
+#EXTINF:0 group-title="Musica",MTV Hits
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02d/index.m3u8
+#EXTINF:0 group-title="Musica",VH1 HD
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a043/index.m3u8
+#EXTINF:0 group-title="Musica",VH1 Classic
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a048/index.m3u8
+#EXTINF:0 group-title="Musica",Canal de Conciertos
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04y/index.m3u8
+#EXTINF:0 group-title="Musica",Exa TV
+#EXTGRP:Musica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01i/index.m3u8
+
+# === INFANTILES (168.232.168.242) ===
+#EXTINF:0 group-title="Infantiles",Disney Channel
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a018/index.m3u8
+#EXTINF:0 group-title="Infantiles",Disney Jr
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a019/index.m3u8
+#EXTINF:0 group-title="Infantiles",Disney XD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a01a/index.m3u8
+#EXTINF:0 group-title="Infantiles",Nickelodeon
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02l/index.m3u8
+#EXTINF:0 group-title="Infantiles",Nick Jr
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02j/index.m3u8
+#EXTINF:0 group-title="Infantiles",Discovery Kids HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a03m/index.m3u8
+#EXTINF:0 group-title="Infantiles",Baby TV
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00l/index.m3u8
+#EXTINF:0 group-title="Infantiles",Boomerang
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a00n/index.m3u8
+#EXTINF:0 group-title="Infantiles",Nat Geo Kids
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02h/index.m3u8
+#EXTINF:0 group-title="Infantiles",ZooMoo
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a03b/index.m3u8
+#EXTINF:0 group-title="Infantiles",Semillitas
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02s/index.m3u8
+
+# === LATINOAMERICA (168.232.168.242) ===
+#EXTINF:0 group-title="Latinoamerica",AMERICA TV Argentina
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04b/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",Azteca 7 Mexico
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04s/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",Canal 5 Mexico
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04r/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",Multimedios Monterrey
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a058/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",Telemundo HD
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02z/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",Univision HD
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a038/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",RCN Novelas
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a02o/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",TL Novelas
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a04q/index.m3u8
+#EXTINF:0 group-title="Latinoamerica",TVChile
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://168.232.168.242:4000/play/a036/index.m3u8
+
+# === FUENTES ONLINE (playlist externas) ===
+#EXTINF:0 group-title="Fuentes Online",PlutoTV Chile (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CL.m3u
+#EXTINF:0 group-title="Fuentes Online",PlutoTV Mexico (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
+#EXTINF:0 group-title="Fuentes Online",PlutoTV Argentina (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_AR.m3u
+#EXTINF:0 group-title="Fuentes Online",Samsung TV+ ES (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_ES.m3u
+#EXTINF:0 group-title="Fuentes Online",CanelaTV (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/refs/heads/main/tv/m3u/CanelaTV_tv.m3u
+#EXTINF:0 group-title="Fuentes Online",TDTChannels ES (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://www.tdtchannels.com/lists/tv.m3u
+#EXTINF:0 group-title="Fuentes Online",IPTV-org Mexico (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://iptv-org.github.io/iptv/countries/mx.m3u
+#EXTINF:0 group-title="Fuentes Online",IPTV-org Chile (playlist)
+#EXTGRP:Fuentes Online
+#EXTVLCOPT:network-caching=1000
+https://iptv-org.github.io/iptv/countries/cl.m3u
+
+
+# === FORTV.CC (expira 2026-07) ===
+#EXTINF:0 group-title="Chile",CHILE: MEGA HD [fortv]
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/164883.m3u8
+
+#EXTINF:0 group-title="Chile",CHILE: CHILEVISION HD [fortv]
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/164884.m3u8
+
+#EXTINF:0 group-title="Chile",CHILE: 13I [fortv]
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/164885.m3u8
+
+#EXTINF:0 group-title="Chile",CHILE: TVN CHILE HD [fortv]
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/164888.m3u8
+
+#EXTINF:0 group-title="Chile",CHILE: CNN CHILE HD [fortv]
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/164892.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet East (D)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/41836.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet One (E) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/10247.m3u8
+
+#EXTINF:0 group-title="Sports",CA TSN 4 HD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/16130.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet 360 HD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/2219.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet Ontario (FHD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/11649.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet Pacific (FHD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9860.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet West (FHD) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20975.m3u8
+
+#EXTINF:0 group-title="Sports",CA Sportsnet World HD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/75675.m3u8
+
+#EXTINF:0 group-title="Sports",CA TSN 1 (E) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57292.m3u8
+
+#EXTINF:0 group-title="Sports",CA TSN 2 (R) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/16129.m3u8
+
+#EXTINF:0 group-title="Sports",CA TSN 3 HD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/10389.m3u8
+
+#EXTINF:0 group-title="Sports",CA TSN 5 HD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/16131.m3u8
+
+#EXTINF:0 group-title="Sports",Carib ESPN [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/66372.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports Florida (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/46794.m3u8
+
+#EXTINF:0 group-title="Sports",US Willow Cricket (S) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/58847.m3u8
+
+#EXTINF:0 group-title="Sports",UK-Sky Sports Arena [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/35238.m3u8
+
+#EXTINF:0 group-title="Sports",UK Sky Sports Golf FHD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/35240.m3u8
+
+#EXTINF:0 group-title="Sports",UK-Sky Sports Main Event [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/35243.m3u8
+
+#EXTINF:0 group-title="Sports",UK-Sky Sports News [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/35241.m3u8
+
+#EXTINF:0 group-title="Sports",US Willow Cricket (X) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/41979.m3u8
+
+#EXTINF:0 group-title="Sports",UK Sky Sports Cricket FHD (D) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/45940.m3u8
+
+#EXTINF:0 group-title="Sports",UK Sky Sports F1 FHD [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/35244.m3u8
+
+#EXTINF:0 group-title="Sports",UK: SKY SP RACING FHD [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/76842.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Network (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/46725.m3u8
+
+#EXTINF:0 group-title="Sports",US: WWE NETWORK [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/11645.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports Detroit (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20930.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports Midwest (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/66795.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports Oklahoma  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20934.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports Southeast  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/2213.m3u8
+
+#EXTINF:0 group-title="Sports",US Fanduel Sports Southwest  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/21843.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports West (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20932.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports Wisconsin  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/78599.m3u8
+
+#EXTINF:0 group-title="Sports",PT Eleven Sports 1 FHD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/35264.m3u8
+
+#EXTINF:0 group-title="Sports",US ESPN NEWS [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/17707.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports North (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/58827.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports Detroit  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20936.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports Ohio  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/17752.m3u8
+
+#EXTINF:0 group-title="Sports",US MASN (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/65697.m3u8
+
+#EXTINF:0 group-title="Sports",US MASN2  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/65698.m3u8
+
+#EXTINF:0 group-title="Sports",US MSG2 (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/21089.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Bay Area (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9900.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Boston (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20939.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports California (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20940.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Chicago  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20941.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Network (FHD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20926.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Philly (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20943.m3u8
+
+#EXTINF:0 group-title="Sports",US NBC Sports Washington (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20944.m3u8
+
+#EXTINF:0 group-title="Sports",US NESN (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/31637.m3u8
+
+#EXTINF:0 group-title="Sports",US ESPN SEC Network  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/17608.m3u8
+
+#EXTINF:0 group-title="Sports",US Spectrum SportsNet LA Dodgers (HD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/31636.m3u8
+
+#EXTINF:0 group-title="Sports",US Spectrum SportsNet Lakers (FHD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/21842.m3u8
+
+#EXTINF:0 group-title="Sports",US Tennis Channel [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20184.m3u8
+
+#EXTINF:0 group-title="Sports",US YES Network [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57972.m3u8
+
+#EXTINF:0 group-title="Sports",US Spectrum SportsNet Lakers (FHD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20946.m3u8
+
+#EXTINF:0 group-title="Sports",US ACC Network (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9273.m3u8
+
+#EXTINF:0 group-title="Sports",US Big Ten HD [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9828.m3u8
+
+#EXTINF:0 group-title="Sports",US CBS Sports Network HD  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/10454.m3u8
+
+#EXTINF:0 group-title="Sports",US ESPN 2  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/2210.m3u8
+
+#EXTINF:0 group-title="Sports",US ESPN 1 (HD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/14197.m3u8
+
+#EXTINF:0 group-title="Sports",US ESPN 1 (HD)  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9802.m3u8
+
+#EXTINF:0 group-title="Sports",US ESPNU College Sports  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/10255.m3u8
+
+#EXTINF:0 group-title="Sports",US Fox Sports 1  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/1846.m3u8
+
+#EXTINF:0 group-title="Sports",US Fox Sports 2 (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/1847.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports North (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20928.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports Carolinas (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20929.m3u8
+
+#EXTINF:0 group-title="Sports",US Bally Sports South [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20931.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports South  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20922.m3u8
+
+#EXTINF:0 group-title="Sports",US Marquee Sports Network (HD) (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/13379.m3u8
+
+#EXTINF:0 group-title="Sports",US MAV TV (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20977.m3u8
+
+#EXTINF:0 group-title="Sports",US MSG Plus  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9276.m3u8
+
+#EXTINF:0 group-title="Sports",US MSG (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/21090.m3u8
+
+#EXTINF:0 group-title="Sports",US Golf Channel  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/9806.m3u8
+
+#EXTINF:0 group-title="Sports",US Sportsnet New York (SNY) (A) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/20938.m3u8
+
+#EXTINF:0 group-title="Sports",US Latin TUDN [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/11885.m3u8
+
+#EXTINF:0 group-title="Sports",US Fanduel TV [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/10259.m3u8
+
+#EXTINF:0 group-title="Sports",US TVG2 Network  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/18940.m3u8
+
+#EXTINF:0 group-title="Sports",US VSiN (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/18941.m3u8
+
+#EXTINF:0 group-title="Sports",US Root Sports Network [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/85232.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports Sun  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/104917.m3u8
+
+#EXTINF:0 group-title="Sports",US AT&T SportsNet Pittsburgh [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/108178.m3u8
+
+#EXTINF:0 group-title="Sports",CA One Soccer  [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/135810.m3u8
+
+#EXTINF:0 group-title="Sports",US AT&T SportsNet Southwest (F) [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/136909.m3u8
+
+#EXTINF:0 group-title="Sports",UK: SKY SPORTS ARENA FHD [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/137719.m3u8
+
+#EXTINF:0 group-title="Sports",UK: SKY SPORTS MAIN EVENT HD [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/137720.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports Great Lakes [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/139272.m3u8
+
+#EXTINF:0 group-title="Sports",US NESN PLUS [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/161451.m3u8
+
+#EXTINF:0 group-title="Sports",US (LN) HBCU Go [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/209775.m3u8
+
+#EXTINF:0 group-title="Sports",US FanDuel Sports Socal [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/221151.m3u8
+
+#EXTINF:0 group-title="Sports",Red Bull TV au [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/317109.m3u8
+
+#EXTINF:0 group-title="Sports",Red Bull TV 1 [fortv]
+#EXTGRP:Sports
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/317110.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 02 : PGA Championship: Day Featured Group (First Round) @ May 14 07:30 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321436.m3u8
+
+#EXTINF:0 group-title="ESPN+",#16 & #17 (First Round) @ May 14 07:52 AM ET" tvg-logo="" group-title="ESPN+" - ESPN+ 03 : PGA Championship: Featured Holes #15, #16 & #17 (First Round) @ May 14 07:52 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321437.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 04 : PGA Championship: DeChambeau Featured Group (First Round) @ May 14 08:15 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321438.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 05 : PGA Championship: Koepka Featured Group (First Round) @ May 14 08:25 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321439.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 06 : PGA Championship: McIlroy Featured Group (First Round) @ May 14 08:35 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321440.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 07 : NCAA Men's Team Tennis Championships - Court 3 (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321441.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 08 : NCAA Men's Team Tennis Championships - Court 4 (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321442.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 09 : NCAA Men's Team Tennis Championships - Court 1 (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321443.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 10 : ESPN Radio @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321444.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 11 : NCAA Men's Team Tennis Championships - Court 6 (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321445.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 12 : NCAA Men's Team Tennis Championships - Court 2 (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321446.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 13 : NCAA Men's Team Tennis Championships - Court 5 (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321447.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 14 : Baylor vs. Texas (Quarterfinals) @ May 14 10:00 AM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321448.m3u8
+
+#EXTINF:0 group-title="ESPN+",5/14 - The Rich Eisen Show @ May 14 12:00 PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 15 : Thu, 5/14 - The Rich Eisen Show @ May 14 12:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321449.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 16 : The Pat McAfee Show @ May 14 12:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321450.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 17 : Mecum Auctions: Indianapolis 2026 (Day 2) @ May 14 12:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321451.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 18 : Valencia CF vs. Rayo Vallecano @ May 14 12:50 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321452.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 19 : En Espal-Valencia CF vs. Rayo Vallecano @ May 14 12:55 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321453.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 20 : Big Sky Track & Field Championship (Multi Events) @ May 14 12:55 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321454.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 21 : Siena vs. Canisius @ May 14 01:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321455.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 22 : FA Cup Final Preview Show @ May 14 01:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321456.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 23 : TCU vs. Ohio State (Quarterfinals) @ May 14 01:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321457.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 24 : Girona FC vs. Real Sociedad @ May 14 01:50 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321458.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 25 : Manchester City vs. Manchester United (Final) @ May 14 01:55 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321459.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 26 : En Espal-Girona FC vs. Real Sociedad @ May 14 01:55 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321460.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 27 : Big 12 Outdoor Track & Field Championships presented by Allstate @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321461.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 28 : Flames Central @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321462.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 29 : Mount St. Mary's vs. Niagara @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321463.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 30 : Northwestern State vs. UT Rio Grande Valley (Site 2 / Game 1) @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321464.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 31 : McNeese vs. Nicholls (Site 1 / Game 1) @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321465.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 32 : La Salle vs. George Mason @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321466.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 33 : Davidson vs. VCU @ May 14 02:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321467.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 34 : Dayton vs. George Washington @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321468.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 35 : Fordham vs. St. Bonaventure @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321469.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 36 : Eastern Kentucky vs. Bellarmine @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321470.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 37 : Freddie & Harry @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321471.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 38 : Butler vs. St. John's @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321472.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 39 : En Espal-Real Madrid vs. Real Oviedo @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321473.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 40 : Ohio vs. Eastern Michigan @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321474.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 41 : Real Madrid vs. Real Oviedo @ May 14 03:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321475.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 42 : 2026 WSL Championship Tour: Corona Cero New Zealand Pro @ May 14 03:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321476.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 43 : Inside OSU Athletics @ May 14 04:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321477.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 44 : Arizona vs. Wake Forest (Quarterfinals) @ May 14 04:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321478.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 45 : Wofford vs. Samford @ May 14 05:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321479.m3u8
+
+#EXTINF:0 group-title="ESPN+",5/14 - ESPN FC @ May 14 05:00 PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 46 : Thu, 5/14 - ESPN FC @ May 14 05:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321480.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 47 : UNC Greensboro vs. Western Carolina @ May 14 05:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321481.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 48 : Mercer vs. East Tennessee State @ May 14 05:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321482.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 49 : Elon vs. South Carolina Upstate @ May 14 05:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321483.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 50 : MAC Track & Field Championship (Day One) @ May 14 05:15 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321484.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 51 : OVC Outdoor Track & Field Championship @ May 14 05:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321485.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 52 : UMass Lowell vs. Binghamton @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321486.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 53 : App State vs. Georgia State @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321487.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 54 : High Point vs. UNC Asheville @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321488.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 55 : Villanova vs. UConn @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321489.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 56 : Stetson vs. Queens University @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321490.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 57 : Texas Tech vs. #25 Cincinnati @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321491.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 58 : West Georgia vs. North Florida @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321492.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 59 : Squeeze Play @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321493.m3u8
+
+#EXTINF:0 group-title="ESPN+",5/14  - Women's Sports Now @ May 14 06:00 PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 60 : Thu, 5/14  - Women's Sports Now @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321494.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 61 : James Madison vs. Old Dominion @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321495.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 62 : WAC Outdoor Track & Field Championship @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321496.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 63 : Oakland vs. Milwaukee @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321497.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 64 : Missouri State vs. Kennesaw State @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321498.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 65 : Presbyterian vs. Gardner-Webb @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321499.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 66 : Longwood vs. Winthrop @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321500.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 67 : Kansas State vs. UCF @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321501.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 68 : The Citadel vs. VMI @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321502.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 69 : Radford vs. Charleston Southern @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321503.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 70 : Memphis vs. Charlotte @ May 14 06:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321504.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 71 : Wichita State vs. South Florida @ May 14 06:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321505.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 72 : East Carolina vs. Florida Atlantic @ May 14 06:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321506.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 73 : TCU vs. #9 West Virginia @ May 14 06:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321507.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 74 : Western Kentucky vs. Delaware @ May 14 06:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321508.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 75 : Belmont vs. Indiana State @ May 14 06:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321509.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 76 : CUSA Track & Field Championships @ May 14 06:50 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321510.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 77 : Arizona vs. #21 Oklahoma State @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321511.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 78 : Morehead State vs. Tennessee Tech @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321512.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 79 : Troy vs. UL Monroe @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321513.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 80 : Murray State vs. Evansville @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321514.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 81 : Stephen F. Austin vs. Lamar (Site 2 / Game 2) @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321515.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 82 : #20 Coastal Carolina vs. Louisiana @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321516.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 83 : Lipscomb vs. Central Arkansas @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321517.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 84 : Southeast Missouri State vs. Little Rock @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321518.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 85 : Valparaiso vs. Southern Illinois @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321519.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 86 : UAB vs. UTSA @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321520.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 87 : Marshall vs. Texas State @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321521.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 88 : Mississippi State vs. Virginia (Quarterfinals) @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321522.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 89 : Richmond vs. Saint Louis @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321523.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 90 : Liberty vs. Middle Tennessee @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321524.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 91 : UT Martin vs. SIU Edwardsville @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321525.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 92 : Florida Gulf Coast vs. Jacksonville @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321526.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 93 : Houston Christian vs. SE Louisiana (Site 1 / Game 2) @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321527.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 94 : Sam Houston vs. Louisiana Tech @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321528.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 95 : Lindenwood vs. Southern Indiana @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321529.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 96 : UIC vs. Bradley @ May 14 07:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321530.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 97 : American Outdoor Track and Field Championship (Day 1) @ May 14 07:15 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321531.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 98 : Sun Belt Track & Field Championship (Day One) @ May 14 07:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321532.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 99 : #22 Arizona State vs. Houston @ May 14 07:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321533.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 100 : Jacksonville State vs. Dallas Baptist @ May 14 07:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321534.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 101 : Arkansas State vs. South Alabama @ May 14 07:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321535.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 102 : Tulane vs. Rice @ May 14 07:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321536.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 103 : UC Riverside vs. UC Santa Barbara @ May 14 07:35 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321537.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 104 : Austin Peay vs. North Alabama @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321538.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 105 : Baylor vs. Utah @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321539.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 106 : Abilene Christian vs. Utah Tech @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321540.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 107 : #14 Kansas vs. BYU @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321541.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 108 : Georgia Southern vs. #8 Southern Miss @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321542.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 109 : Florida International vs. New Mexico State @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321543.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 110 : UT Arlington vs. Utah Valley @ May 14 08:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321544.m3u8
+
+#EXTINF:0 group-title="ESPN+",5/14 - Futbol Americas @ May 14 08:30 PM ET" tvg-logo="" group-title="ESPN+",ESPN+ 111 : Thu, 5/14 - Futbol Americas @ May 14 08:30 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321545.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 112 : Pepperdine vs. Santa Clara @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321546.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 113 : Cal State Bakersfield vs. UC Irvine @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321547.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 114 : California Baptist vs. UC Davis @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321548.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 115 : Long Beach State vs. Cal Poly @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321549.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 116 : Cal State Fullerton vs. UC San Diego @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321550.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 117 : Tarleton State vs. Sacramento State @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321551.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 118 : San Francisco vs. Saint Mary's @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321552.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 119 : Pacific vs. Portland @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321553.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 120 : Seattle U vs. Gonzaga @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321554.m3u8
+
+#EXTINF:0 group-title="ESPN+",ESPN+ 121 : Loyola Marymount vs. San Diego @ May 14 09:00 PM ET [fortv]
+#EXTGRP:ESPN+
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/321555.m3u8
+
+#EXTINF:0 group-title="Latino",MX: Foro TV HD [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57594.m3u8
+
+#EXTINF:0 group-title="Latino",MX | CNN  [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57619.m3u8
+
+#EXTINF:0 group-title="Latino",MX | Discovery Channel [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57625.m3u8
+
+#EXTINF:0 group-title="Latino",MX: Cinemax [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57638.m3u8
+
+#EXTINF:0 group-title="Latino",MX  DISTRITO COMEDIA [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57639.m3u8
+
+#EXTINF:0 group-title="Latino",US Latin Discovery (F) [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57645.m3u8
+
+#EXTINF:0 group-title="Latino",MX: Multimedios  [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57646.m3u8
+
+#EXTINF:0 group-title="Latino",ES: CANAL COCINA [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57698.m3u8
+
+#EXTINF:0 group-title="Latino",MX Multimedios HD [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57711.m3u8
+
+#EXTINF:0 group-title="Latino",Ecuavisa Guayaquil [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/57719.m3u8
+
+#EXTINF:0 group-title="Latino",LAT: TELEMUNDO 51 MIAMI HD [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/56410.m3u8
+
+#EXTINF:0 group-title="Latino",US Latin Hola TV (A) [fortv]
+#EXTGRP:Latino
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/A5aaXj/235081/139757.m3u8
+
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="Public;Weather",3Cat Càmeres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-logo="https://i.imgur.com/49ZENis.png" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts (1080p)
