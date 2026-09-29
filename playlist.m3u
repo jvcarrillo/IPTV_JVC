@@ -7,14 +7,6 @@ http://181.78.79.131:8000/play/a0pm
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mt
-#EXTINF:0 group-title="Entretenimiento",AE Mundo
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0t2
-#EXTINF:0 group-title="Peliculas",AMC HD
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0n2
 #EXTINF:0 group-title="Latinoamerica",ATV
 #EXTGRP:Latinoamerica
 #EXTVLCOPT:network-caching=1000
@@ -26,11 +18,7 @@ http://181.78.79.131:8000/play/a0q0
 #EXTINF:0 group-title="Entretenimiento",Adult Swim
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pk
-#EXTINF:0 group-title="Latinoamerica",America TV PY
-#EXTGRP:Latinoamerica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0ss
+http://181.78.79.131:8000/play/a0pk
 #EXTINF:0 group-title="Documentales",Animal Planet
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
