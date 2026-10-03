@@ -23,3 +23,11 @@ http://181.78.79.131:8000/play/a0pk
 #EXTGRP:Documentales
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0po
+#EXTINF:0 group-title="Religion",BETHEL TV
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pn
+#EXTINF:0 group-title="Entretenimiento",Baby First
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sw
