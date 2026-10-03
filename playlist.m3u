@@ -19,3 +19,7 @@ http://181.78.79.131:8000/play/a0q0
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pk
+#EXTINF:0 group-title="Documentales",Animal Planet
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0po
