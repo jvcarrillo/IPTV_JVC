@@ -1,33 +1,60 @@
-#EXTM3U
+#EXTM3
 #EXTINF:0 group-title="General",13 C
-#EXTGRP:General
+#EXTGRP:Chile
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pm
+
+
 #EXTINF:0 group-title="Entretenimiento",A&E HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mt
-#EXTINF:0 group-title="Latinoamerica",ATV
-#EXTGRP:Latinoamerica
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0sp
-#EXTINF:0 group-title="Peliculas",AXN HD
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0q0
-#EXTINF:0 group-title="Entretenimiento",Adult Swim
-#EXTGRP:Entretenimiento
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pk
-#EXTINF:0 group-title="Documentales",Animal Planet
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0po
-#EXTINF:0 group-title="Religion",BETHEL TV
-#EXTGRP:Religion
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pn
+
 #EXTINF:0 group-title="Entretenimiento",Baby First
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0sw
+
+
+
+#EXTINF:0 group-title="Entretenimiento",Adult Swim
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pk
+
+
+
+#EXTINF:0 group-title="Latinoamerica",ATV
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sp
+
+#EXTINF:0 group-title="Peliculas",AXN HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q0
+
+
+
+#EXTINF:0 group-title="Documentales",Animal Planet
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0po
+
+
+#EXTINF:0 group-title="Religion",BETHEL TV
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pn
+
+
+
+#EXTINF:0 group-title="Colombia",CANAL 1
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s2
+
+#EXTINF:0 group-title="Colombia",CANAL INSTITUCIONAL
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l8
